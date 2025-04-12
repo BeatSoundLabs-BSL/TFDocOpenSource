@@ -226,6 +226,8 @@ Se explican las ramas más prominentes:
 
 ## 2.1. Competidores.
 
+El análisis competitivo es una herramienta clave para la toma de decisiones estratégicas, ya que permite identificar oportunidades, amenazas y desarrollar ventajas competitivas sostenibles en el mercado. Su importancia radica en ayudar a las empresas a adaptarse a un entorno dinámico y a tomar decisiones fundamentadas. A continuación, se presenta la aplicación de esta herramienta en el desarrollo del proyecto y el análisis de los competidores.
+
 ### 2.1.1. Análisis competitivo.
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
