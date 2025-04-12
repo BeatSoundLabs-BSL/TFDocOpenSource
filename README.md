@@ -230,6 +230,261 @@ El análisis competitivo es una herramienta clave para la toma de decisiones est
 
 ### 2.1.1. Análisis competitivo.
 
+<table>
+  <tr>
+    <th colspan="6">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="1" align="center" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="5" align="center">¿Cómo identificar a nuestros principales competidores?</td>
+  </tr>
+  <tr>
+    <td colspan="5"  align="center">------</td>
+  </tr>
+  <tr>
+    <th colspan="2" align="center">Nombre y logo</th>
+    <td colspan="1" align="center">
+    <p><b>SoundNest</b></p>
+    <img src="https://files.catbox.moe/v4r0ho.jpg" alt="SoundNest Logo" width="80">
+    </td>
+    <td colspan="1" align="center">
+    <p><b>Pirate.com</b></p>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxgaSeyvVo2aTtfhUVjQLtteOXxA_NCsdlHw&s" alt="Pirate.com Logo" width="80">
+    </td>
+    <td colspan="1" align="center">
+    <p><b>Roomband</b></p>
+    <img src="https://media.licdn.com/dms/image/v2/C4D0BAQG2OMzFzsQtIw/company-logo_200_200/company-logo_200_200/0/1655734470225/roomband_logo?e=2147483647&v=beta&t=j4jX2uRzJZyo4VUQ3l9d52g7nCSSRU3a6HRQ9LFI2Jk" alt="Roomband Logo" width="80">
+    </td>
+    <td colspan="1" align="center">
+    <p><b>Jammed</b></p>
+    <img src="https://media.licdn.com/dms/image/v2/C4E0BAQFvcEuZ5Go0pg/company-logo_200_200/company-logo_200_200/0/1675188675955/jammed_bookings_logo?e=2147483647&v=beta&t=lqJGcHLUR8rpX4ro8KNpcNSadle9q7qUOHrFVBW5JFc" alt="Jammed Logo" width="80">
+    </td>
+  </tr>
+  <tr>
+    <th colspan="1" rowspan="2" align="center">Perfil</th>
+    <td colspan="1" align="center" >Overview</td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+  </tr>
+  <tr>
+    <td colspan="1" align="center">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="1" align="center" rowspan="2">Perfil de marketing</th>
+    <td colspan="1" align="center">Mercado objetivo</td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" align="center">Estrategias de marketing</td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="1" align="center" rowspan="3">Perfil del producto</th>
+    <td colspan="1" align="center">Productos & Servicios</td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" align="center">Precios y Costos</td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" align="center">Canales de distribución (Web y/o Móvil)</td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+    <td colspan="1"></td>
+  </tr>
+  <tr>
+    <th colspan="1" align="center" rowspan="4">Análisis SWOT</th>
+    <td colspan="1" align="center">Fortalezas</td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" align="center">Debilidades</td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <li></li>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" align="center">Oportunidades</td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" align="center">Amenazas</td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+    <td colspan="1">
+    <ul>
+    <li></li>
+    </ul>
+    </td>
+  </tr>
+</table>
+
+
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
 ## 2.2. Entrevistas.
