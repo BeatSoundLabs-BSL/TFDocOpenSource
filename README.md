@@ -234,6 +234,30 @@ Se explican las ramas más prominentes:
 
 ### 2.2.1. Diseño de entrevistas.
 
+#### Segmento Objetivo 1: Músicos Principiantes y Profesionales
+1. ¿Cuántos años tienes y en qué distrito de Lima resides?
+2. ¿Cuánto tiempo llevas tocando o componiendo música? ¿Es esta tu ocupación principal?
+3. ¿Con qué frecuencia necesitas alquilar una sala de ensayo o estudio de grabación?
+4. ¿Qué dispositivos digitales sueles usar para gestionar tus ensayos o grabaciones?
+5. ¿Qué tipo de características consideras más importantes al elegir un espacio para ensayar o grabar? (Por ejemplo, precio, acústica, ubicación, equipo disponible)
+6. ¿Cómo sueles gestionar tus reservas de salas de ensayo actualmente?
+7. ¿Has utilizado alguna plataforma o app para reservar espacios de ensayo en el pasado? ¿Cuál fue tu experiencia?
+8. ¿Cuáles son las principales frustraciones que experimentas al utilizar salas de ensayo o estudios musicales?
+9. ¿Qué opinas sobre el monitoreo de niveles sonoros en tiempo real en los estudios de ensayo? ¿Te gustaría contar con esa función?
+10. ¿En qué redes sociales o plataformas digitales te informas o interactúas más como músico?
+
+#### Segmento Objetivo 2: Administradores de Salas de Ensayo y Estudios Musicales
+1. ¿Cuántos años tienes y cuál es tu ocupación? ¿Trabajas exclusivamente en la gestión de espacios musicales o en otra actividad también?
+2. ¿Cuántas salas de ensayo o estudios gestionas y cuántos usuarios suelen alquilar los espacios mensualmente?
+3. ¿Qué tipo de herramientas digitales usas actualmente para gestionar las reservas, pagos y horarios de las salas?
+4. ¿Cuáles son los mayores desafíos que enfrentas al administrar una sala de ensayo o estudio musical?
+5. ¿Qué factores consideras más importantes al establecer tarifas y horarios para las salas de ensayo?
+6. ¿Usas alguna plataforma online para promocionar tus espacios de ensayo? ¿Cómo gestionas la visibilidad de tu sala?
+7. ¿Qué tan importante es para ti contar con un sistema automatizado para la gestión de reservas y pagos?
+8. ¿Te gustaría tener la capacidad de monitorear los niveles sonoros de los usuarios en tus espacios? ¿Qué beneficios o inconvenientes ves en esta funcionalidad?
+9. ¿Qué tipo de dispositivos o software utilizas para controlar los accesos y la seguridad en tus espacios de ensayo?
+10. ¿Qué plataformas o redes sociales utilizas para comunicarte con tus clientes y promocionar tus servicios?
+
 ### 2.2.2. Registro de entrevistas.
 
 ### 2.2.3. Análisis de entrevistas.
