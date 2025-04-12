@@ -86,9 +86,9 @@ Los integrantes son:
 
 Se explican las ramas más prominentes:
 
-**main:** Es representada por el color negro. Se trata de la rama principal del proyecto y se actualiza para cada entregable.<br>
-**develop:** Es representada por el color azul. Se trata de la rama principal para el proceso del desarrollo del proyecto.<br>
-**feature/Nombre-del-integrante**: <br>
+**<code>main</code>:** Es representada por el color negro. Se trata de la rama principal del proyecto y se actualiza para cada entregable.<br>
+**<code>develop</code>:** Es representada por el color azul. Se trata de la rama principal para el proceso del desarrollo del proyecto.<br>
+**<code>feature/feature-name</code>:** Es representada por el color verde. Se utiliza para el desarrollo de nuevas funcionalidades específicas del proyecto.
 
 </div>
 
