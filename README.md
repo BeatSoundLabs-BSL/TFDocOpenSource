@@ -301,3 +301,197 @@ Feature Assumptions:
 **Segmento objetivo 2: Administradores de sala de ensayos**
 
 Según el Ministerio de Comercio Exterior y Turismo (Mincetur, 2021), el Perú cuenta con más de 90,000 artistas populares registrados, de los cuales muchos pertenecen al sector musical, tanto emergente como profesional. Este sector, especialmente en Lima Metropolitana, sigue siendo altamente dependiente de herramientas digitales básicas como Excel y WhatsApp, con un 65% de músicos utilizando estas plataformas para gestionar sus actividades diarias. Sin embargo, solo el 10% de los administradores de salas de ensayo y estudios musicales emplean software especializado, lo que representa una oportunidad clara para introducir una solución tecnológica que automatice y optimice los procesos de reserva, gestión y control acústico en estos espacios. Además, un estudio de Microsoft (2023) revela que el 94% de las pequeñas y medianas empresas peruanas han invertido en tecnología, y el 68% ha reconocido obstáculos relacionados con la falta de conocimiento y personal capacitado en soluciones digitales. Esto subraya la necesidad de plataformas intuitivas como **SoundNest** que promuevan la digitalización de los espacios musicales, beneficiando tanto a músicos como a administradores.
+
+
+# Capítulo II: Requirements Elicitation & Analysis {#capítulo-ii:-requirements-elicitation-&-analysis}
+
+### 2.1 Competidores
+
+El análisis competitivo es una herramienta clave para la toma de decisiones estratégicas, ya que permite identificar oportunidades, amenazas y desarrollar ventajas competitivas sostenibles en el mercado. Su importancia radica en ayudar a las empresas a adaptarse a un entorno dinámico y a tomar decisiones fundamentadas. A continuación, se presenta la aplicación de esta herramienta en el desarrollo del proyecto y el análisis de los competidores.
+
+### 2.1.1 Análisis competitivo
+
+| Competitive Analysis Landscape |  |  |  |  |  |
+| ----- | :---- | :---- | :---- | :---- | :---- |
+| ¿Por qué llevar a cabo este análisis? |  | Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis |  |  |  |
+|  |  | Gracias al análisis de competencia en el mercado, es posible entender el entorno en el que nuestro producto operará. Esto permite identificar a los competidores directos e indirectos y desarrollar estrategias basadas en la información obtenida sobre su posicionamiento actual. |  |  |  |
+| **Nombre y Logo** |  | SoundNest | Pirate.com | Roomband | Jammbed |
+| Perfil | Overview |  |  Plataforma internacional que permite alquilar salas de ensayo y estudio por hora.  |  Plataforma chilena para reservar salas de ensayo musicales.  |  App española para encontrar, reservar y gestionar ensayos musicales.  |
+|  | Ventaja competitiva ¿Qué valor ofrece a los clientes? |  |  Gran infraestructura internacional, acceso 24/7, salas equipadas profesionalmente.  |  Oferta variada en Santiago con énfasis en la comunidad musical.  |  App amigable con interfaz simple, excelente integración con Google Maps.  |
+| Perfil de Marketing | Mercado Objetivo |  |  Músicos profesionales, creadores de contenido, productores musicales.  |  Bandas locales, músicos independientes.  |  Músicos que quieren agendar ensayos rápidamente desde el móvil.  |
+|  | Estrategias de marketing |  |  SEO internacional, publicidad pagada en redes, fuerte branding visual.  |  Instagram, recomendaciones locales, alianzas con espacios musicales.  | Tiktok, campañas en redes, facilidad de uso como gancho de conversión. |
+| Perfil de Producto | Productos & Servicios |  |  Alquiler de salas de ensayo y grabación con equipos incluidos, acceso 24/7, reservas online.  |  Reserva de salas en Santiago, opción de ensayos compartidos.  |  App para encontrar y reservar salas, administrar agenda musical.  |
+|  | Precios & Costos |  |  Tarifas por hora, precios más altos en zonas premium.  |  Tarifas competitivas, algunas promociones.  |  App gratuita, costo depende del lugar reservado.  |
+|  | Canales de distribución (Web y/o Móvil) |  |  Sitio web con sistema de reservas avanzado.  |  Página web con reservas directas.  | App móvil enfocada en la usabilidad. |
+| Análisis SWOT | Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.  |  |  |  |  |
+|  | Fortalezas |  |  Amplia infraestructura, marca reconocida, experiencia de usuario sólida.  |  Comunidad local activa, cercanía geográfica.  |  Interfaz intuitiva, app ligera, enfoque en practicidad.  |
+|  | Debilidades |  |  Costos elevados, poca personalización del servicio.  |  Presencia limitada fuera de Santiago.  |  Aún no muy conocida, depende de terceros para disponibilidad.  |
+|  | Oportunidades |  |  Expansión a nuevos países, ofrecer servicios complementarios.  |  Crecimiento del mercado musical chileno.  |  Integrarse con más estudios y mejorar experiencia digital.  |
+|  | Amenazas |  |  Competidores locales más económicos, gestión logística compleja.  |  Falta de innovación tecnológica frente a apps nuevas.  | Nuevos entrantes con propuestas similares o mejores en UX/UI. |
+
+Posibles competidores:
+
+1. Pirate.com \- [https://pirate.com/es/salas-de-ensayo/](https://pirate.com/es/salas-de-ensayo/)   
+2. Roomband \- [https://roomband.cl/](https://roomband.cl/)   
+3. Jammed \- [https://jammed.app/es/](https://jammed.app/es/) 
+
+### 2.1.2 Estrategias y tácticas frente a competidores {#2.1.2-estrategias-y-tácticas-frente-a-competidores}
+
+Con base en el análisis competitivo realizado anteriormente, se identificaron con claridad las principales fortalezas, oportunidades, debilidades y amenazas de los competidores. Esta información resulta clave para la formulación de estrategias y tácticas que faciliten un posicionamiento sólido frente a la competencia, especialmente en la etapa de introducción del servicio al mercado. A continuación, se detallan las estrategias y tácticas planteadas con el propósito de asegurar un lanzamiento exitoso y rentable.
+
+| Competidores |  |  |  |
+| :---- | :---- | :---- | :---- |
+| Estrategias |  |  |  |
+| Tácticas |  |  |  |
+
+### 2.2 Entrevistas
+
+### 2.2.1 Diseño de entrevistas
+
+**Segmento Objetivo 1: Músicos Principiantes y Profesionales**
+
+1. ¿Cuántos años tienes y en qué distrito de Lima resides?  
+2. ¿Cuánto tiempo llevas tocando o componiendo música? ¿Es esta tu ocupación principal?  
+3. ¿Con qué frecuencia necesitas alquilar una sala de ensayo o estudio de grabación?  
+4. ¿Qué dispositivos digitales sueles usar para gestionar tus ensayos o grabaciones?  
+5. ¿Qué tipo de características consideras más importantes al elegir un espacio para ensayar o grabar? (Por ejemplo, precio, acústica, ubicación, equipo disponible)  
+6. ¿Cómo sueles gestionar tus reservas de salas de ensayo actualmente?  
+7. ¿Has utilizado alguna plataforma o app para reservar espacios de ensayo en el pasado? ¿Cuál fue tu experiencia?  
+8. ¿Cuáles son las principales frustraciones que experimentas al utilizar salas de ensayo o estudios musicales?  
+9. ¿Qué opinas sobre el monitoreo de niveles sonoros en tiempo real en los estudios de ensayo? ¿Te gustaría contar con esa función?  
+10. ¿En qué redes sociales o plataformas digitales te informas o interactúas más como músico?
+
+**Segmento Objetivo 2: Administradores de Salas de Ensayo y Estudios Musicales**
+
+1. ¿Cuántos años tienes y cuál es tu ocupación? ¿Trabajas exclusivamente en la gestión de espacios musicales o en otra actividad también?  
+2. ¿Cuántas salas de ensayo o estudios gestionas y cuántos usuarios suelen alquilar los espacios mensualmente?  
+3. ¿Qué tipo de herramientas digitales usas actualmente para gestionar las reservas, pagos y horarios de las salas?  
+4. ¿Cuáles son los mayores desafíos que enfrentas al administrar una sala de ensayo o estudio musical?  
+5. ¿Qué factores consideras más importantes al establecer tarifas y horarios para las salas de ensayo?  
+6. ¿Usas alguna plataforma online para promocionar tus espacios de ensayo? ¿Cómo gestionas la visibilidad de tu sala?  
+7. ¿Qué tan importante es para ti contar con un sistema automatizado para la gestión de reservas y pagos?  
+8. ¿Te gustaría tener la capacidad de monitorear los niveles sonoros de los usuarios en tus espacios? ¿Qué beneficios o inconvenientes ves en esta funcionalidad?  
+9. ¿Qué tipo de dispositivos o software utilizas para controlar los accesos y la seguridad en tus espacios de ensayo?  
+10. ¿Qué plataformas o redes sociales utilizas para comunicarte con tus clientes y promocionar tus servicios?
+
+### 2.2.2 Registro de entrevistas
+
+**Segmento objetivo \#1: Músicos Principiantes y Profesionales**
+
+Entrevistado N°1: Mario André Cacho Seminario
+
+* Sexo: Masculino  
+* Edad: 21  
+* Ubicación en la que vive: Lima \- Surco
+
+Acerca de la entrevista:
+
+* Link: [https://youtu.be/aruK2VGJMXg](https://youtu.be/aruK2VGJMXg)   
+* Instante en el que inicia: 0:10  
+* Duración: 3:11
+
+Resumen:
+
+Para Mario, que lleva 6 meses iniciándose en la música como hobby y combina esta pasión con sus estudios, la experiencia de alquilar salas de ensayo se centra en la comodidad y eficiencia. Actualmente alquila estudios dos veces por semana y utiliza su propia cámara para grabar sus prácticas. Al momento de elegir un estudio, valora principalmente la ubicación, el tamaño, la acústica y el precio. Sus reservas las realiza de forma presencial, ya que no utiliza plataformas digitales para este proceso, lo que genera como principal frustración la gestión del tiempo de uso durante sus reservas. Además, considera que contar con un monitoreo de niveles sonoros sería una herramienta de gran ayuda para mejorar sus prácticas y cumplir con los límites adecuados. Finalmente, su canal principal de información e interacción en el ámbito musical es Instagram.
+
+Entrevistado N°2:
+
+* Sexo:  
+* Edad:  
+* Ubicación en la que vive:
+
+Acerca de la entrevista:
+
+* Link:  
+* Instante en el que inicia:  
+* Duración:
+
+Resumen:
+
+Entrevistado N°3:
+
+* Sexo:  
+* Edad:  
+* Ubicación en la que vive:
+
+Acerca de la entrevista:
+
+* Link:  
+* Instante en el que inicia:  
+* Duración:
+
+Resumen:
+
+**Segmento objetivo \#2: Administradores de Salas de Ensayo y Estudios Musicales**
+
+Entrevistado N°1:
+
+* Sexo:  
+* Edad:  
+* Ubicación en la que vive:
+
+Acerca de la entrevista:
+
+* Link:  
+* Instante en el que inicia:  
+* Duración:
+
+Resumen:
+
+Entrevistado N°2:
+
+* Sexo:  
+* Edad:  
+* Ubicación en la que vive:
+
+Acerca de la entrevista:
+
+* Link:  
+* Instante en el que inicia:  
+* Duración:
+
+Resumen:
+
+Entrevistado N°3:
+
+* Sexo:  
+* Edad:  
+* Ubicación en la que vive:
+
+Acerca de la entrevista:
+
+* Link:  
+* Instante en el que inicia:  
+* Duración:
+
+Resumen:
+
+### 2.2.3 Análisis de entrevistas
+
+## 2.3 Needfinding
+
+### 2.3.1 User Personas
+
+* User persona músico profesional
+
+![][image1]
+
+* User persona administrador de sala de ensayo
+
+![][image2]
+
+### 2.3.2 User Task Matrix
+
+### 2.3.3 User Journey Mapping
+
+### 2.3.4 Empathy Mapping
+
+### 2.3.5 As-is Scenario Mapping
+
+| Fases | Gestión de reservas y pagos | Control de uso de salas | Niveles sonoros | Trato con el cliente |
+| :---- | :---- | :---- | :---- | :---- |
+| Doing | Usan medios informales como Whatsapp y llamadas para agendar sesiones. Utilizan Yape para cobrar sesiones y solo verifican los pagos mediante capturas de pantalla. | No se registra el tiempo de uso de las salas ni se mantiene un historial de ello. | No se mide por falta de herramientas. | Se realiza informalmente, y muchas veces existen retrasos por ello. |
+| Thinking | Saben que el proceso es ineficiente, tedioso y pueden ocurrir fallos, pero no cuentan con otra alternativa. | Notan que algunas salas a veces son utilizadas incorrectamente por los clientes (Ej: Reciben quejas de ruido, instrumentos dañados). Pero no pueden revisar qué cliente pudo ser responsable. | Saben que reciben quejas de ruido y que corren riesgos legales pero no tienen una manera de cómo prevenirlo. | Piensan que una solución más profesional fomentaría la fidelización de clientes. |
+| Feeling | Frustración por tener que estar constantemente pendientes a mensajes y datos para manejar las reservas. | Inseguridad al no saber si están aprovechando bien sus recursos ni quién causa problemas. | Ansiedad ante la posibilidad de quejas o interrupciones. | Incertidumbre y preocupación por la poca profesionalidad que puede ahuyentar clientes exigentes. |
+
+## 2.4 Ubiquitous Language
