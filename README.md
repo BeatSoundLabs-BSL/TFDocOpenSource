@@ -424,19 +424,21 @@ Resumen:
 
 **Segmento objetivo \#2: Administradores de Salas de Ensayo y Estudios Musicales**
 
-Entrevistado N°1:
+EEntrevistado N°1:
 
-* Sexo:  
-* Edad:  
-* Ubicación en la que vive:
+* Sexo: Femenino  
+* Edad: 51  
+* Ubicación en la que vive: Lima \- Surco
 
 Acerca de la entrevista:
 
-* Link:  
-* Instante en el que inicia:  
-* Duración:
+* Link: [https://youtu.be/MbIscVUBkzs](https://youtu.be/MbIscVUBkzs)   
+* Instante en el que inicia: 0:09  
+* Duración: 3:17
 
 Resumen:
+
+Para Bárbara, quien además de trabajar en una aerolínea gestiona el alquiler de una sala de ensayo en su casa para músicos, la organización y control de su servicio es un desafío constante. Actualmente administra una única sala con capacidad para cinco personas con sus instrumentos y realiza las reservas a pedido, gestionando la comunicación principalmente a través de WhatsApp, Instagram y Facebook, mientras que los pagos los recibe mediante Yape o transferencias vía BCP. Considera complicado el proceso de agendar horarios y organizar las reservas, por lo que valora mucho un sistema que facilite la gestión tanto de horarios como de pagos, permitiéndole mantener un mejor control y equilibrio entre disponibilidad y cobros. Le gustaría contar con métodos de pago más flexibles y justos para ambas partes y considera importante poder monitorear los niveles sonoros de la sala, tanto para evitar molestias como para proteger la salud auditiva de sus clientes. Actualmente no utiliza ningún software especializado para la administración de su sala de ensayo.
 
 Entrevistado N°2:
 
