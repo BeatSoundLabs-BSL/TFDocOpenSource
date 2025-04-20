@@ -517,6 +517,42 @@ El análisis competitivo es una herramienta clave para la toma de decisiones est
 
 ### 2.2.2. Registro de entrevistas.
 
+**Segmento objetivo #1: Músicos Principiantes y Profesionales**
+Entrevistado N°1: Mario André Cacho Seminario
+
+* Sexo: Masculino  
+* Edad: 21  
+* Ubicación en la que vive: Lima \- Surco
+
+Acerca de la entrevista:
+
+* Link: [https://youtu.be/aruK2VGJMXg](https://youtu.be/aruK2VGJMXg)   
+* Instante en el que inicia: 0:10  
+* Duración: 3:11
+
+Resumen:
+
+Para Mario, que lleva 6 meses iniciándose en la música como hobby y combina esta pasión con sus estudios, la experiencia de alquilar salas de ensayo se centra en la comodidad y eficiencia. Actualmente alquila estudios dos veces por semana y utiliza su propia cámara para grabar sus prácticas. Al momento de elegir un estudio, valora principalmente la ubicación, el tamaño, la acústica y el precio. Sus reservas las realiza de forma presencial, ya que no utiliza plataformas digitales para este proceso, lo que genera como principal frustración la gestión del tiempo de uso durante sus reservas. Además, considera que contar con un monitoreo de niveles sonoros sería una herramienta de gran ayuda para mejorar sus prácticas y cumplir con los límites adecuados. Finalmente, su canal principal de información e interacción en el ámbito musical es Instagram.
+
+
+**Segmento objetivo #2: Administradores de Salas de Ensayo y Estudios Musicales**
+Entrevistado N°1:
+
+* Sexo: Femenino  
+* Edad: 51  
+* Ubicación en la que vive: Lima \- Surco
+
+Acerca de la entrevista:
+
+* Link: [https://youtu.be/MbIscVUBkzs](https://youtu.be/MbIscVUBkzs)   
+* Instante en el que inicia: 0:09  
+* Duración: 3:17
+
+Resumen:
+
+Para Bárbara, quien además de trabajar en una aerolínea gestiona el alquiler de una sala de ensayo en su casa para músicos, la organización y control de su servicio es un desafío constante. Actualmente administra una única sala con capacidad para cinco personas con sus instrumentos y realiza las reservas a pedido, gestionando la comunicación principalmente a través de WhatsApp, Instagram y Facebook, mientras que los pagos los recibe mediante Yape o transferencias vía BCP. Considera complicado el proceso de agendar horarios y organizar las reservas, por lo que valora mucho un sistema que facilite la gestión tanto de horarios como de pagos, permitiéndole mantener un mejor control y equilibrio entre disponibilidad y cobros. Le gustaría contar con métodos de pago más flexibles y justos para ambas partes y considera importante poder monitorear los niveles sonoros de la sala, tanto para evitar molestias como para proteger la salud auditiva de sus clientes. Actualmente no utiliza ningún software especializado para la administración de su sala de ensayo.
+
+
 ### 2.2.3. Análisis de entrevistas.
 
 ## 2.3. Needfinding.
@@ -537,6 +573,80 @@ El análisis competitivo es una herramienta clave para la toma de decisiones est
 
 ## 3.2. User Stories.
 
+* EPICS
+
+Las épicas definidas para el proyecto SoundNest están orientadas a satisfacer las necesidades tanto de los músicos como de los administradores de salas de ensayo y estudios musicales. Estas épicas cubren funcionalidades clave que permiten una experiencia fluida en la reserva, gestión y monitoreo de espacios musicales a través de una plataforma digital intuitiva. Desde la navegación inicial en la landing page, hasta el proceso de reserva, pagos y notificaciones en tiempo real, cada épica proporciona una estructura organizada para el desarrollo ágil de funcionalidades. Así, se garantiza una solución tecnológica alineada con los objetivos del proyecto y con un enfoque centrado en la experiencia del usuario.
+
+| Epic / Story ID | Título | Descripción |
+| :---: | ----- | ----- |
+| EP01 | Navegación en Landing Page	 | Como visitante de SoundNest, deseo navegar intuitivamente por la landing page para entender la propuesta de valor y acceder a funciones clave. |
+| EP02 | Autenticación y Registro de Usuarios | Como músico o administrador, deseo poder registrarme o iniciar sesión de forma segura para acceder a las funcionalidades de la plataforma. |
+| EP03 | Recuperación de Contraseña | Como usuario de SoundNest, deseo recuperar mi contraseña fácilmente en caso de olvidarla para no perder acceso a mi cuenta. |
+| EP04 | Visualización de Servicios y Beneficios | Como visitante, deseo ver de manera clara los beneficios de usar SoundNest como músico o administrador para decidir unirme a la plataforma. |
+| EP05 | Soporte y Preguntas Frecuentes | Como usuario, deseo acceder a una sección de soporte y preguntas frecuentes para resolver dudas comunes sin depender de atención al cliente. |
+| EP06 | Gestión de Reservas | Como músico, deseo poder reservar, modificar o cancelar una sala de ensayo de forma remota para organizar mis sesiones fácilmente. |
+| EP07 | Panel de Gestión para Administradores | Como administrador, deseo gestionar horarios, disponibilidad y reservas desde un panel centralizado para simplificar la operación del estudio. |
+| EP08 | Monitoreo Sonoro en Tiempo Real | Como administrador, deseo monitorear el nivel de sonido en tiempo real para asegurar el cumplimiento de normativas acústicas. |
+| EP09 | Visualización de Disponibilidad y Precios | Como músico, deseo ver en tiempo real los espacios disponibles, precios y características para tomar decisiones informadas antes de reservar. |
+| EP10 | Gestión de Pagos y Transacciones | Como usuario, deseo pagar y gestionar mis transacciones de forma segura para completar mis reservas sin complicaciones. |
+| EP11 | Notificaciones y Confirmaciones en Tiempo Real | Como usuario, deseo recibir notificaciones sobre reservas, pagos y cambios en tiempo real para estar al tanto de mi actividad en la plataforma. |
+
+* User Stories
+
+| Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
+| :---: | ----- | ----- | ----- | :---: |
+| US01 | Navegación clara por secciones | Como visitante, deseo una barra de navegación simple para acceder fácilmente a información clave. | **Escenario 01:** Given que estoy en la landing, When hago clic en el menú, Then debería ver “Inicio”, “Reservar”, “Iniciar sesión” y “Contáctanos”. | EP01 |
+| US02 | Botones visibles y funcionales | Como visitante, deseo ver botones llamativos de acción para poder registrarme o reservar rápido. | **Escenario 01:** Given que estoy haciendo scroll, When llegue a un CTA, Then debería poder hacer clic y ser redirigido al registro o reserva. | EP01 |
+| US03 | Diseño responsivo del sitio | Como visitante, deseo que la página se adapte a mi dispositivo para navegar cómodamente. | **Escenario 01:** Given que uso un celular o laptop, When accedo a la página, Then todo el contenido debe ser visible y adaptado. | EP01 |
+| US04 | Registro de músico con correo | Como músico, deseo registrarme con mi correo para poder reservar salas. | **Escenario 01:** Given que estoy en la vista de registro, When ingreso datos válidos, Then mi cuenta debe crearse. | EP02 |
+| US05 | Registro de administrador con correo | Como administrador, deseo crear una cuenta para gestionar mi sala. | **Escenario 01:** Given que selecciono "Administrador", When registro mi sala, Then debería quedar asociada a mi cuenta. | EP02 |
+| US06 | Ingreso con redes sociales | Como usuario, deseo iniciar sesión con Google para facilitar el acceso. | **Escenario 01:** Given que hago clic en “Google”, When autentique mi cuenta, Then debo ingresar directamente. | EP02 |
+| US07 | Roles diferenciados en login | Como usuario, deseo que al iniciar sesión me lleve a mi panel según sea músico o administrador. | **Escenario 01:** Given que soy músico, When inicio sesión, Then debería ver opciones para buscar y reservar. | EP02 |
+| US08 | Validación de datos | Como usuario, deseo recibir errores claros si algo está mal al registrarme. | **Escenario 01:** Given que ingreso un correo inválido, When intento registrar, Then debería ver un mensaje de error. | EP02 |
+| US09 | Solicitar recuperación de contraseña | Como usuario, deseo recuperar mi contraseña si la olvido. | **Escenario 01:** Given que olvidé mi contraseña, When ingreso mi correo, Then debería recibir un enlace. | EP03 |
+| US10 | Restablecer contraseña vía enlace | Como usuario, deseo restablecer mi contraseña desde mi correo. | **Escenario 01:** Given que recibí el enlace, When accedo, Then debo poder ingresar una nueva contraseña válida. | EP03 |
+| US11 | Conocer beneficios de SoundNest | Como músico, deseo saber por qué usar SoundNest para tomar una mejor decisión. | **Escenario 01:** Given que estoy en la landing, When entro a la sección de beneficios, Then debería ver sus ventajas.  | EP04 |
+| US12 | Ver soluciones para administradores | Como administrador, deseo ver cómo SoundNest me ayuda con la gestión. | **Escenario 01:** Given que accedo a la landing, When entro a “Para Administradores”, Then debería ver funciones relevantes. | EP04 |
+| US13 | Comparación con métodos tradicionales | Como visitante, deseo ver por qué esta plataforma es mejor que gestionar manualmente | **Escenario 01:** Given que estoy en “¿Por qué digitalizar?”, When leo la sección, Then debería ver los beneficios vs lo manual. | EP04 |
+| US14 | Ver sección de preguntas frecuentes | Como visitante, deseo resolver dudas comunes sin contactar a soporte. | **Escenario 01:** Given que entro a FAQ, When selecciono una pregunta, Then debería ver su respuesta expandida.  | EP05 |
+| US15 | Contactar a soporte por formulario | Como usuario, deseo enviar consultas específicas desde la web. | **Escenario 01:** Given que lleno el formulario de contacto, cuando lo envío, Then debería recibir una confirmación. | EP05 |
+| US16 | Reserva Rápida desde Perfil del Estudio | Como músico, deseo poder reservar una sala desde su perfil para agilizar el proceso de reserva. | **Escenario 01:** Given que estoy en el perfil del estudio, When presiono "Reservar ahora", Then debería redirigirme al formulario de reserva con los datos del estudio cargados. | EP06 |
+| US17 | Cancelación de Reserva con Anticipación | Como músico, deseo cancelar una reserva con al menos 24 horas de anticipación para evitar penalidades. | **Escenario 01:** Given que estoy en mi historial de reservas, When cancelo una con 24h de anticipación, Then debería procesarse sin penalidad. | EP06 |
+| US18 | Modificación de Fecha u Horario | Como músico, deseo modificar el horario o fecha de una reserva existente para adaptarme a cambios de agenda. | **Escenario 01:** Given que tengo una reserva activa, When selecciono "Editar", Then debería poder cambiar fecha y hora si hay disponibilidad. | EP06 |
+| US19 | Historial de Reservas Pasadas | Como músico, deseo ver un historial de mis reservas pasadas para llevar registro de mis ensayos. | **Escenario 01:** Given que estoy en mi perfil, When accedo a "Historial", Then debería ver mis reservas previas con fecha, hora y estudio. | EP06 |
+| US20 | Reservas Recorrentes | Como músico, deseo configurar reservas semanales automáticas para no reservar manualmente cada vez. | **Escenario 01:** Given que estoy creando una reserva, When marco “Repetir cada semana”, Then debería agendarse automáticamente por el periodo seleccionado. | EP06 |
+| US21 | Visualización de Calendario de Reservas | Como administrador, deseo ver un calendario con todas las reservas para gestionar eficientemente los horarios. | **Escenario 01:** Given que accedo a mi panel, When visualizo el calendario, Then debería ver las reservas en formato semanal o mensual. | EP07 |
+| US22 | Notificación de Nuevas Reservas | Como administrador, deseo recibir alertas cuando se genere una nueva reserva en mi sala. | **Escenario 01:** Given que un usuario reserva, When se completa el proceso, Then debería recibir una notificación inmediata en el panel. | EP07 |
+| US23 | Bloquear Horarios No Disponibles | Como administrador, deseo bloquear horarios no disponibles para evitar reservas fuera de horario o por mantenimiento. | **Escenario 01:** Given que entro al panel, When bloqueo una franja horaria, Then esta no debería estar disponible para nuevos usuarios. | EP07 |
+| US24 | Gestión de Perfiles de Sala | Como administrador, deseo editar el perfil de mis salas para mantener actualizada la información y precios. | **Escenario 01:** Given que accedo a mi panel, When edito la sala, Then debería poder modificar nombre, equipo disponible, fotos y tarifas. | EP07 |
+| US25 | Reporte de Uso Mensual | Como administrador, deseo descargar un reporte mensual del uso de mis salas para llevar control operativo. | **Escenario 01:** Given que estoy en el panel de administración, When selecciono “Descargar reporte”, Then debería obtener un PDF/Excel con datos de uso. | EP07 |
+| US26 | Visualización del Nivel Sonoro en Vivo | Como administrador, deseo ver en tiempo real los decibeles que se registran en cada sala para asegurar cumplimiento normativo. | **Escenario 01:** Given que estoy en mi panel, When visualizo una sala, Then debería ver el gráfico de nivel sonoro actualizado cada pocos segundos. | EP08 |
+| US27 | Notificación por Exceso de Ruido | Como administrador, deseo recibir una alerta si el nivel de sonido supera los límites establecidos. | **Escenario 01:** Given que el sonido supera los decibeles permitidos, When ocurre el evento, Then debería recibir una notificación inmediata. | EP08 |
+| US28 | Registro Histórico de Decibeles | Como administrador, deseo consultar el histórico de niveles sonoros por día y sala para análisis posterior. | **Escenario 01:** Given que accedo al historial, When selecciono una fecha, Then debería ver el registro por horas. | EP08 |
+| US29 | Visualización del Nivel Sonoro por el Músico | Como músico, deseo ver en mi interfaz el nivel sonoro en tiempo real para evitar infringir las normas. | **Escenario 01:** Given que estoy en sesión, When supero un límite, Then debería visualizar una advertencia en pantalla. | EP08 |
+| US30 | Exportar Reporte Acústico | Como administrador, deseo exportar un informe con datos de sonido para tener respaldo ante auditorías o reclamos. | **Escenario 01:** Given que estoy en el panel, When selecciono “Exportar reporte acústico”, Then debería generarse un documento con los datos. | EP08 |
+| US31 | Consulta de Disponibilidad por Horario | Como músico, deseo consultar la disponibilidad de una sala en una fecha específica para planificar mi ensayo. | **Escenario 01:** Given que estoy en el perfil de sala, When selecciono una fecha, Then debería ver los bloques horarios disponibles. | EP09 |
+| US32 | Comparación de Precios entre Salas | Como músico, deseo comparar precios entre diferentes salas disponibles para elegir la opción más conveniente. | **Escenario 01:** Given que filtro por zona, When veo resultados, Then debería poder ordenar por precio ascendente o descendente. | EP09 |
+| US33 | Visualización de Promociones Activas | Como músico, deseo ver promociones o descuentos activos para aprovechar mejores precios. | **Escenario 01:** Given que hay promociones, When navego por la plataforma, Then deberían mostrarse en la vista de la sala y en destacados. | EP09 |
+| US34 | Filtros de búsqueda por tipo de sala | Como músico, deseo filtrar las salas según si son de ensayo, grabación o mezcla para encontrar lo que necesito. | **Escenario 01:** Given que busco una sala, When aplico el filtro, Then solo deberían mostrarse las que cumplen con el tipo seleccionado. | EP09 |
+| US35 | Vista en mapa de salas disponibles | Como músico, deseo ver en un mapa la ubicación de las salas disponibles para elegir la más cercana. | **Escenario 01:** Given que estoy en la búsqueda, When selecciono “Vista Mapa”, Then debería ver pines geolocalizados con disponibilidad. | EP09 |
+| US36 | Pago con tarjeta de crédito/débito | Como músico, deseo pagar la reserva con tarjeta para asegurar mi sesión de manera inmediata. | **Escenario 01:** Given que elijo pagar, When ingreso los datos de tarjeta, Then debería completarse la transacción si es válida. | EP10 |
+| US37 | Confirmación inmediata del pago | Como músico, deseo recibir confirmación al instante luego de pagar para saber que la reserva está asegurada. | **Escenario 01:** Given que se procesa el pago, When este es exitoso, Then debería ver una pantalla de confirmación y recibir un correo. | EP10 |
+| US38 | Historial de pagos y facturación | Como músico, deseo ver el historial de mis pagos y facturas para llevar control de mis gastos musicales. | **Escenario 01:** Given que accedo a mi perfil, When entro a la sección "Pagos", Then debería ver fecha, sala, monto y factura descargable. | EP10 |
+| US39 | Métodos de pago alternativos | Como músico, deseo contar con métodos de pago locales para facilitar el proceso si no tengo tarjeta. | **Escenario 01:** Given que elijo pagar, When selecciono “Yape” o “Plin”, Then debería generarse el QR y confirmarse el pago. | EP10 |
+| US40 | Devolución por cancelación anticipada | Como músico, deseo obtener reembolso parcial o total al cancelar con anticipación según las políticas del estudio. | **Escenario 01:** Given que cancelo una reserva, When lo hago dentro del tiempo permitido, Then debería recibir el reembolso correspondiente. | EP10 |
+| US41 | Confirmación de reserva por correo y app | Como músico, deseo recibir confirmación por distintos medios para estar seguro de que la reserva está hecha. | **Escenario 01:** Given que finalizo una reserva, When se procesa correctamente, Then debería recibir una notificación en la app y un correo. | EP11 |
+| US42 | Recordatorio antes de la reserva | Como músico, deseo recibir un recordatorio antes de mi ensayo para no olvidarlo. | **Escenario 01:** Given que tengo una reserva hoy, When faltan 2 horas, Then debería recibir una notificación de recordatorio. | EP11 |
+| US43 | Notificación de cambios en reserva | Como músico, deseo que me notifiquen si mi reserva es modificada por el administrador. | **Escenario 01:** Given que un administrador cambia mi horario, When el cambio se confirma, Then debería recibir una alerta con los nuevos datos. | EP11 |
+| US44 | Notificación de cancelación por mantenimiento | Como músico, deseo ser notificado si mi reserva es cancelada por problemas operativos para reorganizarme. | **Escenario 01:** Given que el administrador cancela por mantenimiento, When ocurre, Then debería recibir una notificación y reembolso si aplica. | EP11 |
+| US45 | Confirmación de pago exitoso | Como músico, deseo recibir una notificación inmediata si el pago fue exitoso para saber que todo está en orden. | **Escenario 01:** Given que realizo un pago, When es exitoso, Then debería recibir un mensaje confirmando el monto y la reserva asociada. | EP11 |
+| US46 | Notificación de disponibilidad en sala favorita | Como músico, deseo recibir alertas cuando una sala favorita esté disponible para reservar rápidamente. | **Escenario 01:** Given que una sala está ocupada, When vuelve a estar disponible, Then debería recibir una notificación si la tengo marcada como favorita. | EP11 |
+| US47 | Confirmación de reembolso procesado | Como músico, deseo recibir una confirmación cuando un reembolso haya sido ejecutado tras una cancelación. | **Escenario 01:** Given que se me aprobó una devolución, When el sistema la procesa, Then debería recibir una notificación y detalle del reembolso. | EP11 |
+| US48 | Notificación de mensajes del administrador | Como músico, deseo recibir notificaciones si un administrador me envía un mensaje para coordinar detalles. | **Escenario 01:** Given que el administrador envía un mensaje, When esto ocurre, Then debería recibir un aviso en mi bandeja y notificación. | EP11 |
+| US49 | Notificación de comentarios recibidos | Como administrador, deseo ser notificado cuando un músico deja una calificación o comentario sobre mi sala. | **Escenario 01:** Given que un usuario califica mi sala, When publica su opinión, Then debería recibir una notificación. | EP11 |
+| US50 | Alertas de fallos en el sistema de reserva | Como administrador, deseo recibir alertas si hay errores en el sistema de reservas para solucionarlo rápidamente. | **Escenario 01:** Given que se detecta un fallo, When el sistema lo identifica, Then debería enviarle un aviso urgente. | EP11 |
+
+
 ### 3.2.1 Requisitos Funcionales
 
 ### 3.2.2 Requisitos No Funcionales
@@ -544,6 +654,61 @@ El análisis competitivo es una herramienta clave para la toma de decisiones est
 ## 3.3. Impact Mapping.
 
 ## 3.4. Product Backlog.
+
+Se utilizó la escala Fibonacci para la estimación de los Story Points. En total se tuvieron **180** Story Points.
+
+| \# Orden | Epic / Story ID | Título | Descripción | Story Points (1/2/3/5/8) |
+| :---: | :---: | ----- | ----- | :---: |
+| 1 | US01 | Navegación clara por secciones | Como visitante, deseo una barra de navegación simple para acceder fácilmente a información clave. | 3 |
+| 2 | US02 | Botones visibles y funcionales | Como visitante, deseo ver botones llamativos de acción para poder registrarme o reservar rápido. | 3 |
+| 3 | US03 | Diseño responsivo del sitio | Como visitante, deseo que la página se adapte a mi dispositivo para navegar cómodamente. | 3 |
+| 4 | US04 | Registro de músico con correo | Como músico, deseo registrarme con mi correo para poder reservar salas. | 5 |
+| 5 | US05 | Registro de administrador con correo | Como administrador, deseo crear una cuenta para gestionar mi sala. | 5 |
+| 6 | US06 | Ingreso con redes sociales | Como usuario, deseo iniciar sesión con Google para facilitar el acceso. | 5 |
+| 7 | US07 | Roles diferenciados en login | Como usuario, deseo que al iniciar sesión me lleve a mi panel según sea músico o administrador. | 5 |
+| 8 | US08 | Validación de datos | Como usuario, deseo recibir errores claros si algo está mal al registrarme. | 3 |
+| 9 | US09 | Solicitar recuperación de contraseña | Como usuario, deseo recuperar mi contraseña si la olvido. | 2 |
+| 10 | US10 | Restablecer contraseña vía enlace | Como usuario, deseo restablecer mi contraseña desde mi correo. | 2 |
+| 11 | US11 | Conocer beneficios de SoundNest | Como músico, deseo saber por qué usar SoundNest para tomar una mejor decisión. | 1 |
+| 12 | US12 | Ver soluciones para administradores | Como administrador, deseo ver cómo SoundNest me ayuda con la gestión. | 8 |
+| 13 | US13 | Comparación con métodos tradicionales | Como visitante, deseo ver por qué esta plataforma es mejor que gestionar manualmente | 8 |
+| 14 | US14 | Ver sección de preguntas frecuentes | Como visitante, deseo resolver dudas comunes sin contactar a soporte. | 2 |
+| 15 | US15 | Contactar a soporte por formulario | Como usuario, deseo enviar consultas específicas desde la web. | 2 |
+| 16 | US16 | Reserva Rápida desde Perfil del Estudio | Como músico, deseo poder reservar una sala desde su perfil para agilizar el proceso de reserva. | 5 |
+| 17 | US17 | Cancelación de Reserva con Anticipación | Como músico, deseo cancelar una reserva con al menos 24 horas de anticipación para evitar penalidades. | 5 |
+| 18 | US18 | Modificación de Fecha u Horario | Como músico, deseo modificar el horario o fecha de una reserva existente para adaptarme a cambios de agenda. | 5 |
+| 19 | US19 | Historial de Reservas Pasadas | Como músico, deseo ver un historial de mis reservas pasadas para llevar registro de mis ensayos. | 3 |
+| 20 | US20 | Reservas Recurrentes | Como músico, deseo configurar reservas semanales automáticas para no reservar manualmente cada vez. | 3 |
+| 21 | US21 | Visualización de Calendario de Reservas | Como administrador, deseo ver un calendario con todas las reservas para gestionar eficientemente los horarios. | 3 |
+| 22 | US22 | Notificación de Nuevas Reservas | Como administrador, deseo recibir alertas cuando se genere una nueva reserva en mi sala. | 3 |
+| 23 | US23 | Bloquear Horarios No Disponibles | Como administrador, deseo bloquear horarios no disponibles para evitar reservas fuera de horario o por mantenimiento. | 3 |
+| 24 | US24 | Gestión de Perfiles de Sala | Como administrador, deseo editar el perfil de mis salas para mantener actualizada la información y precios. | 2 |
+| 25 | US25 | Reporte de Uso Mensual | Como administrador, deseo descargar un reporte mensual del uso de mis salas para llevar control operativo. | 5 |
+| 26 | US26 | Visualización del Nivel Sonoro en Vivo | Como administrador, deseo ver en tiempo real los decibeles que se registran en cada sala para asegurar cumplimiento normativo. | 5 |
+| 27 | US27 | Notificación por Exceso de Ruido | Como administrador, deseo recibir una alerta si el nivel de sonido supera los límites establecidos. | 8 |
+| 28 | US28 | Registro Histórico de Decibeles | Como administrador, deseo consultar el histórico de niveles sonoros por día y sala para análisis posterior. | 5 |
+| 29 | US29 | Visualización del Nivel Sonoro por el Músico | Como músico, deseo ver en mi interfaz el nivel sonoro en tiempo real para evitar infringir las normas. | 5 |
+| 30 | US30 | Exportar Reporte Acústico | Como administrador, deseo exportar un informe con datos de sonido para tener respaldo ante auditorías o reclamos. | 3 |
+| 31 | US31 | Consulta de Disponibilidad por Horario | Como músico, deseo consultar la disponibilidad de una sala en una fecha específica para planificar mi ensayo. | 5 |
+| 32 | US32 | Comparación de Precios entre Salas | Como músico, deseo comparar precios entre diferentes salas disponibles para elegir la opción más conveniente. | 5 |
+| 33 | US33 | Visualización de Promociones Activas | Como músico, deseo ver promociones o descuentos activos para aprovechar mejores precios. | 3 |
+| 34 | US34 | Filtros de búsqueda por tipo de sala | Como músico, deseo filtrar las salas según si son de ensayo, grabación o mezcla para encontrar lo que necesito. | 3 |
+| 35 | US35 | Vista en mapa de salas disponibles | Como músico, deseo ver en un mapa la ubicación de las salas disponibles para elegir la más cercana. | 3 |
+| 36 | US36 | Pago con tarjeta de crédito/débito | Como músico, deseo pagar la reserva con tarjeta para asegurar mi sesión de manera inmediata. | 3 |
+| 37 | US37 | Confirmación inmediata del pago | Como músico, deseo recibir confirmación al instante luego de pagar para saber que la reserva está asegurada. | 2 |
+| 38 | US38 | Historial de pagos y facturación | Como músico, deseo ver el historial de mis pagos y facturas para llevar control de mis gastos musicales. | 2 |
+| 39 | US39 | Métodos de pago alternativos | Como músico, deseo contar con métodos de pago locales para facilitar el proceso si no tengo tarjeta. | 3 |
+| 40 | US40 | Devolución por cancelación anticipada | Como músico, deseo obtener reembolso parcial o total al cancelar con anticipación según las políticas del estudio. | 3 |
+| 41 | US41 | Confirmación de reserva por correo y app | Como músico, deseo recibir confirmación por distintos medios para estar seguro de que la reserva está hecha. | 2 |
+| 42 | US42 | Recordatorio antes de la reserva | Como músico, deseo recibir un recordatorio antes de mi ensayo para no olvidarlo. | 2 |
+| 43 | US43 | Notificación de cambios en reserva | Como músico, deseo que me notifiquen si mi reserva es modificada por el administrador. | 2 |
+| 44 | US44 | Notificación de cancelación por mantenimiento | Como músico, deseo ser notificado si mi reserva es cancelada por problemas operativos para reorganizarme. | 2 |
+| 45 | US45 | Confirmación de pago exitoso | Como músico, deseo recibir una notificación inmediata si el pago fue exitoso para saber que todo está en orden. | 3 |
+| 46 | US46 | Notificación de disponibilidad en sala favorita | Como músico, deseo recibir alertas cuando una sala favorita esté disponible para reservar rápidamente. | 5 |
+| 47 | US47 | Confirmación de reembolso procesado | Como músico, deseo recibir una confirmación cuando un reembolso haya sido ejecutado tras una cancelación. | 5 |
+| 48 | US48 | Notificación de mensajes del administrador | Como músico, deseo recibir notificaciones si un administrador me envía un mensaje para coordinar detalles. | 3 |
+| 49 | US49 | Notificación de comentarios recibidos | Como administrador, deseo ser notificado cuando un músico deja una calificación o comentario sobre mi sala. | 2 |
+| 50 | US50 | Alertas de fallos en el sistema de reserva | Como administrador, deseo recibir alertas si hay errores en el sistema de reservas para solucionarlo rápidamente. | 2 |
 
 # Capítulo IV: Product Design
 
