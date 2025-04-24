@@ -196,7 +196,7 @@ Se explican las ramas más prominentes:
 | **Perfil**                                     | **Foto**                                                                       |
 |------------------------------------------------|--------------------------------------------------------------------------------|
 | **Hernández Uchuya María Patricia**<br>        | <img src="" alt="maria image" width="200">  |
-| **Millones Espinoza, Jesús Andrés**<br>        | <img src="" alt="jesus image" width="200">  |
+| **Millones Espinoza, Jesús Andrés**<br> Estudiante en Ingeniería de Software en la UPC. Me considero una persona puntual, orientada a encontrar soluciones rápidas y lógicas frente a los problemas. Tengo experiencia con el sistema operativo Linux y el lenguaje de programación Java.       | <img src="" alt="jesus image" width="200">  |
 | **Mondoñedo Rodriguez, Juan Diego Javier**<br> | <img src="" alt="juan diego image" width="200">  |
 | **Julca Cruz, Renso Anthony**<br> Estudiante de Ingenieria de Software, actualmente curso el 5to ciclo de esta carrera. Me apasiona programar y ser autodidacta para poder mejorar mis habilidades en el desarrollo de software, quisiera dedicarme a la parte de gestion bancaria.             | <img src="https://files.catbox.moe/vpxlc8.jpg" alt="renso image" width="200">   
 | **Cacho Seminario, Diego Alonso**<br>          | <img src="" alt="diego alonso image" width="200"> |
