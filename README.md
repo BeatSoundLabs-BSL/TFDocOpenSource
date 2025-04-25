@@ -1310,9 +1310,46 @@ Se utilizó la escala Fibonacci para la estimación de los Story Points. En tota
 
 ### 4.1.2. Web Style Guidelines.
 
+
+
 ## 4.2. Information Architecture.
 
 ### 4.2.1. Organization Systems.
+
+Para SoundNest emplearemos distintos sistemas de organización pensados para maximizar la claridad, usabilidad y facilidad de acceso para nuestros usuarios. Estos sistemas serán empleados en los recursos visuales y en la categorización de contenido según el tipo y necesidad de interpretación rápida o detallada.
+
+---
+**Sistemas de organización visual**
+1. Jerárquica
+- Aplicado en la pantalla principal y panel de control.
+- Se resaltarán las acciones más importantes, como "Reservar Sala", con colores, tamaños y posiciones que tengan mayor jerarquía visual.
+- Hará que las tareas frecuentes se reconozcan y ubiquen con mayor rapidez.
+2. Secuencial
+- Aplicado en el flujo de reserva de salas, registro de usuarios y procesos de configuración.
+- La navegación se estructurará en pasos guiados con ayuda de un asistente de software que pueda guíar a los usuarios desde un inicio.
+- Reducirá posibles errores de configuración y le dará un mayor entendimiento a los usuarios sobre SoundNest.
+3. Matricial
+- Aplicado en la visualización de horarios, reportes de uso y niveles de ruido.
+- Se mostrarán estos datos en dashboards o tablas que faciliten la comparación.
+- Ayudará a los usuarios a tomar decisiones con mayor facilidad.
+
+**Sistemas de categorización de contenido**
+1. Topics
+- Aplicado en las secciones, documentación y configuraciones.
+- El contenido será agrupado por temas como "Cronograma", "Reservas", "Pagos", etc.
+- Facilitará la navegación al agrupar información u opciones de un mismo área general de interés.
+2. Cronológico
+- Aplicado en el historial de reservas y reporte de sesiones.
+- Los datos de estos rubros serán ordenados por órden cronológico, mostrando los más recientes primeros.
+- Permitirá a los usuarios revisar sucesos con un contexto temporal claro y natural.
+3. Según el grupo de usuario
+- Aplicado en los paneles de administración, notificaciones, accesos y configuraciones.
+- Se diferenciarán las vistas y opciones entre los distintos tipos de grupos de usuarios para mostrarles únicamente lo que es relevante para cada uno.
+- Reducirá la sobrecarga de información y otorgará una experiencia personalizada.
+4. Alfabético
+- Aplicado en las listas de usuarios, países y ciudades.
+- Se implementará orden alfabético en estas listas para facilitar la búsqueda en ellas-
+- Agilizará la navegación al buscar entidades específicas.
 
 ### 4.2.2. Labeling Systems.
 
