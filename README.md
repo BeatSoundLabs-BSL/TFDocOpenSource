@@ -1319,6 +1319,7 @@ Se utilizó la escala Fibonacci para la estimación de los Story Points. En tota
 Para SoundNest emplearemos distintos sistemas de organización pensados para maximizar la claridad, usabilidad y facilidad de acceso para nuestros usuarios. Estos sistemas serán empleados en los recursos visuales y en la categorización de contenido según el tipo y necesidad de interpretación rápida o detallada.
 
 ---
+
 **Sistemas de organización visual**
 1. Jerárquica
 - Aplicado en la pantalla principal y panel de control.
@@ -1399,7 +1400,25 @@ Como reglas generales, las etiquetas se limitarán a un máximo de 2 o 3 palabra
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+Para mejorar la visibilidad de nuestra plataforma en los motores de búsqueda es necesario definir metadatos clave en las páginas de la landing page y aplicación web. Estos datos deben comunicar claramente el propósito de cada uno, atraer al público objetivo y facilitar el descubrimiento en buscadores.
 
+Los metadatos que utilizaremos para cada página son los siguientes:
+
+1. Landing Page
+- Title: SoundNest | Reserva tu sala de ensayo
+- Description: Plataforma que interconecta músicos y estudios para un alquiler de salas de ensayo simple, digital y responsable.
+- Keywords: SoundNest, salas de ensayo, música, producción musical, reserva estudio, control de sonido, alquiler de estudios
+- Author: BeatSoundLabs
+
+2. Web application
+- Title: SoundNest | Panel de control
+- Description: Accede a tus reservas, monitorea salas, revisa historial de uso y controla niveles de decibeles en tiempo real..
+- Keywords: dashboard músicos, control de sala, sesiones musicales, historial de reservas, sonido controlado, plataforma estudio musical
+- Author: BeatSoundLabs
+
+3. Páginas adicionales internas (Template):
+- Title: SoundNest | (Sección)
+- Description: Descripción de las funcionalidades disponibles en la sección.
 
 ### 4.2.4. Searching Systems.
 
