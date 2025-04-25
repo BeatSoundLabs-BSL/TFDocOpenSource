@@ -1353,6 +1353,50 @@ Para SoundNest emplearemos distintos sistemas de organización pensados para max
 
 ### 4.2.2. Labeling Systems.
 
+El sistema de etiquetas que usaremos para la plataforma tiene un enfoque de simplicidad y brevedad. Esto con el fin de facilitar la navegación a los usuarios, priorizando el uso de términos simples y familiares para la mayoría de músicos y gestores, evitando tecnisismos.
+
+Como reglas generales, las etiquetas se limitarán a un máximo de 2 o 3 palabras por cada una, se evitará el uso de jerga técnica, y responderan a acciones directas, estados claros categorías reconocibles.
+
+**Etiquetas principales por sección**
+
+1. Reservas y sesiones
+- `Reservar Sala`
+- `Disponibilidad`
+- `Mi Historial`
+- `Sesiones Activas`
+- `Nueva Reserva`
+
+2. Pagos y gestión
+- `Métodos de Pago`
+- `Mis Facturas`
+- `Resumen de Pagos`
+- `Configuración de Precios`
+
+3. Control de sonido
+- `Nivel de Ruido`
+- `Límite de Decibeles`
+- `Alerta Sonora`
+- `Historial de Ruido`
+
+4. Administración
+- `Usuarios`
+- `Salas`
+- `Reportes`
+- `Panel Admin`
+- `Configuraciones`
+
+5. Navegación general
+- `Inicio`
+- `Mi Perfil`
+- `Soporte`
+- `Cerrar Sesión`
+
+**Asociaciones y agrupaciones**
+- Las etiquetas serán agrupadas en módulos que serán accesibles fácilmente mediante las herramientas de navegación.
+- Las acciones estarán asociados a sus contextos inmediatos, evitando que esten como opciones aisladas.
+- Las alertas y mensajes del sistema tendrán un formato informativo y directo en el lenguaje utilizado en sus etiquetas.
+
+
 ### 4.2.3. SEO Tags and Meta Tags
 
 ### 4.2.4. Searching Systems.
