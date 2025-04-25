@@ -1417,6 +1417,16 @@ Este enfoque de filtros permitirá que los usuarios sean capaces de encontrar in
 
 ### 4.2.5. Navigation Systems.
 
+El sistema de navegación diseñado para Soundnest guiará a los usuarios de manera rápida e intuitiva a través del landing page y la aplicación sin perder el contexto.
+
+Este sistema de navegación contará con las siguientes características:
+
+- Menú principal fijo: Será un menú lateral que estará presente en todas las vistas de la aplicación, y contará con botones que redirijan al usuario a secciones clave.
+- Flujo guiado: Implementaremos un flujo paso a paso, similar a un "wizard", para funcionalidades clave como realizar reservas, registrar centros de ensayo y configurar alertas de sonido.
+- Navegación contextual con botones Call to Action (CTA): Algunas funcionalidades tendran botones de acción directamente disponible desde vistas especificas que pertenezcan a su contexto. Por ejemplo, en la pantalla dónde se inspeccionan los detalles de una sala, habrán botones para ciertas acciones como "Reportar problema" y "Ver Historial de uso".
+
+Estas características aseguran que la navegación dentro de SoundNest sea clara, eficiente y adaptable a las distintas necesidades de los usuarios.
+
 ## 4.3. Landing Page UI Design.
 
 ### 4.3.1. Landing Page Wireframe.
