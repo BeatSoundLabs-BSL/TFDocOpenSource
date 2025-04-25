@@ -1399,7 +1399,21 @@ Como reglas generales, las etiquetas se limitarán a un máximo de 2 o 3 palabra
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+
+
 ### 4.2.4. Searching Systems.
+
+Para los sistemas de búsqueda optaremos por implementar una seire de filtros específicos en lugar de un buscador tradicional. Esto ya que la información manejada por los usuarios ya se encontrará organizada modularmente y es mucho más eficiente estrechar la búsqueda con criterios claros y definidos.
+
+Algunos de los filtros que tendremos para los diversos contextos son los siguientes:
+
+- Reservas y sesiones: Filtros por fechas y estados.
+- Gestión de salas: Filtros por estado, ubicación y capacidad.
+- Historial de Ruido: Filtros por sala, fecha y nivel de decibeles.
+
+Los resultados de las búsquedas se mostrarán en listas o tablas que se actualicen en tiempo real al modificar los criterios.
+
+Este enfoque de filtros permitirá que los usuarios sean capaces de encontrar información de manera eficiente y sin necesidad de escribir o recordar especificaciones de lo que buscan.
 
 ### 4.2.5. Navigation Systems.
 
