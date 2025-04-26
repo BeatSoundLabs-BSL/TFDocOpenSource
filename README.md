@@ -96,8 +96,8 @@ Se explican las ramas más prominentes:
 
 | Criterio específico                                                | Acciones realizadas                                                                            | Conclusiones |
 |--------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Maria Hernandez** TB1: <br> **Jesus Millones** TB1:El documento presentó las herramientas seleccionadas, su propósito y las convenciones usuales, con la finalidad de registrar el proceso de diseño y facilitar la comprensión de los pasos requeridos para crear la aplicación a personas sin experiencia en desarrollo de software. Además, se buscó familiarizarse con el uso del lenguaje Markdown para plasmar esta información en un archivo README.md dentro de GitHub. <br> **Juan Mondoñedo** TB1:<br> **Renso Julca** TB1:<br> **Diego Cacho** TB1: Para esta entrega participe en el segundo capítulo, entreviste a una persona por cada segmento objetivo para luego analizar los resultos y asi realizar el resto de los puntos.<br> |              |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Maria Hernandez** TB1: <br> **Jesus Millones** TB1: Se realizaron entrevistas a los grupos de usuarios previstos para obtener información clave sobre sus necesidades. Posteriormente, se presentó la propuesta de solución a los potenciales clientes del proyecto, orientando el diseño hacia una alternativa que satisface las expectativas y requerimientos identificados.<br> **Juan Mondoñedo** TB1:<br> **Renso Julca** TB1:<br> **Diego Cacho** TB1: Para esta entrega participe en puntos de cada capítulo por medio del documento de Google y la plataforma de GitHub, realice el análisis de los requisitos de los usuarios por medio de las User Stories, los Impact Maps, Journey maps, elementos del Capítulo cinco, entre otros.<br> |              |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Maria Hernandez** TB1: <br> **Jesus Millones** <br> TB1:El documento presentó las herramientas seleccionadas, su propósito y las convenciones usuales, con la finalidad de registrar el proceso de diseño y facilitar la comprensión de los pasos requeridos para crear la aplicación a personas sin experiencia en desarrollo de software. Además, se buscó familiarizarse con el uso del lenguaje Markdown para plasmar esta información en un archivo README.md dentro de GitHub. <br> **Juan Mondoñedo** <br> TB1:<br> **Renso Julca** <br> TB1:<br> **Diego Cacho** <br> TB1: Para esta entrega participe en el segundo capítulo, entreviste a una persona por cada segmento objetivo para luego analizar los resultos y asi realizar el resto de los puntos.<br> |              |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Maria Hernandez** <br> TB1: <br> **Jesus Millones** <br> TB1: Se realizaron entrevistas a los grupos de usuarios previstos para obtener información clave sobre sus necesidades. Posteriormente, se presentó la propuesta de solución a los potenciales clientes del proyecto, orientando el diseño hacia una alternativa que satisface las expectativas y requerimientos identificados.<br> **Juan Mondoñedo** <br> TB1:<br> **Renso Julca** <br> TB1:<br> **Diego Cacho** TB1: Para esta entrega participe en puntos de cada capítulo por medio del documento de Google y la plataforma de GitHub, realice el análisis de los requisitos de los usuarios por medio de las User Stories, los Impact Maps, Journey maps, elementos del Capítulo cinco, entre otros.<br> |              |
 
 
 
@@ -655,56 +655,9 @@ Resumen:
 Para Mario, que lleva 6 meses iniciándose en la música como hobby y combina esta pasión con sus estudios, la experiencia de alquilar salas de ensayo se centra en la comodidad y eficiencia. Actualmente alquila estudios dos veces por semana y utiliza su propia cámara para grabar sus prácticas. Al momento de elegir un estudio, valora principalmente la ubicación, el tamaño, la acústica y el precio. Sus reservas las realiza de forma presencial, ya que no utiliza plataformas digitales para este proceso, lo que genera como principal frustración la gestión del tiempo de uso durante sus reservas. Además, considera que contar con un monitoreo de niveles sonoros sería una herramienta de gran ayuda para mejorar sus prácticas y cumplir con los límites adecuados. Finalmente, su canal principal de información e interacción en el ámbito musical es Instagram.
 
 
+### **Segmento objetivo \#2: Administradores de Salas de Ensayo y Estudios Musicales**
 
-### **Segmento objetivo \#2: Administradores de Salas de Ensayo y Estudios Musicales** </br>
 Entrevistado N°1:
-
-* Sexo: Masculino
-* Edad: 27
-* Ubicación en la que vive: Ate Vitarte
-
-Acerca de la entrevista:
-
-* Link: https://youtu.be/kiyxliZ0Myw
-* Instante en el que inicia: 0:22
-* Duración: 3:16
-
-Resumen:
-
-Germán administra una sala de ensayo en Ate y complementa esta labor con trabajos freelance de mezcla y grabación. Su espacio es utilizado por 40 a 60 bandas al mes, con mayor demanda en temporadas previas a conciertos. Gestiona reservas y pagos con herramientas básicas como Excel, WhatsApp y Google Calendar, lo que ha generado problemas como doble reservas y desorden en la coordinación. Aunque promociona su sala por Instagram y Facebook, todo lo maneja manualmente. Considera crucial contar con un sistema automatizado que facilite la gestión y evite perder clientes por demoras. Además, ve con buenos ojos la posibilidad de monitorear niveles sonoros para evitar daños a los equipos o molestias a terceros, aunque reconoce que debe comunicarse bien con los usuarios para que no lo vean como invasivo. En cuanto a seguridad, utiliza cámara y cerradura digital, pero no cuenta con un sistema integral. Su canal principal de contacto y promoción es WhatsApp.
-
-Entrevistado N°2:
-
-* Sexo:  
-* Edad:  
-* Ubicación en la que vive:
-
-Acerca de la entrevista:
-
-* Link:  
-* Instante en el que inicia:  
-* Duración:
-
-Resumen:
-
-Entrevistado N°3:
-
-* Sexo:  
-* Edad:  
-* Ubicación en la que vive:
-
-Acerca de la entrevista:
-
-* Link:  
-* Instante en el que inicia:  
-* Duración:
-
-Resumen:
-
-**Segmento objetivo \#2: Administradores de Salas de Ensayo y Estudios Musicales**
-
-EEntrevistado N°1:
->>>>>>> main
 
 * Sexo: Femenino  
 * Edad: 51  
@@ -719,6 +672,22 @@ Acerca de la entrevista:
 Resumen:
 
 Para Bárbara, quien además de trabajar en una aerolínea gestiona el alquiler de una sala de ensayo en su casa para músicos, la organización y control de su servicio es un desafío constante. Actualmente administra una única sala con capacidad para cinco personas con sus instrumentos y realiza las reservas a pedido, gestionando la comunicación principalmente a través de WhatsApp, Instagram y Facebook, mientras que los pagos los recibe mediante Yape o transferencias vía BCP. Considera complicado el proceso de agendar horarios y organizar las reservas, por lo que valora mucho un sistema que facilite la gestión tanto de horarios como de pagos, permitiéndole mantener un mejor control y equilibrio entre disponibilidad y cobros. Le gustaría contar con métodos de pago más flexibles y justos para ambas partes y considera importante poder monitorear los niveles sonoros de la sala, tanto para evitar molestias como para proteger la salud auditiva de sus clientes. Actualmente no utiliza ningún software especializado para la administración de su sala de ensayo.
+
+Entrevistado N°2:
+
+* Sexo: Masculino
+* Edad: 27
+* Ubicación en la que vive: Ate Vitarte
+
+Acerca de la entrevista:
+
+* Link: https://youtu.be/kiyxliZ0Myw
+* Instante en el que inicia: 0:22
+* Duración: 3:16
+
+Resumen:
+
+Germán administra una sala de ensayo en Ate y complementa esta labor con trabajos freelance de mezcla y grabación. Su espacio es utilizado por 40 a 60 bandas al mes, con mayor demanda en temporadas previas a conciertos. Gestiona reservas y pagos con herramientas básicas como Excel, WhatsApp y Google Calendar, lo que ha generado problemas como doble reservas y desorden en la coordinación. Aunque promociona su sala por Instagram y Facebook, todo lo maneja manualmente. Considera crucial contar con un sistema automatizado que facilite la gestión y evite perder clientes por demoras. Además, ve con buenos ojos la posibilidad de monitorear niveles sonoros para evitar daños a los equipos o molestias a terceros, aunque reconoce que debe comunicarse bien con los usuarios para que no lo vean como invasivo. En cuanto a seguridad, utiliza cámara y cerradura digital, pero no cuenta con un sistema integral. Su canal principal de contacto y promoción es WhatsApp.
 
 
 ### 2.2.3. Análisis de entrevistas.
