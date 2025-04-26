@@ -966,8 +966,38 @@ Se utilizó la escala Fibonacci para la estimación de los Story Points. En tota
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines.
-
 ### 4.1.1. General Style Guidelines.
+
+Nuestra startup, “BeatSoundLabs” (abreviando BSL), propone una solución tecnológica cuyo objetivo es digitalizar el alquiler y uso de salas de ensayo y estudios musicales, promoviendo un buen uso de estos espacios al igual que simplificando procesos para los músicos y administradores de estas áreas.  A través de nuestra plataforma digital “SoundNest”, los administradores podrán manejar sus reservas, horarios y pagos.  Por otro lado, los músicos serán capaces de reservar dichos espacios de manera automatizada y remota. Esta plataforma también tendrá funcionalidades para el monitoreo de niveles sonoros en tiempo real. Esto con el fin de mantener el cumplimiento de normativas acústicas de cada espacio y promover un entorno de respeto dentro de los estudios que formen parte de la plataforma. La solución está pensada para beneficiar tanto a pequeños espacios como a centros y estudios musicales profesionales.  Además, se contemplan proyecciones a largo plazo para integrar tecnologías IoT dedicadas a nuevas funcionalidades tales como la automatización de accesos,  iluminación y control ambiental de los recintos.
+
+Misión: Digitalizar y optimizar el acceso a salas de ensayo y estudios musicales mediante tecnología innovadora simplificando procesos de reserva, gestión y control acústico para músicos y administradores.
+
+Visión: Ser la solución tecnológica preferida por músicos y gestores de espacios musicales en Perú, siendo reconocidos por nuestra capacidad de innovación constante y por transformar la experiencia de uso de salas de ensayo y estudios de grabación.
+
+<img src="images/BSL_Logo.png">
+
+**Brand Name:**
+
+El nombre de la propuesta de solución es SoundNest, la unión de dos palabras en inglés que, si bien no tiene una traducción exacta, se puede interpretar como “Nido de sonido”. Este nombre surge de la idea de relacionar la solución propuesta con un espacio acogedor y creativo donde los músicos puedan desarrollar su arte sin preocupaciones. Teniendo ese contexto, la aplicación se centraliza en la creación de un sistema para automatizar las reservas de salas de música en el Perú, facilitando a los músicos encontrar y reservar espacios adecuados de manera eficiente y sin complicaciones. Entonces, el logo propuesto es el siguiente.
+
+<img src="images/SoundNestLogo.png">
+
+**Colores:**
+
+Colores primarios:
+
+<img src="images/Colors1.png"> <img src="images/Colors2.png">
+
+Colores secundarios:
+
+Colores de los wireframes:
+
+<img src="images/WireframesColors.png">
+
+
+Color de textos:
+
+<img src="images/TextColors.png">
 
 ### 4.1.2. Web Style Guidelines.
 
