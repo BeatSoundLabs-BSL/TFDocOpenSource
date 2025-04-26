@@ -17,10 +17,10 @@ Ciclo 2025-01
 **Profesor:** Bautista Ubillús, Efraín Ricardo
 
 
-**Nombre del StartUp:**
+**Nombre del StartUp:** BeatSoundLabs
 
 
-**Nombre del Producto:**
+**Nombre del Producto:** SoundNest
 
 
 | Miembro             			       |   Código   |
@@ -90,6 +90,10 @@ Se explican las ramas más prominentes:
 **<code>feature/feature-name</code>:** Es representada por el color verde. Se utiliza para el desarrollo de nuevas funcionalidades específicas del proyecto.
 
 </div>
+
+# Gitflow
+
+<img src="images/GitFlow-TB1.png">
 
 # Student Outcomes
 **Student Outcome 3**
@@ -339,260 +343,29 @@ El análisis competitivo es una herramienta clave para la toma de decisiones est
 
 ### 2.1.1. Análisis competitivo.
 
-<table>
-  <tr>
-    <th colspan="6">Competitive Analysis Landscape</th>
-  </tr>
-  <tr>
-    <td colspan="1" align="center" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
-    <td colspan="5" align="center">¿Cómo identificar a nuestros principales competidores?</td>
-  </tr>
-  <tr>
-    <td colspan="5"  align="center">------</td>
-  </tr>
-  <tr>
-    <th colspan="2" align="center">Nombre y logo</th>
-    <td colspan="1" align="center">
-    <p><b>SoundNest</b></p>
-    <img src="https://files.catbox.moe/v4r0ho.jpg" alt="SoundNest Logo" width="80">
-    </td>
-    <td colspan="1" align="center">
-    <p><b>Pirate.com</b></p>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxgaSeyvVo2aTtfhUVjQLtteOXxA_NCsdlHw&s" alt="Pirate.com Logo" width="80">
-    </td>
-    <td colspan="1" align="center">
-    <p><b>Roomband</b></p>
-    <img src="https://media.licdn.com/dms/image/v2/C4D0BAQG2OMzFzsQtIw/company-logo_200_200/company-logo_200_200/0/1655734470225/roomband_logo?e=2147483647&v=beta&t=j4jX2uRzJZyo4VUQ3l9d52g7nCSSRU3a6HRQ9LFI2Jk" alt="Roomband Logo" width="80">
-    </td>
-    <td colspan="1" align="center">
-    <p><b>Jammed</b></p>
-    <img src="https://media.licdn.com/dms/image/v2/C4E0BAQFvcEuZ5Go0pg/company-logo_200_200/company-logo_200_200/0/1675188675955/jammed_bookings_logo?e=2147483647&v=beta&t=lqJGcHLUR8rpX4ro8KNpcNSadle9q7qUOHrFVBW5JFc" alt="Jammed Logo" width="80">
-    </td>
-  </tr>
-  <tr>
-    <th colspan="1" rowspan="2" align="center">Perfil</th>
-    <td colspan="1" align="center" >Overview</td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-  </tr>
-  <tr>
-    <td colspan="1" align="center">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-  </tr>
-  <tr>
-    <th colspan="1" align="center" rowspan="2">Perfil de marketing</th>
-    <td colspan="1" align="center">Mercado objetivo</td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="1" align="center">Estrategias de marketing</td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-  </tr>
-  <tr>
-    <th colspan="1" align="center" rowspan="3">Perfil del producto</th>
-    <td colspan="1" align="center">Productos & Servicios</td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="1" align="center">Precios y Costos</td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="1" align="center">Canales de distribución (Web y/o Móvil)</td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-  </tr>
-  <tr>
-    <th colspan="1" align="center" rowspan="4">Análisis SWOT</th>
-    <td colspan="1" align="center">Fortalezas</td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="1" align="center">Debilidades</td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <li></li>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="1" align="center">Oportunidades</td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="1" align="center">Amenazas</td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-  </tr>
-</table>
- 
+| Competitive Analysis Landscape |  |  |  |  |  |
+| ----- | :---- | :---- | :---- | :---- | :---- |
+| ¿Por qué llevar a cabo este análisis? |  | Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis |  |  |  |
+|  |  | Gracias al análisis de competencia en el mercado, es posible entender el entorno en el que nuestro producto operará. Esto permite identificar a los competidores directos e indirectos y desarrollar estrategias basadas en la información obtenida sobre su posicionamiento actual. |  |  |  |
+| **Nombre y Logo** |  | SoundNest | Pirate.com | Roomband | Jammbed |
+| Perfil | Overview |  |  Plataforma internacional que permite alquilar salas de ensayo y estudio por hora.  |  Plataforma chilena para reservar salas de ensayo musicales.  |  App española para encontrar, reservar y gestionar ensayos musicales.  |
+|  | Ventaja competitiva ¿Qué valor ofrece a los clientes? |  |  Gran infraestructura internacional, acceso 24/7, salas equipadas profesionalmente.  |  Oferta variada en Santiago con énfasis en la comunidad musical.  |  App amigable con interfaz simple, excelente integración con Google Maps.  |
+| Perfil de Marketing | Mercado Objetivo |  |  Músicos profesionales, creadores de contenido, productores musicales.  |  Bandas locales, músicos independientes.  |  Músicos que quieren agendar ensayos rápidamente desde el móvil.  |
+|  | Estrategias de marketing |  |  SEO internacional, publicidad pagada en redes, fuerte branding visual.  |  Instagram, recomendaciones locales, alianzas con espacios musicales.  | Tiktok, campañas en redes, facilidad de uso como gancho de conversión. |
+| Perfil de Producto | Productos & Servicios |  |  Alquiler de salas de ensayo y grabación con equipos incluidos, acceso 24/7, reservas online.  |  Reserva de salas en Santiago, opción de ensayos compartidos.  |  App para encontrar y reservar salas, administrar agenda musical.  |
+|  | Precios & Costos |  |  Tarifas por hora, precios más altos en zonas premium.  |  Tarifas competitivas, algunas promociones.  |  App gratuita, costo depende del lugar reservado.  |
+|  | Canales de distribución (Web y/o Móvil) |  |  Sitio web con sistema de reservas avanzado.  |  Página web con reservas directas.  | App móvil enfocada en la usabilidad. |
+| Análisis SWOT | Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.  |  |  |  |  |
+|  | Fortalezas |  |  Amplia infraestructura, marca reconocida, experiencia de usuario sólida.  |  Comunidad local activa, cercanía geográfica.  |  Interfaz intuitiva, app ligera, enfoque en practicidad.  |
+|  | Debilidades |  |  Costos elevados, poca personalización del servicio.  |  Presencia limitada fuera de Santiago.  |  Aún no muy conocida, depende de terceros para disponibilidad.  |
+|  | Oportunidades |  |  Expansión a nuevos países, ofrecer servicios complementarios.  |  Crecimiento del mercado musical chileno.  |  Integrarse con más estudios y mejorar experiencia digital.  |
+|  | Amenazas |  |  Competidores locales más económicos, gestión logística compleja.  |  Falta de innovación tecnológica frente a apps nuevas.  | Nuevos entrantes con propuestas similares o mejores en UX/UI. |
+
+Posibles competidores:
+
+1. Pirate.com \- [https://pirate.com/es/salas-de-ensayo/](https://pirate.com/es/salas-de-ensayo/)   
+2. Roomband \- [https://roomband.cl/](https://roomband.cl/)   
+3. Jammed \- [https://jammed.app/es/](https://jammed.app/es/) 
 
 ### 2.1.2 Estrategias y tácticas frente a competidores {#2.1.2-estrategias-y-tácticas-frente-a-competidores}
 
@@ -637,7 +410,6 @@ Con base en el análisis competitivo realizado anteriormente, se identificaron c
 
 ### **Segmento objetivo \#1: Músicos Principiantes y Profesionales**
 
-
 Entrevistado N°1: Mario André Cacho Seminario
 
 * Sexo: Masculino  
@@ -657,7 +429,7 @@ Para Mario, que lleva 6 meses iniciándose en la música como hobby y combina es
 
 ### **Segmento objetivo \#2: Administradores de Salas de Ensayo y Estudios Musicales**
 
-Entrevistado N°1:
+Entrevistada N°1: Barbara Eliana Seminario Leon
 
 * Sexo: Femenino  
 * Edad: 51  
@@ -966,8 +738,38 @@ Se utilizó la escala Fibonacci para la estimación de los Story Points. En tota
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines.
-
 ### 4.1.1. General Style Guidelines.
+
+Nuestra startup, “BeatSoundLabs” (abreviando BSL), propone una solución tecnológica cuyo objetivo es digitalizar el alquiler y uso de salas de ensayo y estudios musicales, promoviendo un buen uso de estos espacios al igual que simplificando procesos para los músicos y administradores de estas áreas.  A través de nuestra plataforma digital “SoundNest”, los administradores podrán manejar sus reservas, horarios y pagos.  Por otro lado, los músicos serán capaces de reservar dichos espacios de manera automatizada y remota. Esta plataforma también tendrá funcionalidades para el monitoreo de niveles sonoros en tiempo real. Esto con el fin de mantener el cumplimiento de normativas acústicas de cada espacio y promover un entorno de respeto dentro de los estudios que formen parte de la plataforma. La solución está pensada para beneficiar tanto a pequeños espacios como a centros y estudios musicales profesionales.  Además, se contemplan proyecciones a largo plazo para integrar tecnologías IoT dedicadas a nuevas funcionalidades tales como la automatización de accesos,  iluminación y control ambiental de los recintos.
+
+Misión: Digitalizar y optimizar el acceso a salas de ensayo y estudios musicales mediante tecnología innovadora simplificando procesos de reserva, gestión y control acústico para músicos y administradores.
+
+Visión: Ser la solución tecnológica preferida por músicos y gestores de espacios musicales en Perú, siendo reconocidos por nuestra capacidad de innovación constante y por transformar la experiencia de uso de salas de ensayo y estudios de grabación.
+
+<img src="images/BSL_Logo.png">
+
+**Brand Name:**
+
+El nombre de la propuesta de solución es SoundNest, la unión de dos palabras en inglés que, si bien no tiene una traducción exacta, se puede interpretar como “Nido de sonido”. Este nombre surge de la idea de relacionar la solución propuesta con un espacio acogedor y creativo donde los músicos puedan desarrollar su arte sin preocupaciones. Teniendo ese contexto, la aplicación se centraliza en la creación de un sistema para automatizar las reservas de salas de música en el Perú, facilitando a los músicos encontrar y reservar espacios adecuados de manera eficiente y sin complicaciones. Entonces, el logo propuesto es el siguiente.
+
+<img src="images/SoundNestLogo.png">
+
+**Colores:**
+
+Colores primarios:
+
+<img src="images/Colors1.png"> <img src="images/Colors2.png">
+
+Colores secundarios:
+
+Colores de los wireframes:
+
+<img src="images/WireframesColors.png">
+
+
+Color de textos:
+
+<img src="images/TextColors.png">
 
 ### 4.1.2. Web Style Guidelines.
 
