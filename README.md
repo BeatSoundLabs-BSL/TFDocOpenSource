@@ -91,6 +91,10 @@ Se explican las ramas más prominentes:
 
 </div>
 
+# Gitflow
+
+<img src="images/GitFlow-TB1.png">
+
 # Student Outcomes
 **Student Outcome 3**
 
