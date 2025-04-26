@@ -801,6 +801,16 @@ User Journey Map Segmento Objetivo 2:
 
 ### 2.3.4 Empathy Mapping
 
+Esta sección expone el Empathy Mapping, una herramienta utilizada para construir un perfil completo de los user personas, permitiendo captar a fondo su perspectiva y vivencias. Para cada perfil de usuario, se abordan cinco aspectos fundamentales: lo que observa, lo que oye, lo que expresa, lo que realiza y lo que experimenta emocionalmente. Asimismo, se identifican sus frustraciones (pains) y motivaciones (gains) a partir de la pregunta clave: ¿Qué le preocupa?
+
+Empathy mapping de músico profesional:  
+
+<img src="images/UP1_EmpathyMap.png">
+
+Empathy mapping de administrador de sala de ensayo:  
+
+<img src="images/UP2_EmpathyMap.png">
+
 ### 2.3.5 As-is Scenario Mapping
 
 | Fases | Gestión de reservas y pagos | Control de uso de salas | Niveles sonoros | Trato con el cliente |
