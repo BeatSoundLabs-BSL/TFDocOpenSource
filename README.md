@@ -66,7 +66,7 @@ para cada integrante del equipo:
 | Jesus Millones  | Lean UX Process. Problem Statement, Assumptions e Hypothesis statements. Lean UX Canvas. User Personas. Registro y análisis de entrevistas. |
 | Juan Mondoñedo  |                  |
 | Renso Julca     |                  |
-| Diego Cacho     |                  |
+| Diego Cacho     | Entrevistas, Needfinding, User Journey Mapping, User Stories, Impact Mapping, Product Backlog, Software Configuration Management,  Software Development Environment Configuration, Source Code Management, Sprint Planning 1.|
 
 
 **Github Collaboration Insights**
