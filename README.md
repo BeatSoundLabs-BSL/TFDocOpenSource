@@ -915,6 +915,16 @@ Las épicas definidas para el proyecto SoundNest están orientadas a satisfacer 
 
 ### 3.3 Impact Mapping
 
+Se realizaron los siguientes cuadros en la herramienta Miro, el link original puede ser observado aquí: [https://miro.com/app/board/uXjVI9xNoDo=/?share\_link\_id=933880647457](https://miro.com/app/board/uXjVI9xNoDo=/?share_link_id=933880647457) 
+
+**Impact Map Segmento 1:** Músicos principiantes y profesionales​
+
+<img src="images/ImpactMap1.png">
+
+**Impact Map Segmento 2:** Administradores de sala de ensayos
+
+<img src="images/ImpactMap2.png">
+
 ### 3.4 Product Backlog
 
 
