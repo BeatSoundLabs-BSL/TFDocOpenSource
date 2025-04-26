@@ -834,7 +834,6 @@ Empathy mapping de administrador de sala de ensayo:
 
 ### 3.2 User Stories
 
-
 * EPICS
 
 Las épicas definidas para el proyecto SoundNest están orientadas a satisfacer las necesidades tanto de los músicos como de los administradores de salas de ensayo y estudios musicales. Estas épicas cubren funcionalidades clave que permiten una experiencia fluida en la reserva, gestión y monitoreo de espacios musicales a través de una plataforma digital intuitiva. Desde la navegación inicial en la landing page, hasta el proceso de reserva, pagos y notificaciones en tiempo real, cada épica proporciona una estructura organizada para el desarrollo ágil de funcionalidades. Así, se garantiza una solución tecnológica alineada con los objetivos del proyecto y con un enfoque centrado en la experiencia del usuario.
@@ -1168,10 +1167,71 @@ Estas características aseguran que la navegación dentro de SoundNest sea clara
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management.
-
 ## 5.1.1. Software Development Environment Configuration.
 
+Se detallan a continuación las herramientas de software utilizadas para nuestro proyecto.
+
+* Gestión de Proyectos
+
+- **WhatsApp**: [https://www.whatsapp.com](https://www.whatsapp.com)   
+  WhatsApp fue el medio principal de comunicación interna, utilizado para organizar tareas, intercambiar ideas y ofrecer soporte entre los integrantes durante todo el desarrollo del proyecto.
+
+* Diseño UX/UI del Producto
+
+- **Miro:** [https://miro.com/es/](https://miro.com/es/)   
+  Miro se utilizó para construir el Lean UX Canvas y el mapeo del escenario futuro (To-Be), lo cual facilitó la visualización de los elementos clave del enfoque centrado en el usuario.  
+    
+- **Uxpressia:** [https://uxpressia.com/](https://uxpressia.com/)   
+  A través de esta herramienta se diseñaron las User Personas, los Mapas de Empatía y los Journey Maps, lo que permitió obtener una comprensión más profunda de las necesidades y comportamientos de los usuarios.  
+    
+- **Figma:** [https://www.figma.com/](https://www.figma.com/)   
+  Figma se convirtió en la herramienta esencial para diseñar wireframes, wireflows, maquetas y prototipos tanto de la landing page como de las aplicaciones web.
+
+* Desarrollo de Software
+
+- **Landing Page**:  
+  La landing page del proyecto fue implementada utilizando tecnologías web fundamentales como HTML5, CSS y JavaScript.
+
+* Pruebas de Software
+
+- **Navegador**:  
+  Las pruebas tanto de la web como de la aplicación se realizaron utilizando las herramientas para desarrolladores que ofrecen navegadores como Google Chrome, Brave, Opera y Microsoft Edge.
+
+* Entornos de Desarrollo (IDE)
+
+- **IntelliJ IDEA**: [https://www.jetbrains.com/es-es/idea/](https://www.jetbrains.com/es-es/idea/)   
+  Para el desarrollo del frontend, se optó por IntelliJ IDEA como entorno de trabajo, destacando por sus funcionalidades avanzadas que optimizan el flujo de desarrollo.
+
+* Despliegue de Software
+
+- **GitHub Pages**: [https://pages.github.com/](https://pages.github.com/)   
+  GitHub Pages fue la plataforma empleada para el despliegue de la landing page, permitiendo la publicación directa desde el repositorio del proyecto.
+
+* Documentación de Software
+
+- **Google Docs**: [https://docs.google.com/document](https://docs.google.com/document)   
+  Google Docs sirvió como una herramienta clave para monitorear el avance de las tareas y compartir información entre los miembros del equipo de manera efectiva.  
+    
+- **GitHub**: [https://github.com/](https://github.com/)   
+  GitHub desempeñó un rol fundamental en la documentación del proyecto, facilitando el trabajo colaborativo y el seguimiento de los cambios mediante commits y la estrategia de ramas GitFlow.
+
 ### 5.1.2. Source Code Management.
+
+Con el fin de gestionar y estructurar las modificaciones realizadas durante el desarrollo, se creó un repositorio centralizado en GitHub que sirvió como núcleo del proyecto:
+
+* Organización
+
+- **Repositorio en GitHub**: [https://github.com/BeatSoundLabs-BSL](https://github.com/BeatSoundLabs-BSL)   
+    
+- **Landing Page**: [https://github.com/BeatSoundLabs-BSL/landingpage](https://github.com/BeatSoundLabs-BSL/landingpage) 
+
+* Ramas Principales
+
+- **Rama main**:  
+  Esta rama almacena la versión final del sistema, preparada para su despliegue en producción.  
+    
+- **Rama develop/**:  
+  Es la rama utilizada para integrar y probar nuevas características antes de que se incorporen oficialmente al producto final.
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
@@ -1180,8 +1240,22 @@ Estas características aseguran que la navegación dentro de SoundNest sea clara
 ## 5.2. Landing Page, Services & Applications Implementation.
 
 ### 5.2.1. Sprint 1
-
 #### 5.2.1.1. Sprint Planning 1.
+
+| Sprint \# | Sprint 1 |
+| :---: | :---: |
+| Sprint Planning Background |  |
+| Date | 22/04/25 |
+| Time | 7:20 horas |
+| Location | Virtual meeting \- Google Meetings |
+| Prepared By | TODOS |
+| Attendees | \-Hernández Uchuya María Patricia \-Millones Espinoza, Jesús Andrés \-Mondoñedo Rodriguez, Juan Diego Javier \-Julca Cruz, Renso Anthony \-Cacho Seminario, Diego Alonso |
+| Sprint n-1 Review Summary |  |
+| Sprint n-1 Retrospective Summary |  |
+| Sprint Goal & User Stories |  |
+| Sprint 1 Goal | Landing Page  |
+| Sprint 1 Velocity | Velocidad de 30 \- Primer Sprint |
+| Sum of Story Points | Sprint 1 \- \#\# Story Points |
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
