@@ -80,7 +80,7 @@ Los integrantes son:
 
 - Maria Hernandez
 - Jesus Millones - (JJSON-11110)
-- Juan Mondoñedo
+- Juan Mondoñedo - (Jmondonedor)
 - Renso Julca - (rajc02)
 - Diego Cacho - (Memesitos)
 
@@ -202,7 +202,7 @@ Nuestra startup, “BeatSoundLabs” (abreviando BSL), propone una solución tec
 |------------------------------------------------|--------------------------------------------------------------------------------|
 | **Hernández Uchuya María Patricia**<br>        | <img src="images/" width="350"/>  |
 | **Millones Espinoza, Jesús Andrés**<br> Estudiante en Ingeniería de Software en la UPC. Me considero una persona puntual, orientada a encontrar soluciones rápidas y lógicas frente a los problemas. Tengo experiencia con el sistema operativo Linux y el lenguaje de programación Java.       | <img src="images/jesus-millones.png" width="350"/>  |
-| **Mondoñedo Rodriguez, Juan Diego Javier**<br> | <img src="images/" width="350"/>  |
+| **Mondoñedo Rodriguez, Juan Diego Javier**<br> Estudiante de 20 años actualmente cursando la carrera de Ingeniería de Software.  Me destaco por mi habilidad lógica, comprensión rápida y adaptabilidad, cualidades que emplearé para contribuir positivamente en la realización de nuestro proyecto.| <img src="images/JD-Mondoñedo.jpg" width="350"/>  |
 | **Julca Cruz, Renso Anthony**<br> Estudiante de Ingenieria de Software, actualmente curso el 5to ciclo de esta carrera. Me apasiona programar y ser autodidacta para poder mejorar mis habilidades en el desarrollo de software, quisiera dedicarme a la parte de gestion bancaria.             | <img src="https://files.catbox.moe/vpxlc8.jpg" width="350"/>   
 | **Cacho Seminario, Diego Alonso**<br>Soy estudiante de Ingeniería de Software cursando el 6to ciclo de mi carrera en la UPC y tengo 20 años. Me considero una persona tranquila y diligente, intentó realizar mis tareas y trabajos lo antes posible para evitar contratiempos en un futuro, especialmente si son actividades que consumen mucho tiempo. Como miembro de equipo buscaré ayudar a mis compañeros cuando lo necesiten, realizando además mis entregas lo más temprano posible. Habilidades en C++, C#, Python, Unity 2D/3D, html/css/js.          | <img src="images/diego_cacho.png" width="350"/> |
 
@@ -1417,7 +1417,7 @@ Los metadatos que utilizaremos para cada página son los siguientes:
 - Author: BeatSoundLabs
 
 3. Páginas adicionales internas (Template):
-- Title: SoundNest | (Sección)
+- Title: SoundNest | Sección
 - Description: Descripción de las funcionalidades disponibles en la sección.
 
 ### 4.2.4. Searching Systems.
@@ -1481,6 +1481,8 @@ Estas características aseguran que la navegación dentro de SoundNest sea clara
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagram.
+
+
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
