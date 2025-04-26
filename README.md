@@ -635,7 +635,7 @@ Con base en el análisis competitivo realizado anteriormente, se identificaron c
 
 ### 2.2.2 Registro de entrevistas
 
-**Segmento objetivo \#1: Músicos Principiantes y Profesionales**
+### **Segmento objetivo \#1: Músicos Principiantes y Profesionales**
 
 
 Entrevistado N°1: Mario André Cacho Seminario
@@ -656,9 +656,23 @@ Para Mario, que lleva 6 meses iniciándose en la música como hobby y combina es
 
 
 
-**Segmento objetivo \#2: Administradores de Salas de Ensayo y Estudios Musicales** </br>
+### **Segmento objetivo \#2: Administradores de Salas de Ensayo y Estudios Musicales** </br>
 Entrevistado N°1:
-=======
+
+* Sexo: Masculino
+* Edad: 27
+* Ubicación en la que vive: Ate Vitarte
+
+Acerca de la entrevista:
+
+* Link: https://youtu.be/kiyxliZ0Myw
+* Instante en el que inicia: 0:22
+* Duración: 3:16
+
+Resumen:
+
+Germán administra una sala de ensayo en Ate y complementa esta labor con trabajos freelance de mezcla y grabación. Su espacio es utilizado por 40 a 60 bandas al mes, con mayor demanda en temporadas previas a conciertos. Gestiona reservas y pagos con herramientas básicas como Excel, WhatsApp y Google Calendar, lo que ha generado problemas como doble reservas y desorden en la coordinación. Aunque promociona su sala por Instagram y Facebook, todo lo maneja manualmente. Considera crucial contar con un sistema automatizado que facilite la gestión y evite perder clientes por demoras. Además, ve con buenos ojos la posibilidad de monitorear niveles sonoros para evitar daños a los equipos o molestias a terceros, aunque reconoce que debe comunicarse bien con los usuarios para que no lo vean como invasivo. En cuanto a seguridad, utiliza cámara y cerradura digital, pero no cuenta con un sistema integral. Su canal principal de contacto y promoción es WhatsApp.
+
 Entrevistado N°2:
 
 * Sexo:  
