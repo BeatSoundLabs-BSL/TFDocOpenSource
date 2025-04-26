@@ -41,7 +41,7 @@ Ciclo 2025-01
 | 1.0     | 05/04/2025 | Castro, Hernández, Millones, Mondoñedo, Julca | Creación del documento de trabajo en formato markdown                                                                 |
 | 1.1     | 06/042025  | Millones                                      | Redacción de la descripción del startup, Business Assumptions, Feature Assumptions                                    |
 | 1.2     | 06/04/2025 | Hernández                                     | Redacción de antecedentes y problemática, Lean UX Problem Statements, User Assumptions, Lean UX Hypothesis Statements |
-| 1.3     |            |                                               |                                                                                                                       |
+| 1.3     | 15/04/2025 | Millones                                      | Elaboración y registro de entrevistas a segmentos objetivo                                                            |
 | 1.4     |            |                                               |                                                                                                                       |
 | 1.5     |            |                                               |                                                                                                                       |
 | 1.6     |            |                                               |                                                                                                                       |
@@ -63,7 +63,7 @@ para cada integrante del equipo:
 | Integrantes     | Tareas Asignadas |
 |-----------------| ---------------- |
 | Maria Hernandez |                  |
-| Jesus Millones  |                  |
+| Jesus Millones  | Lean UX Process. Problem Statement, Assumptions e Hypothesis statements. Lean UX Canvas. User Personas. Registro y análisis de entrevistas. |
 | Juan Mondoñedo  |                  |
 | Renso Julca     |                  |
 | Diego Cacho     |                  |
@@ -96,8 +96,8 @@ Se explican las ramas más prominentes:
 
 | Criterio específico                                                | Acciones realizadas                                                                            | Conclusiones |
 |--------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Maria Hernandez:<br> Jesus Millones:<br> Juan Mondoñedo:<br> Renso Julca:<br> Diego Cacho:<br> |              |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | Maria Hernandez:<br> Jesus Millones:<br> Juan Mondoñedo:<br> Renso Julca:<br> Diego Cacho:<br> |              |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Maria Hernandez** TB1: <br> **Jesus Millones** TB1:El documento presentó las herramientas seleccionadas, su propósito y las convenciones usuales, con la finalidad de registrar el proceso de diseño y facilitar la comprensión de los pasos requeridos para crear la aplicación a personas sin experiencia en desarrollo de software. Además, se buscó familiarizarse con el uso del lenguaje Markdown para plasmar esta información en un archivo README.md dentro de GitHub. <br> **Juan Mondoñedo** TB1:<br> **Renso Julca** TB1:<br> **Diego Cacho** TB1:<br> |              |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Maria Hernandez** TB1: <br> **Jesus Millones** TB1: Se realizaron entrevistas a los grupos de usuarios previstos para obtener información clave sobre sus necesidades. Posteriormente, se presentó la propuesta de solución a los potenciales clientes del proyecto, orientando el diseño hacia una alternativa que satisface las expectativas y requerimientos identificados.<br> **Juan Mondoñedo** TB1:<br> **Renso Julca** TB1:<br> **Diego Cacho** TB1:<br> |              |
 
 
 
@@ -330,9 +330,6 @@ Feature Assumptions:
 **Segmento objetivo 2: Administradores de sala de ensayos**
 
 Según el Ministerio de Comercio Exterior y Turismo (Mincetur, 2021), el Perú cuenta con más de 90,000 artistas populares registrados, de los cuales muchos pertenecen al sector musical, tanto emergente como profesional. Este sector, especialmente en Lima Metropolitana, sigue siendo altamente dependiente de herramientas digitales básicas como Excel y WhatsApp, con un 65% de músicos utilizando estas plataformas para gestionar sus actividades diarias. Sin embargo, solo el 10% de los administradores de salas de ensayo y estudios musicales emplean software especializado, lo que representa una oportunidad clara para introducir una solución tecnológica que automatice y optimice los procesos de reserva, gestión y control acústico en estos espacios. Además, un estudio de Microsoft (2023) revela que el 94% de las pequeñas y medianas empresas peruanas han invertido en tecnología, y el 68% ha reconocido obstáculos relacionados con la falta de conocimiento y personal capacitado en soluciones digitales. Esto subraya la necesidad de plataformas intuitivas como **SoundNest** que promuevan la digitalización de los espacios musicales, beneficiando tanto a músicos como a administradores.
-
-
-# Capítulo II: Requirements Elicitation & Analysis
 
 # Capítulo II: Requirements Elicitation & Analysis
 
