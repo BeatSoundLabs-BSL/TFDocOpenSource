@@ -127,7 +127,7 @@ Se explican las ramas más prominentes:
    2.3. [Needfinding](#23-needfinding)<br>
    2.3.1. [User Personas](#231-user-personas)<br>
    2.3.2. [User Task Matrix](#232-user-task-matrix)<br>
-   2.3.3. [User Journey Mapping](#232-user-task-matrix)<br>
+   2.3.3. [journey](#232-user-task-matrix)<br>
    2.3.4. [Empathy Mapping](#234-empathy-mapping)<br>
    2.3.5. [As-is Scenario Mapping](#235-as-is-scenario-mapping)<br>
    2.4. [Ubiquitous Language](#24-ubiquitous-language)<br>
@@ -777,7 +777,27 @@ Para Bárbara, quien además de trabajar en una aerolínea gestiona el alquiler 
 <img src="images/user_persona_jaime.png">
 ### 2.3.2. User Task Matrix.
 
-### 2.3.3 User Journey Mapping
+Aquí se presenta el User Task Matrix, esta herramienta está centrada en ambos segmentos objetivo y nos permitirá identificar los objetos clave y tareas de nuestros usuarios.
+
+| USER TASK  | Germán Garmendia |  | Jaime Altozano |  |
+| ----- | ----- | :---- | ----- | :---- |
+|  | Frequency | Importance | Frequency | Importance |
+| Reservar una sala de ensayo | Often | High | Sometimes | Medium |
+| Gestionar ensayos de su banda | Often | High | Sometimes | Medium |
+| Evaluar y recomendar salas | Often | Medium | Sometimes | High |
+| Publicar disponibilidad de salas | Sometimes | Medium | Often | High |
+| Gestionar reservas | Sometimes | High | Often | High |
+| Monitorear estado de las instalaciones | Sometimes | Medium | Sometimes | High |
+
+### 2.3.3 journey
+
+User Journey Map Segmento Objetivo 1:
+
+<img src="images/JourneyMapSeg1.png">
+
+User Journey Map Segmento Objetivo 2:
+
+<img src="images/JourneyMapSeg2.png">
 
 ### 2.3.4 Empathy Mapping
 
