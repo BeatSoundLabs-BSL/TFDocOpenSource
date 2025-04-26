@@ -96,8 +96,8 @@ Se explican las ramas más prominentes:
 
 | Criterio específico                                                | Acciones realizadas                                                                            | Conclusiones |
 |--------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Maria Hernandez** TB1: <br> **Jesus Millones** <br> TB1:El documento presentó las herramientas seleccionadas, su propósito y las convenciones usuales, con la finalidad de registrar el proceso de diseño y facilitar la comprensión de los pasos requeridos para crear la aplicación a personas sin experiencia en desarrollo de software. Además, se buscó familiarizarse con el uso del lenguaje Markdown para plasmar esta información en un archivo README.md dentro de GitHub. <br> **Juan Mondoñedo** <br> TB1:<br> **Renso Julca** <br> TB1:<br> **Diego Cacho** <br> TB1: Para esta entrega participe en el segundo capítulo, entreviste a una persona por cada segmento objetivo para luego analizar los resultos y asi realizar el resto de los puntos.<br> |              |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Maria Hernandez** <br> TB1: <br> **Jesus Millones** <br> TB1: Se realizaron entrevistas a los grupos de usuarios previstos para obtener información clave sobre sus necesidades. Posteriormente, se presentó la propuesta de solución a los potenciales clientes del proyecto, orientando el diseño hacia una alternativa que satisface las expectativas y requerimientos identificados.<br> **Juan Mondoñedo** <br> TB1:<br> **Renso Julca** <br> TB1:<br> **Diego Cacho** TB1: Para esta entrega participe en puntos de cada capítulo por medio del documento de Google y la plataforma de GitHub, realice el análisis de los requisitos de los usuarios por medio de las User Stories, los Impact Maps, Journey maps, elementos del Capítulo cinco, entre otros.<br> |              |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Maria Hernandez** TB1: <br> **Jesus Millones** <br> TB1:El documento presentó las herramientas seleccionadas, su propósito y las convenciones usuales, con la finalidad de registrar el proceso de diseño y facilitar la comprensión de los pasos requeridos para crear la aplicación a personas sin experiencia en desarrollo de software. Además, se buscó familiarizarse con el uso del lenguaje Markdown para plasmar esta información en un archivo README.md dentro de GitHub. <br> **Juan Mondoñedo** <br> TB1: Está entrega permitió familiarizarme con el lenguaje Markdown y como emplearlo para redactar secciones como la de Arquitectuda de la información  <br> **Renso Julca** <br> TB1:<br> **Diego Cacho** <br> TB1: Para esta entrega participe en el segundo capítulo, entreviste a una persona por cada segmento objetivo para luego analizar los resultos y asi realizar el resto de los puntos.<br> |              |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Maria Hernandez** <br> TB1: <br> **Jesus Millones** <br> TB1: Se realizaron entrevistas a los grupos de usuarios previstos para obtener información clave sobre sus necesidades. Posteriormente, se presentó la propuesta de solución a los potenciales clientes del proyecto, orientando el diseño hacia una alternativa que satisface las expectativas y requerimientos identificados.<br> **Juan Mondoñedo** <br> TB1:Para esta entrega, realicé las secciones de As-Is y To-Be scenarios, toda la sección de arquitectura de la información y el diagrama de base de datos.<br> **Renso Julca** <br> TB1:<br> **Diego Cacho** TB1: Para esta entrega participe en puntos de cada capítulo por medio del documento de Google y la plataforma de GitHub, realice el análisis de los requisitos de los usuarios por medio de las User Stories, los Impact Maps, Journey maps, elementos del Capítulo cinco, entre otros.<br> |              |
 
 
 
@@ -1143,6 +1143,7 @@ Estas características aseguran que la navegación dentro de SoundNest sea clara
 
 ### 4.8.1. Database Diagram.
 
+<img src="images/database_erd.png"/>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -1215,7 +1216,65 @@ Con el fin de gestionar y estructurar las modificaciones realizadas durante el d
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
+En esta sección explicamos los principios de diseño que emplearemos al desarrollar nuestro Landing Page utilizando Angular, siguiendo buenas prácticas en el uso de TypeScript, HTML y SCSS, así como la estructura modular del framework.
+
+**Nomenclatura de archivos**
+
+- Todos los archivos usarán la codificación UTF-8.
+- Utilizaremos comillas dobles de forma consistente en plantillas y estilos.
+- El idioma del contenido será en español e inglés usando internacionalización, pero los nombres de clases, variables, componentes y servicios se escribirán en inglés.
+- Para nombres compuestos se usará el formato kebab-case en archivos (por ejemplo: home-page.component.ts) y camelCase en variables y funciones.
+- Los nombres de componentes seguirán la convención nombre-componente.component.ts/html/scss.
+
+**Estructura del código**
+
+- Usaremos la estructura por módulos de Angular (feature modules) para organizar el código en secciones reutilizables y mantenibles.
+- Cada componente contará con su propio archivo .ts, .html y .scss.
+- Los estilos se escribirán en SCSS y se mantendrán encapsulados a nivel de componente.
+- Utilizaremos selectores de clase para los estilos y evitaremos el uso de selectores globales innecesarios.
+
+**Organización de carpetas**
+
+- Todo el código fuente estará ubicado dentro de la carpeta src/app.
+- Contaremos con una carpeta assets/ para almacenar imágenes, íconos, multimedia y recursos estáticos.
+- Los recursos reutilizables como interfaces, servicios y utilidades estarán organizados en carpetas comunes (shared/, core/, entre otras).
+
+**Buenas prácticas**
+
+- Se aplicará indentación consistente en las plantillas HTML para representar claramente la jerarquía de los componentes y elementos DOM.
+- Los componentes estarán orientados a la responsabilidad única.
+- Los servicios estarán inyectados usando Angular Dependency Injection para mantener un bajo acoplamiento y alta cohesión.
+
 ### 5.1.4. Software Deployment Configuration.
+
+En esta sección se describe la configuración necesaria para desplegar la solución del Landing Page a partir del repositorio de código fuente alojado en GitHub, utilizando GitHub Pages como plataforma de publicación.
+
+**Repositorio de código**
+
+- El código fuente se alojará en un repositorio privado o público de GitHub bajo una organización o cuenta personal.
+- La rama principal del repositorio será main.
+
+**Configuración del proyecto**
+
+- El proyecto estará desarrollado en Angular.
+- Se realizará una compilación de producción utilizando el comando ng build --configuration=production --base-href /landingpage/.
+- El directorio de salida de la compilación (dist/) será el que se utilizará para desplegar en GitHub Pages.
+
+**Pasos para despliegue**
+
+1. Ejecutar npm install para instalar las dependencias del proyecto.
+2. Ejecutar ng build --configuration=production --base-href /landingpage/ para generar la versión optimizada del proyecto.
+3. Instalar la herramienta angular-cli-ghpages en caso de no tenerla: npm install -g angular-cli-ghpages.
+4. Ejecutar npx angular-cli-ghpages --dir=dist/nombre-proyecto para desplegar el contenido generado a la rama gh-pages de GitHub.
+
+**Publicación automática**
+
+- Opcionalmente, se podrá configurar una acción de GitHub Actions para automatizar el proceso de construcción y despliegue cuando haya cambios en la rama main.
+- El archivo de workflow se ubicará en .github/workflows/deploy.yml y especificará los pasos de instalación, build y publicación.
+
+**Consideraciones finales**
+
+- Se debe habilitar GitHub Pages en la configuración del repositorio apuntando a la rama gh-pages y la carpeta raíz (/).
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
