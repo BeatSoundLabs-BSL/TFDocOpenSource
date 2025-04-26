@@ -712,6 +712,61 @@ Para Bárbara, quien además de trabajar en una aerolínea gestiona el alquiler 
 
 ### 2.2.3. Análisis de entrevistas.
 
+**Segmento objetivo \#1: Músicos Principiantes y Profesionales**
+
+* Motivaciones Principales:  
+- Buscar comodidad y eficiencia al momento de alquilar salas de ensayo.
+
+- Mejorar sus prácticas musicales con apoyo de tecnología (como monitoreo de niveles sonoros).
+
+- Tener acceso fácil a espacios que cumplan con buena acústica, ubicación y precio.
+
+- Integrar su pasión musical con sus actividades académicas de forma fluida.
+
+* Problemas Identificados:  
+- Limitada digitalización en el proceso de reservas (todo es presencial).
+
+- Falta de control preciso del tiempo de uso durante las prácticas.
+
+- Dificultad para optimizar su sesión de práctica sin información en tiempo real de los niveles de sonido.
+
+* Requerimientos para una plataforma ideal:  
+- Reservar salas de ensayo de manera digital y rápida.
+
+- Visualizar disponibilidad, precios y características (acústica, tamaño) de las salas.
+
+- Incluir herramientas de monitoreo sonoro para mejorar las sesiones.
+
+- Integración sencilla con redes sociales como Instagram para información y comunicación.
+
+**Segmento objetivo \#2: Administradores de Salas de Ensayo y Estudios Musicales**
+
+* Motivaciones Principales:  
+- Mejorar la organización y control de reservas y pagos.
+
+- Evitar conflictos de horario y asegurar un flujo de ingresos constante.  
+    
+- Mantener un ambiente óptimo y seguro para los músicos, protegiendo su salud auditiva.  
+    
+- Compatibilizar la administración de la sala con otras actividades laborales.
+
+* Problemas Identificados:  
+- Gestión manual de reservas a través de múltiples canales (WhatsApp, Instagram, Facebook).  
+    
+- Dificultad para organizar horarios de uso y pagos de manera eficiente.  
+    
+- Limitaciones en métodos de pago, generando complicaciones en la cobranza.  
+    
+- Falta de monitoreo de niveles sonoros para prevenir problemas de ruido y quejas.
+
+* Requerimientos para una plataforma ideal:  
+- Agenda de reservas digital centralizada y de fácil actualización.  
+    
+- Sistema integrado de cobros digitales (con múltiples opciones de pago).  
+    
+- Herramientas de monitoreo sonoro accesibles desde la plataforma.  
+    
+- Reportes automáticos sobre uso de salas y pagos recibidos para mejor control financiero.
 
 ## 2.3. Needfinding.
 
