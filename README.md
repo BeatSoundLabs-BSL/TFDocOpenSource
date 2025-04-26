@@ -17,10 +17,10 @@ Ciclo 2025-01
 **Profesor:** Bautista Ubillús, Efraín Ricardo
 
 
-**Nombre del StartUp:**
+**Nombre del StartUp:** BeatSoundLabs
 
 
-**Nombre del Producto:**
+**Nombre del Producto:** SoundNest
 
 
 | Miembro             			       |   Código   |
