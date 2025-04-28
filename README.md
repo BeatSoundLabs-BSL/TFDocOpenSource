@@ -1,4 +1,3 @@
-<<<<<<< develop
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC">
 
@@ -18,10 +17,10 @@ Ciclo 2025-01
 **Profesor:** Bautista Ubillús, Efraín Ricardo
 
 
-**Nombre del StartUp:**
+**Nombre del StartUp:** BeatSoundLabs
 
 
-**Nombre del Producto:**
+**Nombre del Producto:** SoundNest
 
 
 | Miembro             			       |   Código   |
@@ -42,7 +41,7 @@ Ciclo 2025-01
 | 1.0     | 05/04/2025 | Castro, Hernández, Millones, Mondoñedo, Julca | Creación del documento de trabajo en formato markdown                                                                 |
 | 1.1     | 06/042025  | Millones                                      | Redacción de la descripción del startup, Business Assumptions, Feature Assumptions                                    |
 | 1.2     | 06/04/2025 | Hernández                                     | Redacción de antecedentes y problemática, Lean UX Problem Statements, User Assumptions, Lean UX Hypothesis Statements |
-| 1.3     |            |                                               |                                                                                                                       |
+| 1.3     | 15/04/2025 | Millones                                      | Elaboración y registro de entrevistas a segmentos objetivo                                                            |
 | 1.4     |            |                                               |                                                                                                                       |
 | 1.5     |            |                                               |                                                                                                                       |
 | 1.6     |            |                                               |                                                                                                                       |
@@ -64,13 +63,12 @@ para cada integrante del equipo:
 | Integrantes     | Tareas Asignadas |
 |-----------------| ---------------- |
 | Maria Hernandez |                  |
-| Jesus Millones  |                  |
+| Jesus Millones  | Lean UX Process. Problem Statement, Assumptions e Hypothesis statements. Lean UX Canvas. User Personas. Registro y análisis de entrevistas. |
 | Juan Mondoñedo  |                  |
 | Renso Julca     |                  |
-| Diego Cacho     |                  |
+| Diego Cacho     | Entrevistas, Needfinding, User Journey Mapping, User Stories, Impact Mapping, Product Backlog, Software Configuration Management,  Software Development Environment Configuration, Source Code Management, Sprint Planning 1.|
 
 
-# Project Report Collaboration Insights
 **Github Collaboration Insights**
 
 Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las
@@ -81,7 +79,7 @@ Los integrantes son:
 
 - Maria Hernandez
 - Jesus Millones - (JJSON-11110)
-- Juan Mondoñedo
+- Juan Mondoñedo - (Jmondonedor)
 - Renso Julca - (rajc02)
 - Diego Cacho - (Memesitos)
 
@@ -92,6 +90,20 @@ Se explican las ramas más prominentes:
 **<code>feature/feature-name</code>:** Es representada por el color verde. Se utiliza para el desarrollo de nuevas funcionalidades específicas del proyecto.
 
 </div>
+
+# Gitflow
+
+<img src="images/GitFlow-TB1.png">
+
+# Student Outcomes
+**Student Outcome 3**
+
+| Criterio específico                                                | Acciones realizadas                                                                            | Conclusiones |
+|--------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Maria Hernandez** TB1: <br> **Jesus Millones** <br> TB1:El documento presentó las herramientas seleccionadas, su propósito y las convenciones usuales, con la finalidad de registrar el proceso de diseño y facilitar la comprensión de los pasos requeridos para crear la aplicación a personas sin experiencia en desarrollo de software. Además, se buscó familiarizarse con el uso del lenguaje Markdown para plasmar esta información en un archivo README.md dentro de GitHub. <br> **Juan Mondoñedo** <br> TB1: Está entrega permitió familiarizarme con el lenguaje Markdown y como emplearlo para redactar secciones como la de Arquitectuda de la información  <br> **Renso Julca** <br> TB1:<br> **Diego Cacho** <br> TB1: Para esta entrega participe en el segundo capítulo, entreviste a una persona por cada segmento objetivo para luego analizar los resultos y asi realizar el resto de los puntos.<br> |              |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Maria Hernandez** <br> TB1: <br> **Jesus Millones** <br> TB1: Se realizaron entrevistas a los grupos de usuarios previstos para obtener información clave sobre sus necesidades. Posteriormente, se presentó la propuesta de solución a los potenciales clientes del proyecto, orientando el diseño hacia una alternativa que satisface las expectativas y requerimientos identificados.<br> **Juan Mondoñedo** <br> TB1:Para esta entrega, realicé las secciones de As-Is y To-Be scenarios, toda la sección de arquitectura de la información y el diagrama de base de datos.<br> **Renso Julca** <br> TB1:<br> **Diego Cacho** TB1: Para esta entrega participe en puntos de cada capítulo por medio del documento de Google y la plataforma de GitHub, realice el análisis de los requisitos de los usuarios por medio de las User Stories, los Impact Maps, Journey maps, elementos del Capítulo cinco, entre otros.<br> |              |
+
+
 
 # Contenido
 
@@ -119,7 +131,7 @@ Se explican las ramas más prominentes:
    2.3. [Needfinding](#23-needfinding)<br>
    2.3.1. [User Personas](#231-user-personas)<br>
    2.3.2. [User Task Matrix](#232-user-task-matrix)<br>
-   2.3.3. [User Journey Mapping](#232-user-task-matrix)<br>
+   2.3.3. [journey](#232-user-task-matrix)<br>
    2.3.4. [Empathy Mapping](#234-empathy-mapping)<br>
    2.3.5. [As-is Scenario Mapping](#235-as-is-scenario-mapping)<br>
    2.4. [Ubiquitous Language](#24-ubiquitous-language)<br>
@@ -178,476 +190,7 @@ Se explican las ramas más prominentes:
 7. [Bibliografía](#bibliografía)<br>
 8. [Anexos](#anexos)<br>
 
-# Student Outcomes
-**Student Outcome 3**
-
-| Criterio específico                                                | Acciones realizadas                                                                            | Conclusiones |
-|--------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Maria Hernandez:<br> Jesus Millones:<br> Juan Mondoñedo:<br> Renso Julca:<br> Diego Cacho:<br> |              |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | Maria Hernandez:<br> Jesus Millones:<br> Juan Mondoñedo:<br> Renso Julca:<br> Diego Cacho:<br> |              |
-
-# Capítulo I: Introducción
-
-## 1.1. Startup Profile
-
-### 1.1.1. Descripción de la Startup
-
-
-### 1.1.2. Perfiles de integrantes del equipo
-| **Perfil**                                     | **Foto**                                                                       |
-|------------------------------------------------|--------------------------------------------------------------------------------|
-| **Hernández Uchuya María Patricia**<br>        | <img src="" alt="maria image" width="200">  |
-| **Millones Espinoza, Jesús Andrés**<br> Estudiante en Ingeniería de Software en la UPC. Me considero una persona puntual, orientada a encontrar soluciones rápidas y lógicas frente a los problemas. Tengo experiencia con el sistema operativo Linux y el lenguaje de programación Java.       | <img src="" alt="images/jesus-millones.png" width="200">  |
-| **Mondoñedo Rodriguez, Juan Diego Javier**<br> | <img src="" alt="juan diego image" width="200">  |
-| **Julca Cruz, Renso Anthony**<br> Estudiante de Ingenieria de Software, actualmente curso el 5to ciclo de esta carrera. Me apasiona programar y ser autodidacta para poder mejorar mis habilidades en el desarrollo de software, quisiera dedicarme a la parte de gestion bancaria.             | <img src="https://files.catbox.moe/vpxlc8.jpg" alt="renso image" width="200">   
-| **Cacho Seminario, Diego Alonso**<br>          | <img src="" alt="diego alonso image" width="200"> |
-
-## 1.2. Solution Profile
-
-### 1.2.1 Antecedentes y problemática
-
-### 1.2.2 Lean UX Process
-
-#### 1.2.2.1. Lean UX Problem Statements
-
-#### 1.2.2.2. Lean UX Assumptions
-##### 1.2.2.2.1. Features
-
-##### 1.2.2.2.2. Business Outcomes
-
-##### 1.2.2.2.3. User Benefits
-
-#### 1.2.2.3. Lean UX Hypothesis Statements.
-
-#### 1.2.2.4. Lean UX Canvas.
-
-## 1.3. Segmentos objetivo.
-
-# Capítulo II: Requirements Elicitation & Analysis
-
-## 2.1. Competidores.
-
-El análisis competitivo es una herramienta clave para la toma de decisiones estratégicas, ya que permite identificar oportunidades, amenazas y desarrollar ventajas competitivas sostenibles en el mercado. Su importancia radica en ayudar a las empresas a adaptarse a un entorno dinámico y a tomar decisiones fundamentadas. A continuación, se presenta la aplicación de esta herramienta en el desarrollo del proyecto y el análisis de los competidores.
-
-### 2.1.1. Análisis competitivo.
-
-<table>
-  <tr>
-    <th colspan="6">Competitive Analysis Landscape</th>
-  </tr>
-  <tr>
-    <td colspan="1" align="center" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
-    <td colspan="5" align="center">¿Cómo identificar a nuestros principales competidores?</td>
-  </tr>
-  <tr>
-    <td colspan="5"  align="center">------</td>
-  </tr>
-  <tr>
-    <th colspan="2" align="center">Nombre y logo</th>
-    <td colspan="1" align="center">
-    <p><b>SoundNest</b></p>
-    <img src="https://files.catbox.moe/v4r0ho.jpg" alt="SoundNest Logo" width="80">
-    </td>
-    <td colspan="1" align="center">
-    <p><b>Pirate.com</b></p>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxgaSeyvVo2aTtfhUVjQLtteOXxA_NCsdlHw&s" alt="Pirate.com Logo" width="80">
-    </td>
-    <td colspan="1" align="center">
-    <p><b>Roomband</b></p>
-    <img src="https://media.licdn.com/dms/image/v2/C4D0BAQG2OMzFzsQtIw/company-logo_200_200/company-logo_200_200/0/1655734470225/roomband_logo?e=2147483647&v=beta&t=j4jX2uRzJZyo4VUQ3l9d52g7nCSSRU3a6HRQ9LFI2Jk" alt="Roomband Logo" width="80">
-    </td>
-    <td colspan="1" align="center">
-    <p><b>Jammed</b></p>
-    <img src="https://media.licdn.com/dms/image/v2/C4E0BAQFvcEuZ5Go0pg/company-logo_200_200/company-logo_200_200/0/1675188675955/jammed_bookings_logo?e=2147483647&v=beta&t=lqJGcHLUR8rpX4ro8KNpcNSadle9q7qUOHrFVBW5JFc" alt="Jammed Logo" width="80">
-    </td>
-  </tr>
-  <tr>
-    <th colspan="1" rowspan="2" align="center">Perfil</th>
-    <td colspan="1" align="center" >Overview</td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-  </tr>
-  <tr>
-    <td colspan="1" align="center">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-  </tr>
-  <tr>
-    <th colspan="1" align="center" rowspan="2">Perfil de marketing</th>
-    <td colspan="1" align="center">Mercado objetivo</td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="1" align="center">Estrategias de marketing</td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-  </tr>
-  <tr>
-    <th colspan="1" align="center" rowspan="3">Perfil del producto</th>
-    <td colspan="1" align="center">Productos & Servicios</td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="1" align="center">Precios y Costos</td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="1" align="center">Canales de distribución (Web y/o Móvil)</td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-    <td colspan="1"></td>
-  </tr>
-  <tr>
-    <th colspan="1" align="center" rowspan="4">Análisis SWOT</th>
-    <td colspan="1" align="center">Fortalezas</td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="1" align="center">Debilidades</td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <li></li>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="1" align="center">Oportunidades</td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="1" align="center">Amenazas</td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-    <td colspan="1">
-    <ul>
-    <li></li>
-    </ul>
-    </td>
-  </tr>
-</table>
-
-
-### 2.1.2. Estrategias y tácticas frente a competidores.
-
-## 2.2. Entrevistas.
-
-### 2.2.1. Diseño de entrevistas.
-
-#### Segmento Objetivo 1: Músicos Principiantes y Profesionales
-1. ¿Cuántos años tienes y en qué distrito de Lima resides?
-2. ¿Cuánto tiempo llevas tocando o componiendo música? ¿Es esta tu ocupación principal?
-3. ¿Con qué frecuencia necesitas alquilar una sala de ensayo o estudio de grabación?
-4. ¿Qué dispositivos digitales sueles usar para gestionar tus ensayos o grabaciones?
-5. ¿Qué tipo de características consideras más importantes al elegir un espacio para ensayar o grabar? (Por ejemplo, precio, acústica, ubicación, equipo disponible)
-6. ¿Cómo sueles gestionar tus reservas de salas de ensayo actualmente?
-7. ¿Has utilizado alguna plataforma o app para reservar espacios de ensayo en el pasado? ¿Cuál fue tu experiencia?
-8. ¿Cuáles son las principales frustraciones que experimentas al utilizar salas de ensayo o estudios musicales?
-9. ¿Qué opinas sobre el monitoreo de niveles sonoros en tiempo real en los estudios de ensayo? ¿Te gustaría contar con esa función?
-10. ¿En qué redes sociales o plataformas digitales te informas o interactúas más como músico?
-
-#### Segmento Objetivo 2: Administradores de Salas de Ensayo y Estudios Musicales
-1. ¿Cuántos años tienes y cuál es tu ocupación? ¿Trabajas exclusivamente en la gestión de espacios musicales o en otra actividad también?
-2. ¿Cuántas salas de ensayo o estudios gestionas y cuántos usuarios suelen alquilar los espacios mensualmente?
-3. ¿Qué tipo de herramientas digitales usas actualmente para gestionar las reservas, pagos y horarios de las salas?
-4. ¿Cuáles son los mayores desafíos que enfrentas al administrar una sala de ensayo o estudio musical?
-5. ¿Qué factores consideras más importantes al establecer tarifas y horarios para las salas de ensayo?
-6. ¿Usas alguna plataforma online para promocionar tus espacios de ensayo? ¿Cómo gestionas la visibilidad de tu sala?
-7. ¿Qué tan importante es para ti contar con un sistema automatizado para la gestión de reservas y pagos?
-8. ¿Te gustaría tener la capacidad de monitorear los niveles sonoros de los usuarios en tus espacios? ¿Qué beneficios o inconvenientes ves en esta funcionalidad?
-9. ¿Qué tipo de dispositivos o software utilizas para controlar los accesos y la seguridad en tus espacios de ensayo?
-10. ¿Qué plataformas o redes sociales utilizas para comunicarte con tus clientes y promocionar tus servicios?
-
-### 2.2.2. Registro de entrevistas.
-
-**Segmento objetivo #1: Músicos Principiantes y Profesionales**
-=======
-# **COURSE PROJECT**
-
-<p align="center">
-  <img src="Assets/UPC_logo.png" alt="Logo de la UPC" />
-</p>
-
-<p align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></p>
-
-<p align="center"><strong>Ingeniería de Software</strong><br>
-Desarrollo de Aplicaciones Open Source - #### <br>
-<strong>Profesor:</strong> ##########################</p>
-
-<h2 align="center">INFORME</h2>
-
-<h3 align="center">Startup: BeatSoundLabs</h3>
-<p align="center"><strong>Producto: SoundNest</strong></p>
-
-<h3 align="center">Team Members:</h3>
-
-<div align="center">
-
-
-| **Member**              | **Code** |
-| ----------------------------- | -------------- |
-| Hernández Uchuya María Patricia		 | U202311258 |
-| Millones Espinoza, Jesús Andrés 		 | U20211B598 |
-| Mondoñedo Rodriguez, Juan Diego Javier   | U202110373 |
-| Julca Cruz, Renso Anthony 			 | U202121579 |
-| Cacho Seminario, Diego Alonso 		 | U202223990 |
-
 </div>
-
-<p align="center"><strong>Abril 2025</strong></p>
-
-# Registro de Versiones del Informe
-<div align="center">
-
-
-| **Versión**              | **Fecha** | **Autor** | **Descripción de modificación** |
-| ------------------------ | ----------| ----------| ------------------------------- |
-| 1.0 | 05/04/2025 | Castro, Hernández, Millones, Mondoñedo, Julca | Creación del documento de trabajo en formato markdown |
-| 1.1 | 06/04/2025 | Millones | Redacción de la descripción del startup, Business Assumptions, Feature Assumptions |
-| 1.2 | 06/04/2025 | Hernández | Redacción de antecedentes y problemática, Lean UX Problem Statements, User Assumptions, Lean UX Hypothesis Statements |
-
-</div>
-
-
-\#Project Report Collaboration Insights
-\</div\>
-
-\#Contenido
-
-\#Student Outcomes
-
-Contenido
-
-[**Capítulo I: Introducción**](#capítulo-i:-introducción)
-
-[1.1. Startup Profile](#1.1.-startup-profile)
-
-[1.1.1. Descripción de la Startup](#1.1.1.-descripción-de-la-startup)
-
-[1.1.2. Perfiles de integrantes del equipo](#1.1.2.-perfiles-de-integrantes-del-equipo)
-
-[1.2. Solution Profile](#1.2.-solution-profile)
-
-[1.2.1 Antecedentes y problemática](#1.2.1-antecedentes-y-problemática)
-
-[1.2.2 Lean UX Process](#1.2.2-lean-ux-process)
-
-[1.2.2.1 Lean UX Problem Statements](#1.2.2.1-lean-ux-problem-statements)
-
-[1.2.2.2 Lean UX Assumptions](#1.2.2.2-lean-ux-assumptions)
-
-[1.2.2.3 Lean UX Hypothesis Statements](#1.2.2.3-lean-ux-hypothesis-statements)
-
-[1.2.2.4 Lean UX Canvas](#1.2.2.4-lean-ux-canvas)
-
-[1.3 Segmentos objetivo](#1.3-segmentos-objetivo)
-
-[**Capítulo II: Requirements Elicitation & Analysis**](#capítulo-ii:-requirements-elicitation-&-analysis)
-
-[2.1 Competidores](#2.1-competidores)
-
-[2.1.1 Análisis competitivo](#2.1.1-análisis-competitivo)
-
-[2.1.2 Estrategias y tácticas frente a competidores](#2.1.2-estrategias-y-tácticas-frente-a-competidores)
-
-[2.2 Entrevistas](#2.2-entrevistas)
-
-[2.2.1 Diseño de entrevistas](#2.2.1-diseño-de-entrevistas)
-
-[2.2.2 Registro de entrevistas](#2.2.2-registro-de-entrevistas)
-
-[2.2.3 Análisis de entrevistas](#2.2.3-análisis-de-entrevistas)
-
-[2.3 Needfinding](#2.3-needfinding)
-
-[2.3.1 User Personas](#2.3.1-user-personas)
-
-[2.3.2 User Task Matrix](#2.3.2-user-task-matrix)
-
-[2.3.3 User Journey Mapping](#2.3.3-user-journey-mapping)
-
-[2.3.4 Empathy Mapping](#2.3.4-empathy-mapping)
-
-[2.3.5 As-is Scenario Mapping](#2.3.5-as-is-scenario-mapping)
-
-[2.4 Ubiquitous Language](#2.4-ubiquitous-language)
-
-[**Capítulo III: Requirements Specification**](#capítulo-iii:-requirements-specification)
-
-[3.1 To-Be Scenario Mapping](#3.1-to-be-scenario-mapping)
-
-[3.2 User Stories](#3.2-user-stories)
-
-[3.3 Impact Mapping](#3.3-impact-mapping)
-
-[3.4 Product Backlog](#3.4-product-backlog)
-
-[6\. Conclusiones y recomendaciones](#6.-conclusiones-y-recomendaciones)
-
-[6.1 Video About-the-Team.](#6.1-video-about-the-team.)
-
-[8\. Bibliografía](#8.-bibliografía)
-
-[9\. Anexos](#9.-anexos)
-
 
 ## Capítulo I: Introducción
 
@@ -664,36 +207,15 @@ Nuestra startup, “BeatSoundLabs” (abreviando BSL), propone una solución tec
 **Visión:** Ser la solución tecnológica preferida por músicos y gestores de espacios musicales en Perú, siendo reconocidos por nuestra capacidad de innovación constante y por transformar la experiencia de uso de salas de ensayo y estudios de grabación.
 
 ### 1.1.2. Perfiles de integrantes del equipo
+| **Perfil**                                     | **Foto**                                                                       |
+|------------------------------------------------|--------------------------------------------------------------------------------|
+| **Hernández Uchuya María Patricia**<br>        | <img src="images/" width="350"/>  |
+| **Millones Espinoza, Jesús Andrés**<br> Estudiante en Ingeniería de Software en la UPC. Me considero una persona puntual, orientada a encontrar soluciones rápidas y lógicas frente a los problemas. Tengo experiencia con el sistema operativo Linux y el lenguaje de programación Java.       | <img src="images/jesus-millones.png" width="350"/>  |
+| **Mondoñedo Rodriguez, Juan Diego Javier**<br> Estudiante de 20 años actualmente cursando la carrera de Ingeniería de Software.  Me destaco por mi habilidad lógica, comprensión rápida y adaptabilidad, cualidades que emplearé para contribuir positivamente en la realización de nuestro proyecto.| <img src="images/JD_Mondoñedo.jpg" width="350"/>  |
+| **Julca Cruz, Renso Anthony**<br> Estudiante de Ingenieria de Software, actualmente curso el 5to ciclo de esta carrera. Me apasiona programar y ser autodidacta para poder mejorar mis habilidades en el desarrollo de software, quisiera dedicarme a la parte de gestion bancaria.             | <img src="https://files.catbox.moe/vpxlc8.jpg" width="350"/>   
+| **Cacho Seminario, Diego Alonso**<br>Soy estudiante de Ingeniería de Software cursando el 6to ciclo de mi carrera en la UPC y tengo 20 años. Me considero una persona tranquila y diligente, intentó realizar mis tareas y trabajos lo antes posible para evitar contratiempos en un futuro, especialmente si son actividades que consumen mucho tiempo. Como miembro de equipo buscaré ayudar a mis compañeros cuando lo necesiten, realizando además mis entregas lo más temprano posible. Habilidades en C++, C#, Python, Unity 2D/3D, html/css/js.          | <img src="images/diego_cacho.png" width="350"/> |
 
-| Nombre: | \[Foto\] |
-| :---- | :---: |
-| **Código:** |  |
-| **Carrera:** |  |
-| **Habilidades:** |  |
 
-| Nombre: Cacho Seminario, Diego Alonso | \[Foto\] |
-| :---- | :---: |
-| **Código:** U202223990 |  |
-| **Carrera:** Ingeniería de Software |  |
-| **Habilidades:** Soy estudiante de Ingeniería de Software cursando el 6to ciclo de mi carrera en la UPC y tengo 20 años. Me considero una persona tranquila y diligente, intentó realizar mis tareas y trabajos lo antes posible para evitar contratiempos en un futuro, especialmente si son actividades que consumen mucho tiempo. Como miembro de equipo buscaré ayudar a mis compañeros cuando lo necesiten, realizando además mis entregas lo más temprano posible. Habilidades en C++, C\#, Python, Unity 2D/3D, html/css/js. |  |
-
-| Nombre:  | \[Foto\] |
-| :---- | :---: |
-| **Código:**  |  |
-| **Carrera:**  |  |
-| **Habilidades:**  |  |
-
-| Nombre:  | \[Foto\] |
-| :---- | :---: |
-| **Código:**  |  |
-| **Carrera:**  |  |
-| **Habilidades:**  |  |
-
-| Nombre:  | \[Foto\] |
-| :---- | :---: |
-| **Código:**  |  |
-| **Carrera:**  |  |
-| **Habilidades:**  |  |
 
 ### 1.2. Solution Profile
 
@@ -738,7 +260,7 @@ Según estudios, la industria musical independiente ha crecido, pero el 78% de l
 
 El proceso Lean UX se centra en la validación rápida de ideas y en la colaboración constante con los usuarios para desarrollar productos que realmente satisfagan sus necesidades.
 
-#### 1.2.2.1 Lean UX Problem Statements
+#### 1.2.2.1. Lean UX Problem Statements
 
 BeatSoundLabs es una startup que busca revolucionar el acceso y la gestión de salas de ensayo y estudios musicales en el Perú mediante SoundNest, una plataforma digital que automatiza reservas, pagos y monitoreo acústico. Nuestra solución está diseñada para optimizar la experiencia tanto de músicos como de administradores, promoviendo un uso eficiente y ordenado de estos espacios.
 
@@ -746,73 +268,62 @@ Hemos observado un factor crítico que afecta a músicos y administradores, y es
 
 ¿Cómo podríamos optimizar la gestión y el acceso a salas de ensayo y estudios musicales, eliminando las barreras de los procesos manuales y garantizando un uso eficiente, transparente y acústicamente responsable de estos espacios?
 
-#### 1.2.2.2 Lean UX Assumptions
+#### 1.2.2.2. Lean UX Assumptions
 
 Business Assumptions:
-
-1. **Los administradores de salas de ensayo** y estudios de grabación están dispuestos a adoptar una plataforma digital que facilite la gestión de sus operaciones.  
-2. **Los administradores de salas de ensayos** desean herramientas digitales que les permitan simplificar la gestión de sus espacios sin requerir conocimientos técnicos avanzados.  
-3. **Los administradores de salas de ensayo** desean herramientas digitales que les permitan automatizar y simplificar la gestión de sus espacios sin requerir conocimientos técnicos avanzados.  
-4. **Los administradores de salas de ensayo** estarían dispuestos a invertir en herramientas que eviten sanciones o cierres, ya que existe una necesidad de monitoreo sonoro en tiempo real debido a restricciones municipales o quejas frecuentes de vecinos,   
-5. **Los músicos** valorarán y harán uso de una solución que les permita reservar espacios de ensayo y grabación de manera remota y automatizada.  
-6. **Los músicos** valoran poder conocer la disponibilidad, precios y características de un espacio en tiempo real antes de reservar, especialmente cuando ensayan en diferentes distritos o ciudades.  
-7. **La integración de funcionalidades** de monitoreo en tiempo real ayudará a los estudios de grabación a cumplir con las normativas acústicas y reducirá conflictos con comunidades cercanas.  
+1. **Los administradores de salas de ensayo** y estudios de grabación están dispuestos a adoptar una plataforma digital que facilite la gestión de sus operaciones.
+2. **Los administradores de salas de ensayos** desean herramientas digitales que les permitan simplificar la gestión de sus espacios sin requerir conocimientos técnicos avanzados.
+3. **Los administradores de salas de ensayo** desean herramientas digitales que les permitan automatizar y simplificar la gestión de sus espacios sin requerir conocimientos técnicos avanzados.
+4. **Los administradores de salas de ensayo** estarían dispuestos a invertir en herramientas que eviten sanciones o cierres, ya que existe una necesidad de monitoreo sonoro en tiempo real debido a restricciones municipales o quejas frecuentes de vecinos, 
+5. **Los músicos** valorarán y harán uso de una solución que les permita reservar espacios de ensayo y grabación de manera remota y automatizada.
+6. **Los músicos** valoran poder conocer la disponibilidad, precios y características de un espacio en tiempo real antes de reservar, especialmente cuando ensayan en diferentes distritos o ciudades.
+7. **La integración de funcionalidades** de monitoreo en tiempo real ayudará a los estudios de grabación a cumplir con las normativas acústicas y reducirá conflictos con comunidades cercanas.
 8. **La implementación con tecnologías IoT** para la automatización de accesos, iluminación y control ambiental mejorará la experiencia de administradores y músicos.
 
 User Assumptions:
++ ¿Quién es el usuario?
+Nuestros usuarios principales son músicos que necesitan alquilar salas de ensayo o estudios de grabación con facilidad, y administradores de estos espacios que buscan optimizar la gestión de reservas, pagos y control acústico.
 
-* ¿Quién es el usuario?  
-  Nuestros usuarios principales son músicos que necesitan alquilar salas de ensayo o estudios de grabación con facilidad, y administradores de estos espacios que buscan optimizar la gestión de reservas, pagos y control acústico.  
-    
-* ¿Dónde encaja nuestro producto en su trabajo o vida?  
-  SoundNest se integra en la rutina de los músicos al agilizar la búsqueda y reserva de espacios, mientras que para los administradores funciona como una herramienta centralizada de gestión, reemplazando métodos manuales y reduciendo errores operativos.  
-    
-* ¿Qué problemas tiene nuestro producto? ¿Resolver?  
-  Elimina la desorganización en reservas, evita conflictos por pagos no registrados o reservas dobles, y reduce quejas por exceso de ruido mediante monitoreo acústico en tiempo real, mejorando la experiencia tanto para músicos como para dueños de estudios.  
-    
-* ¿Cuándo y cómo es nuestro producto? ¿Usado?  
-  Los músicos lo usan cuando necesitan reservar un espacio desde cualquier dispositivo, mientras que los administradores lo utilizan diariamente para gestionar horarios, pagos y recibir alertas acústicas, todo en una plataforma accesible desde web o móvil.  
-    
-* ¿Qué características son importantes?  
-  Las características más resaltantes son las reservas automatizadas con disponibilidad en tiempo real, un sistema de pagos integrado el cual es transparente y seguro, monitoreo acústico con alertas, y sobre todo una interfaz intuitiva para ambos tipos de usuarios.  
-    
-* ¿Cómo debe verse nuestro producto y cómo debe comportarse?  
-  El producto debe presentar una interfaz limpia, intuitiva y visualmente atractiva, diseñada para facilitar la interacción tanto de músicos como de administradores. Debe priorizar la velocidad de respuesta y la claridad en la visualización de espacios disponibles, horarios y datos acústicos. Su comportamiento debe ser confiable, con notificaciones en tiempo real y un sistema seguro que proteja la información de pagos y reservas, garantizando una experiencia fluida y profesional para todos los usuarios.
++ ¿Dónde encaja nuestro producto en su trabajo o vida?
+SoundNest se integra en la rutina de los músicos al agilizar la búsqueda y reserva de espacios, mientras que para los administradores funciona como una herramienta centralizada de gestión, reemplazando métodos manuales y reduciendo errores operativos.
+
++ ¿Qué problemas tiene nuestro producto? ¿Resolver?
+Elimina la desorganización en reservas, evita conflictos por pagos no registrados o reservas dobles, y reduce quejas por exceso de ruido mediante monitoreo acústico en tiempo real, mejorando la experiencia tanto para músicos como para dueños de estudios.
+
++ ¿Cuándo y cómo es nuestro producto? ¿Usado?
+Los músicos lo usan cuando necesitan reservar un espacio desde cualquier dispositivo, mientras que los administradores lo utilizan diariamente para gestionar horarios, pagos y recibir alertas acústicas, todo en una plataforma accesible desde web o móvil.
+
++ ¿Qué características son importantes?
+Las características más resaltantes son las reservas automatizadas con disponibilidad en tiempo real, un sistema de pagos integrado el cual es transparente y seguro, monitoreo acústico con alertas, y sobre todo una interfaz intuitiva para ambos tipos de usuarios.
+
++ ¿Cómo debe verse nuestro producto y cómo debe comportarse?
+El producto debe presentar una interfaz limpia, intuitiva y visualmente atractiva, diseñada para facilitar la interacción tanto de músicos como de administradores. Debe priorizar la velocidad de respuesta y la claridad en la visualización de espacios disponibles, horarios y datos acústicos. Su comportamiento debe ser confiable, con notificaciones en tiempo real y un sistema seguro que proteja la información de pagos y reservas, garantizando una experiencia fluida y profesional para todos los usuarios.
 
 Feature Assumptions:
++ **Creemos que** al proporcionar a los administradores una plataforma digital para gestionar reservas, horarios y pagos, mejoraremos la eficiencia operativa y reduciremos errores en la gestión de sus espacios.
++ **Creemos que** al ofrecer a los músicos una aplicación que les permita reservar espacios de ensayo y grabación de forma remota y automatizada, aumentaremos la satisfacción del usuario y la frecuencia de uso de los espacios.
++ **Creemos que** al integrar monitoreo de niveles sonoros en tiempo real, ayudaremos a los estudios a cumplir con las normativas acústicas y reduciremos las quejas de las comunidades vecinas.
++ **Creemos que** al incorporar tecnologías IoT para la automatización de accesos, iluminación y control ambiental, mejoraremos la experiencia del usuario y optimizaremos el uso de recursos en los espacios de ensayo y grabación.
 
-* **Creemos que** al proporcionar a los administradores una plataforma digital para gestionar reservas, horarios y pagos, mejoraremos la eficiencia operativa y reduciremos errores en la gestión de sus espacios.  
-* **Creemos que** al ofrecer a los músicos una aplicación que les permita reservar espacios de ensayo y grabación de forma remota y automatizada, aumentaremos la satisfacción del usuario y la frecuencia de uso de los espacios.  
-* **Creemos que** al integrar monitoreo de niveles sonoros en tiempo real, ayudaremos a los estudios a cumplir con las normativas acústicas y reduciremos las quejas de las comunidades vecinas.  
-* **Creemos que** al incorporar tecnologías IoT para la automatización de accesos, iluminación y control ambiental, mejoraremos la experiencia del usuario y optimizaremos el uso de recursos en los espacios de ensayo y grabación.
+#### 1.2.2.3. Lean UX Hypothesis Statements.
++ Hypothesis Statement 01:
+**Creemos que** la automatización de reservas y pagos reducirá significativamente los conflictos por reservas dobles y pagos no registrados en los estudios musicales.
+**Sabremos que hemos tenido éxito**
+**Cuando** se reporte una disminución del 60% en disputas por reservas y un 80% de transacciones procesadas correctamente en los primeros tres meses del lanzamiento.
++ Hypothesis Statement 02:
+**Creemos que** la transparencia en precios y disponibilidad incentivará a más músicos a utilizar salas de ensayo con mayor frecuencia.
+**Sabremos que hemos tenido éxito**
+**Cuando** el 65% de los músicos usuarios active notificaciones para nuevas disponibilidades y se observe un aumento del 40% en reservas recurrentes por usuario en seis meses después del lanzamiento.
++ Hypothesis Statement 03:
+**Creemos que** la plataforma mejorará la eficiencia operativa de los administradores al centralizar la gestión de horarios, pagos y control acústico en un solo lugar.
+**Sabremos que hemos tenido éxito**
+**Cuando** los administradores reporten una reducción del 50% en el tiempo dedicado a la gestión manual de sus espacios, según una encuesta realizada después de cuatro meses de uso.
++ Hypothesis Statement 04:
+**Creemos que** la implementación de un sistema de calificaciones y reseñas mejorará la calidad de los espacios musicales y la confianza de los usuarios.
+**Sabremos que hemos tenido éxito**
+**Cuando** el 85% de las reservas se realicen en espacios con al menos 4 estrellas de calificación y el 70% de los usuarios consulte las reseñas antes de reservar.
 
-#### 1.2.2.3 Lean UX Hypothesis Statements
-
-* #### Hypothesis Statement 01:   **Creemos que** la automatización de reservas y pagos reducirá significativamente los conflictos por reservas dobles y pagos no registrados en los estudios musicales.
-
-  #### **Sabremos que hemos tenido éxito**
-
-  #### **Cuando** se reporte una disminución del 60% en disputas por reservas y un 80% de transacciones procesadas correctamente en los primeros tres meses del lanzamiento.
-
-* #### Hypothesis Statement 02:   **Creemos que** la transparencia en precios y disponibilidad incentivará a más músicos a utilizar salas de ensayo con mayor frecuencia.
-
-  #### **Sabremos que hemos tenido éxito**
-
-  #### **Cuando** el 65% de los músicos usuarios active notificaciones para nuevas disponibilidades y se observe un aumento del 40% en reservas recurrentes por usuario en seis meses después del lanzamiento.
-
-* #### Hypothesis Statement 03:   **Creemos que** la plataforma mejorará la eficiencia operativa de los administradores al centralizar la gestión de horarios, pagos y control acústico en un solo lugar.
-
-  #### **Sabremos que hemos tenido éxito**
-
-  #### **Cuando** los administradores reporten una reducción del 50% en el tiempo dedicado a la gestión manual de sus espacios, según una encuesta realizada después de cuatro meses de uso.
-
-* #### Hypothesis Statement 04:
-
-  **Creemos que** la implementación de un sistema de calificaciones y reseñas mejorará la calidad de los espacios musicales y la confianza de los usuarios.  
-  **Sabremos que hemos tenido éxito**  
-  **Cuando** el 85% de las reservas se realicen en espacios con al menos 4 estrellas de calificación y el 70% de los usuarios consulte las reseñas antes de reservar.
-
-#### 1.2.2.4 Lean UX Canvas
+#### 1.2.2.4. Lean UX Canvas.
 
 [Enlace para acceder al mural en Miro](https://miro.com/welcomeonboard/SmhGUGM5eVM0RHVZWGZTNkJuUUgvcU0zMW5SZ2ZITmhTdXVpVURFTDlSUEV6YlVuTzhBWnJMN0I3MlFCdjZqdFYwR2JJK2R0Q3dqL1M5NHRJZHdwY3Rhd0VRRnBZbklIQ3lUQlRLNk9OREk1Lyt0ZU1DOUNobWhCTmo1VXRGNlNNakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=616838686049)
 
@@ -824,14 +335,13 @@ Feature Assumptions:
 
 Según el Ministerio de Comercio Exterior y Turismo (Mincetur, 2021), el Perú cuenta con más de 90,000 artistas populares registrados, de los cuales muchos pertenecen al sector musical, tanto emergente como profesional. Este sector, especialmente en Lima Metropolitana, sigue siendo altamente dependiente de herramientas digitales básicas como Excel y WhatsApp, con un 65% de músicos utilizando estas plataformas para gestionar sus actividades diarias. Sin embargo, solo el 10% de los administradores de salas de ensayo y estudios musicales emplean software especializado, lo que representa una oportunidad clara para introducir una solución tecnológica que automatice y optimice los procesos de reserva, gestión y control acústico en estos espacios. Además, un estudio de Microsoft (2023) revela que el 94% de las pequeñas y medianas empresas peruanas han invertido en tecnología, y el 68% ha reconocido obstáculos relacionados con la falta de conocimiento y personal capacitado en soluciones digitales. Esto subraya la necesidad de plataformas intuitivas como **SoundNest** que promuevan la digitalización de los espacios musicales, beneficiando tanto a músicos como a administradores.
 
-
 # Capítulo II: Requirements Elicitation & Analysis
 
-### 2.1 Competidores
+## 2.1. Competidores.
 
 El análisis competitivo es una herramienta clave para la toma de decisiones estratégicas, ya que permite identificar oportunidades, amenazas y desarrollar ventajas competitivas sostenibles en el mercado. Su importancia radica en ayudar a las empresas a adaptarse a un entorno dinámico y a tomar decisiones fundamentadas. A continuación, se presenta la aplicación de esta herramienta en el desarrollo del proyecto y el análisis de los competidores.
 
-### 2.1.1 Análisis competitivo
+### 2.1.1. Análisis competitivo.
 
 | Competitive Analysis Landscape |  |  |  |  |  |
 | ----- | :---- | :---- | :---- | :---- | :---- |
@@ -898,9 +408,8 @@ Con base en el análisis competitivo realizado anteriormente, se identificaron c
 
 ### 2.2.2 Registro de entrevistas
 
-**Segmento objetivo \#1: Músicos Principiantes y Profesionales**
+### **Segmento objetivo \#1: Músicos Principiantes y Profesionales**
 
->>>>>>> main
 Entrevistado N°1: Mario André Cacho Seminario
 
 * Sexo: Masculino  
@@ -917,43 +426,10 @@ Resumen:
 
 Para Mario, que lleva 6 meses iniciándose en la música como hobby y combina esta pasión con sus estudios, la experiencia de alquilar salas de ensayo se centra en la comodidad y eficiencia. Actualmente alquila estudios dos veces por semana y utiliza su propia cámara para grabar sus prácticas. Al momento de elegir un estudio, valora principalmente la ubicación, el tamaño, la acústica y el precio. Sus reservas las realiza de forma presencial, ya que no utiliza plataformas digitales para este proceso, lo que genera como principal frustración la gestión del tiempo de uso durante sus reservas. Además, considera que contar con un monitoreo de niveles sonoros sería una herramienta de gran ayuda para mejorar sus prácticas y cumplir con los límites adecuados. Finalmente, su canal principal de información e interacción en el ámbito musical es Instagram.
 
-<<<<<<< develop
 
-**Segmento objetivo #2: Administradores de Salas de Ensayo y Estudios Musicales**
-Entrevistado N°1:
-=======
-Entrevistado N°2:
+### **Segmento objetivo \#2: Administradores de Salas de Ensayo y Estudios Musicales**
 
-* Sexo:  
-* Edad:  
-* Ubicación en la que vive:
-
-Acerca de la entrevista:
-
-* Link:  
-* Instante en el que inicia:  
-* Duración:
-
-Resumen:
-
-Entrevistado N°3:
-
-* Sexo:  
-* Edad:  
-* Ubicación en la que vive:
-
-Acerca de la entrevista:
-
-* Link:  
-* Instante en el que inicia:  
-* Duración:
-
-Resumen:
-
-**Segmento objetivo \#2: Administradores de Salas de Ensayo y Estudios Musicales**
-
-EEntrevistado N°1:
->>>>>>> main
+Entrevistada N°1: Barbara Eliana Seminario Leon
 
 * Sexo: Femenino  
 * Edad: 51  
@@ -969,9 +445,80 @@ Resumen:
 
 Para Bárbara, quien además de trabajar en una aerolínea gestiona el alquiler de una sala de ensayo en su casa para músicos, la organización y control de su servicio es un desafío constante. Actualmente administra una única sala con capacidad para cinco personas con sus instrumentos y realiza las reservas a pedido, gestionando la comunicación principalmente a través de WhatsApp, Instagram y Facebook, mientras que los pagos los recibe mediante Yape o transferencias vía BCP. Considera complicado el proceso de agendar horarios y organizar las reservas, por lo que valora mucho un sistema que facilite la gestión tanto de horarios como de pagos, permitiéndole mantener un mejor control y equilibrio entre disponibilidad y cobros. Le gustaría contar con métodos de pago más flexibles y justos para ambas partes y considera importante poder monitorear los niveles sonoros de la sala, tanto para evitar molestias como para proteger la salud auditiva de sus clientes. Actualmente no utiliza ningún software especializado para la administración de su sala de ensayo.
 
-<<<<<<< develop
+Entrevistado N°2:
+
+* Sexo: Masculino
+* Edad: 27
+* Ubicación en la que vive: Ate Vitarte
+
+Acerca de la entrevista:
+
+* Link: https://youtu.be/kiyxliZ0Myw
+* Instante en el que inicia: 0:22
+* Duración: 3:16
+
+Resumen:
+
+Germán administra una sala de ensayo en Ate y complementa esta labor con trabajos freelance de mezcla y grabación. Su espacio es utilizado por 40 a 60 bandas al mes, con mayor demanda en temporadas previas a conciertos. Gestiona reservas y pagos con herramientas básicas como Excel, WhatsApp y Google Calendar, lo que ha generado problemas como doble reservas y desorden en la coordinación. Aunque promociona su sala por Instagram y Facebook, todo lo maneja manualmente. Considera crucial contar con un sistema automatizado que facilite la gestión y evite perder clientes por demoras. Además, ve con buenos ojos la posibilidad de monitorear niveles sonoros para evitar daños a los equipos o molestias a terceros, aunque reconoce que debe comunicarse bien con los usuarios para que no lo vean como invasivo. En cuanto a seguridad, utiliza cámara y cerradura digital, pero no cuenta con un sistema integral. Su canal principal de contacto y promoción es WhatsApp.
+
 
 ### 2.2.3. Análisis de entrevistas.
+
+**Segmento objetivo \#1: Músicos Principiantes y Profesionales**
+
+* Motivaciones Principales:  
+- Buscar comodidad y eficiencia al momento de alquilar salas de ensayo.
+
+- Mejorar sus prácticas musicales con apoyo de tecnología (como monitoreo de niveles sonoros).
+
+- Tener acceso fácil a espacios que cumplan con buena acústica, ubicación y precio.
+
+- Integrar su pasión musical con sus actividades académicas de forma fluida.
+
+* Problemas Identificados:  
+- Limitada digitalización en el proceso de reservas (todo es presencial).
+
+- Falta de control preciso del tiempo de uso durante las prácticas.
+
+- Dificultad para optimizar su sesión de práctica sin información en tiempo real de los niveles de sonido.
+
+* Requerimientos para una plataforma ideal:  
+- Reservar salas de ensayo de manera digital y rápida.
+
+- Visualizar disponibilidad, precios y características (acústica, tamaño) de las salas.
+
+- Incluir herramientas de monitoreo sonoro para mejorar las sesiones.
+
+- Integración sencilla con redes sociales como Instagram para información y comunicación.
+
+**Segmento objetivo \#2: Administradores de Salas de Ensayo y Estudios Musicales**
+
+* Motivaciones Principales:  
+- Mejorar la organización y control de reservas y pagos.
+
+- Evitar conflictos de horario y asegurar un flujo de ingresos constante.  
+    
+- Mantener un ambiente óptimo y seguro para los músicos, protegiendo su salud auditiva.  
+    
+- Compatibilizar la administración de la sala con otras actividades laborales.
+
+* Problemas Identificados:  
+- Gestión manual de reservas a través de múltiples canales (WhatsApp, Instagram, Facebook).  
+    
+- Dificultad para organizar horarios de uso y pagos de manera eficiente.  
+    
+- Limitaciones en métodos de pago, generando complicaciones en la cobranza.  
+    
+- Falta de monitoreo de niveles sonoros para prevenir problemas de ruido y quejas.
+
+* Requerimientos para una plataforma ideal:  
+- Agenda de reservas digital centralizada y de fácil actualización.  
+    
+- Sistema integrado de cobros digitales (con múltiples opciones de pago).  
+    
+- Herramientas de monitoreo sonoro accesibles desde la plataforma.  
+    
+- Reportes automáticos sobre uso de salas y pagos recibidos para mejor control financiero.
 
 ## 2.3. Needfinding.
 
@@ -979,68 +526,42 @@ Para Bárbara, quien además de trabajar en una aerolínea gestiona el alquiler 
  - User persona músico profesional
 <img src="images/user_persona_german.png">
  - User persona administrador de sala de ensayo
- - <img src="user_persona_jaime.png">
+<img src="images/user_persona_jaime.png">
 ### 2.3.2. User Task Matrix.
 
-### 2.3.3. User Journey Mapping.
+Aquí se presenta el User Task Matrix, esta herramienta está centrada en ambos segmentos objetivo y nos permitirá identificar los objetos clave y tareas de nuestros usuarios.
 
-### 2.3.5. As-is Scenario Mapping.
+| USER TASK  | Germán Garmendia |  | Jaime Altozano |  |
+| ----- | ----- | :---- | ----- | :---- |
+|  | Frequency | Importance | Frequency | Importance |
+| Reservar una sala de ensayo | Often | High | Sometimes | Medium |
+| Gestionar ensayos de su banda | Often | High | Sometimes | Medium |
+| Evaluar y recomendar salas | Often | Medium | Sometimes | High |
+| Publicar disponibilidad de salas | Sometimes | Medium | Often | High |
+| Gestionar reservas | Sometimes | High | Often | High |
+| Monitorear estado de las instalaciones | Sometimes | Medium | Sometimes | High |
 
-## 2.4. Ubiquitous Language.
+### 2.3.3 journey
 
-# Capítulo III: Requirements Specification
+User Journey Map Segmento Objetivo 1:
 
-## 3.1. To-Be Scenario Mapping.
+<img src="images/JourneyMapSeg1.png">
 
-## 3.2. User Stories.
-=======
-Entrevistado N°2:
+User Journey Map Segmento Objetivo 2:
 
-* Sexo:  
-* Edad:  
-* Ubicación en la que vive:
-
-Acerca de la entrevista:
-
-* Link:  
-* Instante en el que inicia:  
-* Duración:
-
-Resumen:
-
-Entrevistado N°3:
-
-* Sexo:  
-* Edad:  
-* Ubicación en la que vive:
-
-Acerca de la entrevista:
-
-* Link:  
-* Instante en el que inicia:  
-* Duración:
-
-Resumen:
-
-### 2.2.3 Análisis de entrevistas
-
-## 2.3 Needfinding
-
-### 2.3.1 User Personas
-
-* User persona músico profesional
-
-![][image1]
-
-* User persona administrador de sala de ensayo
-
-![][image2]
-
-### 2.3.2 User Task Matrix
-
-### 2.3.3 User Journey Mapping
+<img src="images/JourneyMapSeg2.png">
 
 ### 2.3.4 Empathy Mapping
+
+Esta sección expone el Empathy Mapping, una herramienta utilizada para construir un perfil completo de los user personas, permitiendo captar a fondo su perspectiva y vivencias. Para cada perfil de usuario, se abordan cinco aspectos fundamentales: lo que observa, lo que oye, lo que expresa, lo que realiza y lo que experimenta emocionalmente. Asimismo, se identifican sus frustraciones (pains) y motivaciones (gains) a partir de la pregunta clave: ¿Qué le preocupa?
+
+Empathy mapping de músico profesional:  
+
+<img src="images/UP1_EmpathyMap.png">
+
+Empathy mapping de administrador de sala de ensayo:  
+
+<img src="images/UP2_EmpathyMap.png">
 
 ### 2.3.5 As-is Scenario Mapping
 
@@ -1064,7 +585,6 @@ Resumen:
 | Feeling | Alivio por ya no tener que preocuparse por tareas repetitivas y posibles errores humanos. | Seguros y empoderados al ser capaces de gestionar la responsabilidad de los usuarios y tener registros que los respalden. | Tranquilos porque confían en que el sistema previene sanciones y protege a los clientes y a ellos por igual. | Confiados en el servicio que ofrece satisface a los clientes y ººque la plataforma que los representa es la adecuada. |
 
 ### 3.2 User Stories
->>>>>>> main
 
 * EPICS
 
@@ -1139,20 +659,25 @@ Las épicas definidas para el proyecto SoundNest están orientadas a satisfacer 
 | US49 | Notificación de comentarios recibidos | Como administrador, deseo ser notificado cuando un músico deja una calificación o comentario sobre mi sala. | **Escenario 01:** Given que un usuario califica mi sala, When publica su opinión, Then debería recibir una notificación. | EP11 |
 | US50 | Alertas de fallos en el sistema de reserva | Como administrador, deseo recibir alertas si hay errores en el sistema de reservas para solucionarlo rápidamente. | **Escenario 01:** Given que se detecta un fallo, When el sistema lo identifica, Then debería enviarle un aviso urgente. | EP11 |
 
-<<<<<<< develop
 
 ### 3.2.1 Requisitos Funcionales
 
 ### 3.2.2 Requisitos No Funcionales
 
-## 3.3. Impact Mapping.
-
-## 3.4. Product Backlog.
-=======
 ### 3.3 Impact Mapping
 
+Se realizaron los siguientes cuadros en la herramienta Miro, el link original puede ser observado aquí: [https://miro.com/app/board/uXjVI9xNoDo=/?share\_link\_id=933880647457](https://miro.com/app/board/uXjVI9xNoDo=/?share_link_id=933880647457) 
+
+**Impact Map Segmento 1:** Músicos principiantes y profesionales​
+
+<img src="images/ImpactMap1.png">
+
+**Impact Map Segmento 2:** Administradores de sala de ensayos
+
+<img src="images/ImpactMap2.png">
+
 ### 3.4 Product Backlog
->>>>>>> main
+
 
 Se utilizó la escala Fibonacci para la estimación de los Story Points. En total se tuvieron **180** Story Points.
 
@@ -1213,22 +738,176 @@ Se utilizó la escala Fibonacci para la estimación de los Story Points. En tota
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines.
-
 ### 4.1.1. General Style Guidelines.
 
+Nuestra startup, “BeatSoundLabs” (abreviando BSL), propone una solución tecnológica cuyo objetivo es digitalizar el alquiler y uso de salas de ensayo y estudios musicales, promoviendo un buen uso de estos espacios al igual que simplificando procesos para los músicos y administradores de estas áreas.  A través de nuestra plataforma digital “SoundNest”, los administradores podrán manejar sus reservas, horarios y pagos.  Por otro lado, los músicos serán capaces de reservar dichos espacios de manera automatizada y remota. Esta plataforma también tendrá funcionalidades para el monitoreo de niveles sonoros en tiempo real. Esto con el fin de mantener el cumplimiento de normativas acústicas de cada espacio y promover un entorno de respeto dentro de los estudios que formen parte de la plataforma. La solución está pensada para beneficiar tanto a pequeños espacios como a centros y estudios musicales profesionales.  Además, se contemplan proyecciones a largo plazo para integrar tecnologías IoT dedicadas a nuevas funcionalidades tales como la automatización de accesos,  iluminación y control ambiental de los recintos.
+
+Misión: Digitalizar y optimizar el acceso a salas de ensayo y estudios musicales mediante tecnología innovadora simplificando procesos de reserva, gestión y control acústico para músicos y administradores.
+
+Visión: Ser la solución tecnológica preferida por músicos y gestores de espacios musicales en Perú, siendo reconocidos por nuestra capacidad de innovación constante y por transformar la experiencia de uso de salas de ensayo y estudios de grabación.
+
+<img src="images/BSL_Logo.png">
+
+**Brand Name:**
+
+El nombre de la propuesta de solución es SoundNest, la unión de dos palabras en inglés que, si bien no tiene una traducción exacta, se puede interpretar como “Nido de sonido”. Este nombre surge de la idea de relacionar la solución propuesta con un espacio acogedor y creativo donde los músicos puedan desarrollar su arte sin preocupaciones. Teniendo ese contexto, la aplicación se centraliza en la creación de un sistema para automatizar las reservas de salas de música en el Perú, facilitando a los músicos encontrar y reservar espacios adecuados de manera eficiente y sin complicaciones. Entonces, el logo propuesto es el siguiente.
+
+<img src="images/SoundNestLogo.png">
+
+**Colores:**
+
+Colores primarios:
+
+<img src="images/Colors1.png"> <img src="images/Colors2.png">
+
+Colores secundarios:
+
+Colores de los wireframes:
+
+<img src="images/WireframesColors.png">
+
+
+Color de textos:
+
+<img src="images/TextColors.png">
+
 ### 4.1.2. Web Style Guidelines.
+
+
 
 ## 4.2. Information Architecture.
 
 ### 4.2.1. Organization Systems.
 
+Para SoundNest emplearemos distintos sistemas de organización pensados para maximizar la claridad, usabilidad y facilidad de acceso para nuestros usuarios. Estos sistemas serán empleados en los recursos visuales y en la categorización de contenido según el tipo y necesidad de interpretación rápida o detallada.
+
+---
+
+**Sistemas de organización visual**
+1. Jerárquica
+- Aplicado en la pantalla principal y panel de control.
+- Se resaltarán las acciones más importantes, como "Reservar Sala", con colores, tamaños y posiciones que tengan mayor jerarquía visual.
+- Hará que las tareas frecuentes se reconozcan y ubiquen con mayor rapidez.
+2. Secuencial
+- Aplicado en el flujo de reserva de salas, registro de usuarios y procesos de configuración.
+- La navegación se estructurará en pasos guiados con ayuda de un asistente de software que pueda guíar a los usuarios desde un inicio.
+- Reducirá posibles errores de configuración y le dará un mayor entendimiento a los usuarios sobre SoundNest.
+3. Matricial
+- Aplicado en la visualización de horarios, reportes de uso y niveles de ruido.
+- Se mostrarán estos datos en dashboards o tablas que faciliten la comparación.
+- Ayudará a los usuarios a tomar decisiones con mayor facilidad.
+
+**Sistemas de categorización de contenido**
+1. Topics
+- Aplicado en las secciones, documentación y configuraciones.
+- El contenido será agrupado por temas como "Cronograma", "Reservas", "Pagos", etc.
+- Facilitará la navegación al agrupar información u opciones de un mismo área general de interés.
+2. Cronológico
+- Aplicado en el historial de reservas y reporte de sesiones.
+- Los datos de estos rubros serán ordenados por órden cronológico, mostrando los más recientes primeros.
+- Permitirá a los usuarios revisar sucesos con un contexto temporal claro y natural.
+3. Según el grupo de usuario
+- Aplicado en los paneles de administración, notificaciones, accesos y configuraciones.
+- Se diferenciarán las vistas y opciones entre los distintos tipos de grupos de usuarios para mostrarles únicamente lo que es relevante para cada uno.
+- Reducirá la sobrecarga de información y otorgará una experiencia personalizada.
+4. Alfabético
+- Aplicado en las listas de usuarios, países y ciudades.
+- Se implementará orden alfabético en estas listas para facilitar la búsqueda en ellas-
+- Agilizará la navegación al buscar entidades específicas.
+
 ### 4.2.2. Labeling Systems.
+
+El sistema de etiquetas que usaremos para la plataforma tiene un enfoque de simplicidad y brevedad. Esto con el fin de facilitar la navegación a los usuarios, priorizando el uso de términos simples y familiares para la mayoría de músicos y gestores, evitando tecnisismos.
+
+Como reglas generales, las etiquetas se limitarán a un máximo de 2 o 3 palabras por cada una, se evitará el uso de jerga técnica, y responderan a acciones directas, estados claros categorías reconocibles.
+
+**Etiquetas principales por sección**
+
+1. Reservas y sesiones
+- `Reservar Sala`
+- `Disponibilidad`
+- `Mi Historial`
+- `Sesiones Activas`
+- `Nueva Reserva`
+
+2. Pagos y gestión
+- `Métodos de Pago`
+- `Mis Facturas`
+- `Resumen de Pagos`
+- `Configuración de Precios`
+
+3. Control de sonido
+- `Nivel de Ruido`
+- `Límite de Decibeles`
+- `Alerta Sonora`
+- `Historial de Ruido`
+
+4. Administración
+- `Usuarios`
+- `Salas`
+- `Reportes`
+- `Panel Admin`
+- `Configuraciones`
+
+5. Navegación general
+- `Inicio`
+- `Mi Perfil`
+- `Soporte`
+- `Cerrar Sesión`
+
+**Asociaciones y agrupaciones**
+- Las etiquetas serán agrupadas en módulos que serán accesibles fácilmente mediante las herramientas de navegación.
+- Las acciones estarán asociados a sus contextos inmediatos, evitando que esten como opciones aisladas.
+- Las alertas y mensajes del sistema tendrán un formato informativo y directo en el lenguaje utilizado en sus etiquetas.
+
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+Para mejorar la visibilidad de nuestra plataforma en los motores de búsqueda es necesario definir metadatos clave en las páginas de la landing page y aplicación web. Estos datos deben comunicar claramente el propósito de cada uno, atraer al público objetivo y facilitar el descubrimiento en buscadores.
+
+Los metadatos que utilizaremos para cada página son los siguientes:
+
+1. Landing Page
+- Title: SoundNest | Reserva tu sala de ensayo
+- Description: Plataforma que interconecta músicos y estudios para un alquiler de salas de ensayo simple, digital y responsable.
+- Keywords: SoundNest, salas de ensayo, música, producción musical, reserva estudio, control de sonido, alquiler de estudios
+- Author: BeatSoundLabs
+
+2. Web application
+- Title: SoundNest | Panel de control
+- Description: Accede a tus reservas, monitorea salas, revisa historial de uso y controla niveles de decibeles en tiempo real..
+- Keywords: dashboard músicos, control de sala, sesiones musicales, historial de reservas, sonido controlado, plataforma estudio musical
+- Author: BeatSoundLabs
+
+3. Páginas adicionales internas (Template):
+- Title: SoundNest | Sección
+- Description: Descripción de las funcionalidades disponibles en la sección.
+
 ### 4.2.4. Searching Systems.
 
+Para los sistemas de búsqueda optaremos por implementar una seire de filtros específicos en lugar de un buscador tradicional. Esto ya que la información manejada por los usuarios ya se encontrará organizada modularmente y es mucho más eficiente estrechar la búsqueda con criterios claros y definidos.
+
+Algunos de los filtros que tendremos para los diversos contextos son los siguientes:
+
+- Reservas y sesiones: Filtros por fechas y estados.
+- Gestión de salas: Filtros por estado, ubicación y capacidad.
+- Historial de Ruido: Filtros por sala, fecha y nivel de decibeles.
+
+Los resultados de las búsquedas se mostrarán en listas o tablas que se actualicen en tiempo real al modificar los criterios.
+
+Este enfoque de filtros permitirá que los usuarios sean capaces de encontrar información de manera eficiente y sin necesidad de escribir o recordar especificaciones de lo que buscan.
+
 ### 4.2.5. Navigation Systems.
+
+El sistema de navegación diseñado para Soundnest guiará a los usuarios de manera rápida e intuitiva a través del landing page y la aplicación sin perder el contexto.
+
+Este sistema de navegación contará con las siguientes características:
+
+- Menú principal fijo: Será un menú lateral que estará presente en todas las vistas de la aplicación, y contará con botones que redirijan al usuario a secciones clave.
+- Flujo guiado: Implementaremos un flujo paso a paso, similar a un "wizard", para funcionalidades clave como realizar reservas, registrar centros de ensayo y configurar alertas de sonido.
+- Navegación contextual con botones Call to Action (CTA): Algunas funcionalidades tendran botones de acción directamente disponible desde vistas especificas que pertenezcan a su contexto. Por ejemplo, en la pantalla dónde se inspeccionan los detalles de una sala, habrán botones para ciertas acciones como "Reportar problema" y "Ver Historial de uso".
+
+Estas características aseguran que la navegación dentro de SoundNest sea clara, eficiente y adaptable a las distintas necesidades de los usuarios.
 
 ## 4.3. Landing Page UI Design.
 
@@ -1266,23 +945,158 @@ Se utilizó la escala Fibonacci para la estimación de los Story Points. En tota
 
 ### 4.8.1. Database Diagram.
 
+<img src="images/database_erd.png"/>
+
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management.
-
 ## 5.1.1. Software Development Environment Configuration.
+
+Se detallan a continuación las herramientas de software utilizadas para nuestro proyecto.
+
+* Gestión de Proyectos
+
+- **WhatsApp**: [https://www.whatsapp.com](https://www.whatsapp.com)   
+  WhatsApp fue el medio principal de comunicación interna, utilizado para organizar tareas, intercambiar ideas y ofrecer soporte entre los integrantes durante todo el desarrollo del proyecto.
+
+* Diseño UX/UI del Producto
+
+- **Miro:** [https://miro.com/es/](https://miro.com/es/)   
+  Miro se utilizó para construir el Lean UX Canvas y el mapeo del escenario futuro (To-Be), lo cual facilitó la visualización de los elementos clave del enfoque centrado en el usuario.  
+    
+- **Uxpressia:** [https://uxpressia.com/](https://uxpressia.com/)   
+  A través de esta herramienta se diseñaron las User Personas, los Mapas de Empatía y los Journey Maps, lo que permitió obtener una comprensión más profunda de las necesidades y comportamientos de los usuarios.  
+    
+- **Figma:** [https://www.figma.com/](https://www.figma.com/)   
+  Figma se convirtió en la herramienta esencial para diseñar wireframes, wireflows, maquetas y prototipos tanto de la landing page como de las aplicaciones web.
+
+* Desarrollo de Software
+
+- **Landing Page**:  
+  La landing page del proyecto fue implementada utilizando tecnologías web fundamentales como HTML5, CSS y JavaScript.
+
+* Pruebas de Software
+
+- **Navegador**:  
+  Las pruebas tanto de la web como de la aplicación se realizaron utilizando las herramientas para desarrolladores que ofrecen navegadores como Google Chrome, Brave, Opera y Microsoft Edge.
+
+* Entornos de Desarrollo (IDE)
+
+- **IntelliJ IDEA**: [https://www.jetbrains.com/es-es/idea/](https://www.jetbrains.com/es-es/idea/)   
+  Para el desarrollo del frontend, se optó por IntelliJ IDEA como entorno de trabajo, destacando por sus funcionalidades avanzadas que optimizan el flujo de desarrollo.
+
+* Despliegue de Software
+
+- **GitHub Pages**: [https://pages.github.com/](https://pages.github.com/)   
+  GitHub Pages fue la plataforma empleada para el despliegue de la landing page, permitiendo la publicación directa desde el repositorio del proyecto.
+
+* Documentación de Software
+
+- **Google Docs**: [https://docs.google.com/document](https://docs.google.com/document)   
+  Google Docs sirvió como una herramienta clave para monitorear el avance de las tareas y compartir información entre los miembros del equipo de manera efectiva.  
+    
+- **GitHub**: [https://github.com/](https://github.com/)   
+  GitHub desempeñó un rol fundamental en la documentación del proyecto, facilitando el trabajo colaborativo y el seguimiento de los cambios mediante commits y la estrategia de ramas GitFlow.
 
 ### 5.1.2. Source Code Management.
 
+Con el fin de gestionar y estructurar las modificaciones realizadas durante el desarrollo, se creó un repositorio centralizado en GitHub que sirvió como núcleo del proyecto:
+
+* Organización
+
+- **Repositorio en GitHub**: [https://github.com/BeatSoundLabs-BSL](https://github.com/BeatSoundLabs-BSL)   
+    
+- **Landing Page**: [https://github.com/BeatSoundLabs-BSL/landingpage](https://github.com/BeatSoundLabs-BSL/landingpage) 
+
+* Ramas Principales
+
+- **Rama main**:  
+  Esta rama almacena la versión final del sistema, preparada para su despliegue en producción.  
+    
+- **Rama develop/**:  
+  Es la rama utilizada para integrar y probar nuevas características antes de que se incorporen oficialmente al producto final.
+
 ### 5.1.3. Source Code Style Guide & Conventions.
 
+En esta sección explicamos los principios de diseño que emplearemos al desarrollar nuestro Landing Page utilizando Angular, siguiendo buenas prácticas en el uso de TypeScript, HTML y SCSS, así como la estructura modular del framework.
+
+**Nomenclatura de archivos**
+
+- Todos los archivos usarán la codificación UTF-8.
+- Utilizaremos comillas dobles de forma consistente en plantillas y estilos.
+- El idioma del contenido será en español e inglés usando internacionalización, pero los nombres de clases, variables, componentes y servicios se escribirán en inglés.
+- Para nombres compuestos se usará el formato kebab-case en archivos (por ejemplo: home-page.component.ts) y camelCase en variables y funciones.
+- Los nombres de componentes seguirán la convención nombre-componente.component.ts/html/scss.
+
+**Estructura del código**
+
+- Usaremos la estructura por módulos de Angular (feature modules) para organizar el código en secciones reutilizables y mantenibles.
+- Cada componente contará con su propio archivo .ts, .html y .scss.
+- Los estilos se escribirán en SCSS y se mantendrán encapsulados a nivel de componente.
+- Utilizaremos selectores de clase para los estilos y evitaremos el uso de selectores globales innecesarios.
+
+**Organización de carpetas**
+
+- Todo el código fuente estará ubicado dentro de la carpeta src/app.
+- Contaremos con una carpeta assets/ para almacenar imágenes, íconos, multimedia y recursos estáticos.
+- Los recursos reutilizables como interfaces, servicios y utilidades estarán organizados en carpetas comunes (shared/, core/, entre otras).
+
+**Buenas prácticas**
+
+- Se aplicará indentación consistente en las plantillas HTML para representar claramente la jerarquía de los componentes y elementos DOM.
+- Los componentes estarán orientados a la responsabilidad única.
+- Los servicios estarán inyectados usando Angular Dependency Injection para mantener un bajo acoplamiento y alta cohesión.
+
 ### 5.1.4. Software Deployment Configuration.
+
+En esta sección se describe la configuración necesaria para desplegar la solución del Landing Page a partir del repositorio de código fuente alojado en GitHub, utilizando GitHub Pages como plataforma de publicación.
+
+**Repositorio de código**
+
+- El código fuente se alojará en un repositorio privado o público de GitHub bajo una organización o cuenta personal.
+- La rama principal del repositorio será main.
+
+**Configuración del proyecto**
+
+- El proyecto estará desarrollado en Angular.
+- Se realizará una compilación de producción utilizando el comando ng build --configuration=production --base-href /landingpage/.
+- El directorio de salida de la compilación (dist/) será el que se utilizará para desplegar en GitHub Pages.
+
+**Pasos para despliegue**
+
+1. Ejecutar npm install para instalar las dependencias del proyecto.
+2. Ejecutar ng build --configuration=production --base-href /landingpage/ para generar la versión optimizada del proyecto.
+3. Instalar la herramienta angular-cli-ghpages en caso de no tenerla: npm install -g angular-cli-ghpages.
+4. Ejecutar npx angular-cli-ghpages --dir=dist/nombre-proyecto para desplegar el contenido generado a la rama gh-pages de GitHub.
+
+**Publicación automática**
+
+- Opcionalmente, se podrá configurar una acción de GitHub Actions para automatizar el proceso de construcción y despliegue cuando haya cambios en la rama main.
+- El archivo de workflow se ubicará en .github/workflows/deploy.yml y especificará los pasos de instalación, build y publicación.
+
+**Consideraciones finales**
+
+- Se debe habilitar GitHub Pages en la configuración del repositorio apuntando a la rama gh-pages y la carpeta raíz (/).
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
 ### 5.2.1. Sprint 1
-
 #### 5.2.1.1. Sprint Planning 1.
+
+| Sprint \# | Sprint 1 |
+| :---: | :---: |
+| Sprint Planning Background |  |
+| Date | 22/04/25 |
+| Time | 7:20 horas |
+| Location | Virtual meeting \- Google Meetings |
+| Prepared By | TODOS |
+| Attendees | \-Hernández Uchuya María Patricia \-Millones Espinoza, Jesús Andrés \-Mondoñedo Rodriguez, Juan Diego Javier \-Julca Cruz, Renso Anthony \-Cacho Seminario, Diego Alonso |
+| Sprint n-1 Review Summary |  |
+| Sprint n-1 Retrospective Summary |  |
+| Sprint Goal & User Stories |  |
+| Sprint 1 Goal | Landing Page  |
+| Sprint 1 Velocity | Velocidad de 30 \- Primer Sprint |
+| Sum of Story Points | Sprint 1 \- \#\# Story Points |
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
@@ -1304,115 +1118,8 @@ Se utilizó la escala Fibonacci para la estimación de los Story Points. En tota
 
 # Bibliografía
 
-# Anexos
-=======
-### **Capítulo IV: Product Design** 
-
-4.1 Style Guidelines
-
-4.1.1 General Style Guidelines
-
-4.1.2 Web Style Guidelines
-
-4.2 Information Architecture
-
-4.2.1 Organization Systems
-
-4.2.2 Labeling Systems
-
-4.2.3 SEO Tags and Meta Tags 
-
-4.2.4 Searching Systems
-
-4.2.5 Navigation Systems
-
-4.3 Landing Page UI Design
-
-4.3.1 Landing Page Wireframe
-
-4.3.2 Landing Page Mock-up
-
-4.4 Web Applications UX/UI Design
-
-4.4.1 Web Applications Wireframes
-
-4.4.2 Web Applications Wireflow Diagrams
-
-4.4.3 Web Applications Mock-ups
-
-4.4.4 Web Applications User Flow Diagrams
-
-4.5 Web Applications Prototyping
-
-4.6 Domain-Driven Software Architecture
-
-4.6.1 Software Architecture Context Diagram
-
-4.6.2 Software Architecture Container Diagrams
-
-4.6.3 Software Architecture Components Diagrams
-
-4.7 Software Object-Oriented Design
-
-4.7.1 Class Diagrams
-
-4.7.2 Class Dictionary
-
-4.8 Database Design
-
-4.8.1 Database Diagram
-
-### **Capítulo V: Product Implementation, Validation & Deployment**
-
-5.1 Software Configuration Management
-
-5.1.1 Software Development Environment Configuration
-
-5.1.2 Source Code Management
-
-5.1.3 Source Code Style Guide & Conventions
-
-5.1.4 Software Deployment Configuration
-
-5.2 Landing Page, Services & Applications Implementation
-
-5.2.X Sprint n
-
-5.2.X.1 Sprint Planning n
-
-5.2.X.2 Aspect Leaders and Collaborators
-
-5.2.X.3 Sprint Backlog n
-
-5.2.X.4 Development Evidence for Sprint Review
-
-5.2.X.5 Execution Evidence for Sprint Review
-
-5.2.X.6 Services Documentation Evidence for Sprint Review
-
-5.2.X.7 Software Deployment Evidence for Sprint Review
-
-5.2.X.8 Team Collaboration Insights during Sprint
-
-5.3 Validation Interviews
-
-5.3.1 Diseño de Entrevistas
-
-5.3.2 Registro de Entrevistas
-
-5.3.3 Evaluaciones según heurísticas
-
-5.4 Video About-the-Product
-
-# 6\. Conclusiones y recomendaciones
-
-## 6.1 Video About-the-Team.
-# 8\. Bibliografía
-
 * Universidad Peruana de Ciencias Aplicadas. (2022). *Propuesta de estrategia de comunicación digital para impulsar la presencia de la música independiente en Perú*. Repositorio Académico UPC. [https://repositorioacademico.upc.edu.pe/bitstream/handle/10757/658759/Duplex\_UJ.pdf](https://repositorioacademico.upc.edu.pe/bitstream/handle/10757/658759/Duplex_UJ.pdf)  
 * El Mostrador. (2023, 11 de octubre). *La plataforma que busca acercar los espacios de ensayo y grabación para la industria creativa*. [https://www.elmostrador.cl/agenda-pais/agenda-innovacion/2023/10/11/la-plataforma-que-busca-acercar-los-espacios-de-ensayo-y-grabacion-para-la-industria-creativa/](https://www.elmostrador.cl/agenda-pais/agenda-innovacion/2023/10/11/la-plataforma-que-busca-acercar-los-espacios-de-ensayo-y-grabacion-para-la-industria-creativa/)  
 * Larrosa Music Group. (2023). *Un estudio revela el crecimiento y la consolidación del mercado de música independiente*. [https://www.larrosa.pro/post/un-estudio-revela-el-crecimiento-y-la-consolidaci%C3%B3n-del-mercado-de-m%C3%BAsica-independiente](https://www.larrosa.pro/post/un-estudio-revela-el-crecimiento-y-la-consolidaci%C3%B3n-del-mercado-de-m%C3%BAsica-independiente)  
-* 
 
-# 9\. Anexos
->>>>>>> main
+# Anexos
