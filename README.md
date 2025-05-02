@@ -734,7 +734,7 @@ Se utilizó la escala Fibonacci para la estimación de los Story Points. En tota
 | 49 | US49 | Notificación de comentarios recibidos | Como administrador, deseo ser notificado cuando un músico deja una calificación o comentario sobre mi sala. | 2 |
 | 50 | US50 | Alertas de fallos en el sistema de reserva | Como administrador, deseo recibir alertas si hay errores en el sistema de reservas para solucionarlo rápidamente. | 2 |
 
-<<<<<<< develop
+
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines.
@@ -746,15 +746,15 @@ Misión: Digitalizar y optimizar el acceso a salas de ensayo y estudios musicale
 
 Visión: Ser la solución tecnológica preferida por músicos y gestores de espacios musicales en Perú, siendo reconocidos por nuestra capacidad de innovación constante y por transformar la experiencia de uso de salas de ensayo y estudios de grabación.
 
-<img src="images/BSL_Logo.png">
+<img src="images/BSL_Logo.png" alt="startup logo" style="width:400px">
 
 **Brand Name:**
 
 El nombre de la propuesta de solución es SoundNest, la unión de dos palabras en inglés que, si bien no tiene una traducción exacta, se puede interpretar como “Nido de sonido”. Este nombre surge de la idea de relacionar la solución propuesta con un espacio acogedor y creativo donde los músicos puedan desarrollar su arte sin preocupaciones. Teniendo ese contexto, la aplicación se centraliza en la creación de un sistema para automatizar las reservas de salas de música en el Perú, facilitando a los músicos encontrar y reservar espacios adecuados de manera eficiente y sin complicaciones. Entonces, el logo propuesto es el siguiente.
 
-<img src="images/SoundNestLogo.png">
+<img src="images/SoundNestLogo.png" alt="service logo" style="width:600px">
 
-**Colores:**
+**Colores**
 
 Colores primarios:
 
@@ -762,18 +762,43 @@ Colores primarios:
 
 Colores secundarios:
 
+
+
 Colores de los wireframes:
 
-<img src="images/WireframesColors.png">
+<img src="images/wireframes1.png"> <img src="images/wireframes2.png">
+<img src="images/wireframes3.png"> <img src="images/wireframes4.png">
 
 
 Color de textos:
 
-<img src="images/TextColors.png">
+<img src="images/textscolor1.png"> <img src="images/textscolor2.png"> <img src="images/textscolor3.png">
 
 ### 4.1.2. Web Style Guidelines.
 
 
+### 4.1.3. Mobile Style Guidelines.
+
+El enfoque elegido para la vista mobile de la aplicación SoundNest es el mismo que el de la vista desktop browser. Este consiste ...
+
+Tarjetas:
+Se hace uso del componente "mat-card" de la colección de Angular Material para representar los avisos y las notificaciones importantes de la aplicación. Los avisos deberán de ser acompañados de una imagen representativa, la cual será asignada por defecto en el caso que el emisor decida no seleccionar una imagen. Las tarjetas incluyen un título, un subtítulo, un párrafo descriptivo y representarán un hipervínculo para la obtención de más información.
+
+Imágenes:
+En el diseño web se incluirán imágenes descriptivas y con un objetivo puntual. En primer lugar, la imagen de perfil del usuario y de la empresa en la cual está registrado dentro de la aplicación se encontrarán en todo momento en la parte superior izquierda, esto con el objetivo de ayudar al usuario a identicar la sesión en la que se encuentra y ayudarlo a navegar rápidamente a sus datos personales.
+
+Adicionalmente, se contará con imágenes representativas para cada una de las cuatro secciones que representan el núcleo principal de nuestra aplicación. Dado que las aplicaciones de escritorio se muestran en una alta resolución de pantalla, resulta de suma importancia que el usuario cuente con guías visuales fácilmente identificables para acceder a las secciones con el flujo funcional de la aplicación. Por esta misma razón no se hace uso de imágenes de fondo en la aplicación con excepción del log-in, la startup cree que el estilo del diseño web y móvil debe atenerse a la sobriedad en el entorno empresarial del segmento objetivo.
+
+Finalmente, como se explicó anteriormente, se hace uso de una imagen de fondo para la pantalla de inicio de la aplicación web. Debería transmitirse, desde la primera pantalla de la interfaz de la app, que el usuario se encuentra en el sitio web de Greenhouse. Esta imagen, además, tiene la posibilidad de ser cambiada en el caso de eventos y promociones cuyo objetivo sea promocionar al negocio.
+
+Botones:
+Se utilizan los botones según lo especificado en el apartado de General Style Guidelines. En la aplicación web, se suelen encontrar en la parte inferior de la sección principal de la pantalla. Estos botones permiten al usuario realizar acciones que añadan, eliminen y modifiquen los registros que se muestran en la vista del usuario en la parte superior. Por otro lado, se deben mostrar botones de confirmación para las acciones que creen nuevos procesos y que involucren al funcionamiento de toda la fábrica. Todos los botones cuentan con un estilo distintivo y un alto contraste con los colores del resto de la aplicación. Se utiliza la teoría del color en los botones de color rojo para representar acciones que eliminen procesos o los den por finalizados.
+
+Tablas:
+Las tablas cuentan con los colores distintivos de la aplicación, verde y blanco, y cada fila representa una instancia de registro. Las tablas de registros son el elemento principal para mostrar los datos de la aplicación, por lo tanto, se utilizan como componente central y suelen ser el foco de las vistas en las cuales aparecen.
+
+Pantallas Emergentes:
+Las pantallas emergentes tienen el objetivo de confirmar acciones clave para el funcionamiento del negocio y con gran repercusión en el mismo. Los pop-ups cuentan con colores con un valor de matiz mayor que sus contrapartes pasteles del resto de la aplicación web. Además, su aparición oscurece el resto de la pantalla para generar un efecto de contraste. Este efecto busca transmitir la importancia de la resolución del asunto de la pantalla emergente antes de que el usuario continúe con la navegación en la app.
 
 ## 4.2. Information Architecture.
 
