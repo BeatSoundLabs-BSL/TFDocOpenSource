@@ -62,10 +62,8 @@ para cada integrante del equipo:
 
 | Integrantes     | Tareas Asignadas |
 |-----------------| ---------------- |
-| Maria Hernandez |                  |
 | Jesus Millones  | Lean UX Process. Problem Statement, Assumptions e Hypothesis statements. Lean UX Canvas. User Personas. Registro y análisis de entrevistas. |
 | Juan Mondoñedo  |                  |
-| Renso Julca     |                  |
 | Diego Cacho     | Entrevistas, Needfinding, User Journey Mapping, User Stories, Impact Mapping, Product Backlog, Software Configuration Management,  Software Development Environment Configuration, Source Code Management, Sprint Planning 1.|
 
 
@@ -77,11 +75,9 @@ de versiones.
 
 Los integrantes son:
 
-- Maria Hernandez
 - Jesus Millones - (JJSON-11110)
 - Juan Mondoñedo - (Jmondonedor)
-- Renso Julca - (rajc02)
-- Diego Cacho - (Memesitos)
+
 
 Se explican las ramas más prominentes:
 
@@ -100,8 +96,8 @@ Se explican las ramas más prominentes:
 
 | Criterio específico                                                | Acciones realizadas                                                                            | Conclusiones |
 |--------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Maria Hernandez** TB1: <br> **Jesus Millones** <br> TB1:El documento presentó las herramientas seleccionadas, su propósito y las convenciones usuales, con la finalidad de registrar el proceso de diseño y facilitar la comprensión de los pasos requeridos para crear la aplicación a personas sin experiencia en desarrollo de software. Además, se buscó familiarizarse con el uso del lenguaje Markdown para plasmar esta información en un archivo README.md dentro de GitHub. <br> **Juan Mondoñedo** <br> TB1: Está entrega permitió familiarizarme con el lenguaje Markdown y como emplearlo para redactar secciones como la de Arquitectuda de la información  <br> **Renso Julca** <br> TB1:<br> **Diego Cacho** <br> TB1: Para esta entrega participe en el segundo capítulo, entreviste a una persona por cada segmento objetivo para luego analizar los resultos y asi realizar el resto de los puntos.<br> |              |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Maria Hernandez** <br> TB1: <br> **Jesus Millones** <br> TB1: Se realizaron entrevistas a los grupos de usuarios previstos para obtener información clave sobre sus necesidades. Posteriormente, se presentó la propuesta de solución a los potenciales clientes del proyecto, orientando el diseño hacia una alternativa que satisface las expectativas y requerimientos identificados.<br> **Juan Mondoñedo** <br> TB1:Para esta entrega, realicé las secciones de As-Is y To-Be scenarios, toda la sección de arquitectura de la información y el diagrama de base de datos.<br> **Renso Julca** <br> TB1:<br> **Diego Cacho** TB1: Para esta entrega participe en puntos de cada capítulo por medio del documento de Google y la plataforma de GitHub, realice el análisis de los requisitos de los usuarios por medio de las User Stories, los Impact Maps, Journey maps, elementos del Capítulo cinco, entre otros.<br> |              |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Jesus Millones** <br> TB1:El documento presentó las herramientas seleccionadas, su propósito y las convenciones usuales, con la finalidad de registrar el proceso de diseño y facilitar la comprensión de los pasos requeridos para crear la aplicación a personas sin experiencia en desarrollo de software. Además, se buscó familiarizarse con el uso del lenguaje Markdown para plasmar esta información en un archivo README.md dentro de GitHub. <br> TP: Realicé commits tanto para la landing page como para la web application siguendo las convenciones para una comunicación escrita, además documento y realizo el deployment de la applicación de modo que los interesados puedan ver el avance del proyecto y tener un producto en desarrollo que demuestre nuestro avance durante el sprint. <br> **Juan Mondoñedo** <br> TB1: Está entrega permitió familiarizarme con el lenguaje Markdown y como emplearlo para redactar secciones como la de Arquitectuda de la información <br> TP: |              |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Jesus Millones** <br> TB1: Se realizaron entrevistas a los grupos de usuarios previstos para obtener información clave sobre sus necesidades. Posteriormente, se presentó la propuesta de solución a los potenciales clientes del proyecto, orientando el diseño hacia una alternativa que satisface las expectativas y requerimientos identificados.<br> TP: Se organizaron reuniones con el equipo de trabajo para conocer los avances constantes durante el sprint, además de realizar un video de presentación con lo realizado durante el sprint 2. <br> **Juan Mondoñedo** <br> TB1:Para esta entrega, realicé las secciones de As-Is y To-Be scenarios, toda la sección de arquitectura de la información y el diagrama de base de datos.<br> TP: |              |
 
 
 
