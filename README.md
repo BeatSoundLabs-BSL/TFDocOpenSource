@@ -1141,6 +1141,14 @@ En esta sección se describe la configuración necesaria para desplegar la soluc
 
 ## 6.1 Conclusiones y recomendaciones
 
+- **Demanda insatisfecha de salas de ensayo musicales**: Existe una carencia significativa de espacios de ensayo musicales de calidad en Lima, especialmente en distritos con alta concentración de músicos emergentes como Jesús María, Lince, San Miguel y Magdalena. Esto representa una oportunidad clara para atender una necesidad real del ecosistema artístico local.
+- **Falta de digitalización en la oferta musical**: La mayoría de salas de ensayo actuales operan sin herramientas digitales integradas, dificultando la gestión de reservas, pagos y promociones. Esto limita su alcance y eficiencia operativa, generando fricción en la experiencia del usuario.
+- **Potencial de una plataforma centralizada**: El desarrollo de una solución digital que unifique la oferta de salas de ensayo —incluyendo agendamiento online, pagos, reseñas y visibilidad de servicios— puede posicionarse como un catalizador clave para dinamizar la escena musical independiente.
+- **Conexión con el ecosistema musical emergente**: La startup no solo busca cubrir una necesidad logística, sino también impulsar la profesionalización de artistas emergentes, conectándolos con espacios que les permitan prepararse para presentaciones y grabaciones de manera accesible y profesional.
+- **Apuesta por la experiencia del usuario**: La propuesta prioriza una experiencia intuitiva y funcional, tanto para los músicos como para los dueños de salas, mediante interfaces amigables y procesos optimizados, lo cual podría convertirse en una ventaja competitiva clave.
+- **Valorización y sostenibilidad del proyecto**: El modelo de negocio contempla una proyección de crecimiento escalable con múltiples fuentes de ingreso (reserva por hora, membresías, visibilidad premium para salas), lo cual asegura viabilidad financiera en el mediano plazo.
+- **Recomendaciones para la fase inicial**: Se recomienda validar el MVP en zonas estratégicas con alta concentración de usuarios objetivo, generar alianzas con salas de ensayo reconocidas y realizar campañas dirigidas que promuevan tanto la oferta como la demanda en la plataforma.
+
 # Bibliografía
 
 * Universidad Peruana de Ciencias Aplicadas. (2022). *Propuesta de estrategia de comunicación digital para impulsar la presencia de la música independiente en Perú*. Repositorio Académico UPC. [https://repositorioacademico.upc.edu.pe/bitstream/handle/10757/658759/Duplex\_UJ.pdf](https://repositorioacademico.upc.edu.pe/bitstream/handle/10757/658759/Duplex_UJ.pdf)  
