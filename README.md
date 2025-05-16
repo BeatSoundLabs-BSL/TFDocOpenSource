@@ -62,10 +62,8 @@ para cada integrante del equipo:
 
 | Integrantes     | Tareas Asignadas |
 |-----------------| ---------------- |
-| Maria Hernandez |                  |
 | Jesus Millones  | Lean UX Process. Problem Statement, Assumptions e Hypothesis statements. Lean UX Canvas. User Personas. Registro y análisis de entrevistas. |
 | Juan Mondoñedo  |                  |
-| Renso Julca     |                  |
 | Diego Cacho     | Entrevistas, Needfinding, User Journey Mapping, User Stories, Impact Mapping, Product Backlog, Software Configuration Management,  Software Development Environment Configuration, Source Code Management, Sprint Planning 1.|
 
 
@@ -77,11 +75,9 @@ de versiones.
 
 Los integrantes son:
 
-- Maria Hernandez
 - Jesus Millones - (JJSON-11110)
 - Juan Mondoñedo - (Jmondonedor)
-- Renso Julca - (rajc02)
-- Diego Cacho - (Memesitos)
+
 
 Se explican las ramas más prominentes:
 
@@ -100,8 +96,8 @@ Se explican las ramas más prominentes:
 
 | Criterio específico                                                | Acciones realizadas                                                                            | Conclusiones |
 |--------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Maria Hernandez** TB1: <br> **Jesus Millones** <br> TB1:El documento presentó las herramientas seleccionadas, su propósito y las convenciones usuales, con la finalidad de registrar el proceso de diseño y facilitar la comprensión de los pasos requeridos para crear la aplicación a personas sin experiencia en desarrollo de software. Además, se buscó familiarizarse con el uso del lenguaje Markdown para plasmar esta información en un archivo README.md dentro de GitHub. <br> **Juan Mondoñedo** <br> TB1: Está entrega permitió familiarizarme con el lenguaje Markdown y como emplearlo para redactar secciones como la de Arquitectuda de la información  <br> **Renso Julca** <br> TB1:<br> **Diego Cacho** <br> TB1: Para esta entrega participe en el segundo capítulo, entreviste a una persona por cada segmento objetivo para luego analizar los resultos y asi realizar el resto de los puntos.<br> |              |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Maria Hernandez** <br> TB1: <br> **Jesus Millones** <br> TB1: Se realizaron entrevistas a los grupos de usuarios previstos para obtener información clave sobre sus necesidades. Posteriormente, se presentó la propuesta de solución a los potenciales clientes del proyecto, orientando el diseño hacia una alternativa que satisface las expectativas y requerimientos identificados.<br> **Juan Mondoñedo** <br> TB1:Para esta entrega, realicé las secciones de As-Is y To-Be scenarios, toda la sección de arquitectura de la información y el diagrama de base de datos.<br> **Renso Julca** <br> TB1:<br> **Diego Cacho** TB1: Para esta entrega participe en puntos de cada capítulo por medio del documento de Google y la plataforma de GitHub, realice el análisis de los requisitos de los usuarios por medio de las User Stories, los Impact Maps, Journey maps, elementos del Capítulo cinco, entre otros.<br> |              |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Jesus Millones** <br> TB1:El documento presentó las herramientas seleccionadas, su propósito y las convenciones usuales, con la finalidad de registrar el proceso de diseño y facilitar la comprensión de los pasos requeridos para crear la aplicación a personas sin experiencia en desarrollo de software. Además, se buscó familiarizarse con el uso del lenguaje Markdown para plasmar esta información en un archivo README.md dentro de GitHub. <br> TP: Realicé commits tanto para la landing page como para la web application siguendo las convenciones para una comunicación escrita, además documento y realizo el deployment de la applicación de modo que los interesados puedan ver el avance del proyecto y tener un producto en desarrollo que demuestre nuestro avance durante el sprint. <br> **Juan Mondoñedo** <br> TB1: Está entrega permitió familiarizarme con el lenguaje Markdown y como emplearlo para redactar secciones como la de Arquitectuda de la información <br> TP: En esta entrega reparó los bugs de la landing page, al igual que terminó de implementar los features faltantes. De la misma forma, se encargo de documentar los commits realizados en el presente sprint, asi como su sprint planning correspondiente |              |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Jesus Millones** <br> TB1: Se realizaron entrevistas a los grupos de usuarios previstos para obtener información clave sobre sus necesidades. Posteriormente, se presentó la propuesta de solución a los potenciales clientes del proyecto, orientando el diseño hacia una alternativa que satisface las expectativas y requerimientos identificados.<br> TP: Se organizaron reuniones con el equipo de trabajo para conocer los avances constantes durante el sprint, además de realizar un video de presentación con lo realizado durante el sprint 2. <br> **Juan Mondoñedo** <br> TB1:Para esta entrega, realicé las secciones de As-Is y To-Be scenarios, toda la sección de arquitectura de la información y el diagrama de base de datos.<br> TP: Organicé diversas reuniones con los integrantes del equipo para avanzar de manera conjunta el proyecto, apoyarnos para implementar una funcionalidad en particular y para anunciar las metas a cumplir y los objetivos logrados. Considero que mantener una comunicación activa con los integrantes del grupo fue beneficioso para distribuir de manera inteligente las actividades. |              |
 
 
 
@@ -734,7 +730,7 @@ Se utilizó la escala Fibonacci para la estimación de los Story Points. En tota
 | 49 | US49 | Notificación de comentarios recibidos | Como administrador, deseo ser notificado cuando un músico deja una calificación o comentario sobre mi sala. | 2 |
 | 50 | US50 | Alertas de fallos en el sistema de reserva | Como administrador, deseo recibir alertas si hay errores en el sistema de reservas para solucionarlo rápidamente. | 2 |
 
-<<<<<<< develop
+
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines.
@@ -746,15 +742,15 @@ Misión: Digitalizar y optimizar el acceso a salas de ensayo y estudios musicale
 
 Visión: Ser la solución tecnológica preferida por músicos y gestores de espacios musicales en Perú, siendo reconocidos por nuestra capacidad de innovación constante y por transformar la experiencia de uso de salas de ensayo y estudios de grabación.
 
-<img src="images/BSL_Logo.png">
+<img src="images/BSL_Logo.png" alt="startup logo" style="width:400px">
 
 **Brand Name:**
 
 El nombre de la propuesta de solución es SoundNest, la unión de dos palabras en inglés que, si bien no tiene una traducción exacta, se puede interpretar como “Nido de sonido”. Este nombre surge de la idea de relacionar la solución propuesta con un espacio acogedor y creativo donde los músicos puedan desarrollar su arte sin preocupaciones. Teniendo ese contexto, la aplicación se centraliza en la creación de un sistema para automatizar las reservas de salas de música en el Perú, facilitando a los músicos encontrar y reservar espacios adecuados de manera eficiente y sin complicaciones. Entonces, el logo propuesto es el siguiente.
 
-<img src="images/SoundNestLogo.png">
+<img src="images/SoundNestLogo.png" alt="service logo" style="width:600px">
 
-**Colores:**
+**Colores**
 
 Colores primarios:
 
@@ -762,18 +758,43 @@ Colores primarios:
 
 Colores secundarios:
 
+
+
 Colores de los wireframes:
 
-<img src="images/WireframesColors.png">
+<img src="images/wireframes1.png"> <img src="images/wireframes2.png">
+<img src="images/wireframes3.png"> <img src="images/wireframes4.png">
 
 
 Color de textos:
 
-<img src="images/TextColors.png">
+<img src="images/textscolor1.png"> <img src="images/textscolor2.png"> <img src="images/textscolor3.png">
 
 ### 4.1.2. Web Style Guidelines.
 
 
+### 4.1.3. Mobile Style Guidelines.
+
+El enfoque elegido para la vista mobile de la aplicación SoundNest es el mismo que el de la vista desktop browser. Este consiste ...
+
+Tarjetas:
+Se hace uso del componente "mat-card" de la colección de Angular Material para representar los avisos y las notificaciones importantes de la aplicación. Los avisos deberán de ser acompañados de una imagen representativa, la cual será asignada por defecto en el caso que el emisor decida no seleccionar una imagen. Las tarjetas incluyen un título, un subtítulo, un párrafo descriptivo y representarán un hipervínculo para la obtención de más información.
+
+Imágenes:
+En el diseño web se incluirán imágenes descriptivas y con un objetivo puntual. En primer lugar, la imagen de perfil del usuario y de la empresa en la cual está registrado dentro de la aplicación se encontrarán en todo momento en la parte superior izquierda, esto con el objetivo de ayudar al usuario a identicar la sesión en la que se encuentra y ayudarlo a navegar rápidamente a sus datos personales.
+
+Adicionalmente, se contará con imágenes representativas para cada una de las cuatro secciones que representan el núcleo principal de nuestra aplicación. Dado que las aplicaciones de escritorio se muestran en una alta resolución de pantalla, resulta de suma importancia que el usuario cuente con guías visuales fácilmente identificables para acceder a las secciones con el flujo funcional de la aplicación. Por esta misma razón no se hace uso de imágenes de fondo en la aplicación con excepción del log-in, la startup cree que el estilo del diseño web y móvil debe atenerse a la sobriedad en el entorno empresarial del segmento objetivo.
+
+Finalmente, como se explicó anteriormente, se hace uso de una imagen de fondo para la pantalla de inicio de la aplicación web. Debería transmitirse, desde la primera pantalla de la interfaz de la app, que el usuario se encuentra en el sitio web de Greenhouse. Esta imagen, además, tiene la posibilidad de ser cambiada en el caso de eventos y promociones cuyo objetivo sea promocionar al negocio.
+
+Botones:
+Se utilizan los botones según lo especificado en el apartado de General Style Guidelines. En la aplicación web, se suelen encontrar en la parte inferior de la sección principal de la pantalla. Estos botones permiten al usuario realizar acciones que añadan, eliminen y modifiquen los registros que se muestran en la vista del usuario en la parte superior. Por otro lado, se deben mostrar botones de confirmación para las acciones que creen nuevos procesos y que involucren al funcionamiento de toda la fábrica. Todos los botones cuentan con un estilo distintivo y un alto contraste con los colores del resto de la aplicación. Se utiliza la teoría del color en los botones de color rojo para representar acciones que eliminen procesos o los den por finalizados.
+
+Tablas:
+Las tablas cuentan con los colores distintivos de la aplicación, verde y blanco, y cada fila representa una instancia de registro. Las tablas de registros son el elemento principal para mostrar los datos de la aplicación, por lo tanto, se utilizan como componente central y suelen ser el foco de las vistas en las cuales aparecen.
+
+Pantallas Emergentes:
+Las pantallas emergentes tienen el objetivo de confirmar acciones clave para el funcionamiento del negocio y con gran repercusión en el mismo. Los pop-ups cuentan con colores con un valor de matiz mayor que sus contrapartes pasteles del resto de la aplicación web. Además, su aparición oscurece el resto de la pantalla para generar un efecto de contraste. Este efecto busca transmitir la importancia de la resolución del asunto de la pantalla emergente antes de que el usuario continúe con la navegación en la app.
 
 ## 4.2. Information Architecture.
 
@@ -1115,6 +1136,14 @@ En esta sección se describe la configuración necesaria para desplegar la soluc
 # Conclusiones
 
 ## 6.1 Conclusiones y recomendaciones
+
+- **Demanda insatisfecha de salas de ensayo musicales**: Existe una carencia significativa de espacios de ensayo musicales de calidad en Lima, especialmente en distritos con alta concentración de músicos emergentes como Jesús María, Lince, San Miguel y Magdalena. Esto representa una oportunidad clara para atender una necesidad real del ecosistema artístico local.
+- **Falta de digitalización en la oferta musical**: La mayoría de salas de ensayo actuales operan sin herramientas digitales integradas, dificultando la gestión de reservas, pagos y promociones. Esto limita su alcance y eficiencia operativa, generando fricción en la experiencia del usuario.
+- **Potencial de una plataforma centralizada**: El desarrollo de una solución digital que unifique la oferta de salas de ensayo —incluyendo agendamiento online, pagos, reseñas y visibilidad de servicios— puede posicionarse como un catalizador clave para dinamizar la escena musical independiente.
+- **Conexión con el ecosistema musical emergente**: La startup no solo busca cubrir una necesidad logística, sino también impulsar la profesionalización de artistas emergentes, conectándolos con espacios que les permitan prepararse para presentaciones y grabaciones de manera accesible y profesional.
+- **Apuesta por la experiencia del usuario**: La propuesta prioriza una experiencia intuitiva y funcional, tanto para los músicos como para los dueños de salas, mediante interfaces amigables y procesos optimizados, lo cual podría convertirse en una ventaja competitiva clave.
+- **Valorización y sostenibilidad del proyecto**: El modelo de negocio contempla una proyección de crecimiento escalable con múltiples fuentes de ingreso (reserva por hora, membresías, visibilidad premium para salas), lo cual asegura viabilidad financiera en el mediano plazo.
+- **Recomendaciones para la fase inicial**: Se recomienda validar el MVP en zonas estratégicas con alta concentración de usuarios objetivo, generar alianzas con salas de ensayo reconocidas y realizar campañas dirigidas que promuevan tanto la oferta como la demanda en la plataforma.
 
 # Bibliografía
 
